@@ -1,182 +1,179 @@
-<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ -->
-<html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr">
-
-<head>
+<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ --><html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr"><head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        gtag('config', 'G-VWRCJYQDF2');
-    </script>
+  gtag('config', 'G-VWRCJYQDF2');
+</script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script>
-        if (navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
-            var href = document.location.href;
-            if (!href.match(/[?&]nowprocket/)) {
-                if (href.indexOf("?") == -1) {
-                    if (href.indexOf("#") == -1) {
-                        document.location.href = href + "?nowprocket=1"
-                    } else {
-                        document.location.href = href.replace("#", "?nowprocket=1#")
-                    }
-                } else {
-                    if (href.indexOf("#") == -1) {
-                        document.location.href = href + "&nowprocket=1"
-                    } else {
-                        document.location.href = href.replace("#", "&nowprocket=1#")
-                    }
-                }
-            }
-        }
-    </script>
+        if(navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
+				var href = document.location.href;
+				if(!href.match(/[?&]nowprocket/)) {
+					if(href.indexOf("?") == -1) {
+						if(href.indexOf("#") == -1) {
+							document.location.href = href + "?nowprocket=1"
+						} else {
+							document.location.href = href.replace("#", "?nowprocket=1#")
+						}
+					} else {
+						if(href.indexOf("#") == -1) {
+							document.location.href = href + "&nowprocket=1"
+						} else {
+							document.location.href = href.replace("#", "&nowprocket=1#")
+						}
+					}
+				}
+			}
+		</script>
     <script>
         class RocketLazyLoadScripts {
-            constructor(e) {
-                this.triggerEvents = e, this.eventOptions = {
-                    passive: !0
-                }, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = {
-                    normal: [],
-                    async: [],
-                    defer: []
-                }, this.allJQueries = []
-            }
-            _addUserInteractionListener(e) {
-                this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions)))
-            }
-            _removeUserInteractionListener(e) {
-                this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions)))
-            }
-            triggerListener() {
-                this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow()
-            }
-            async _loadEverythingNow() {
-                this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded"))
-            }
-            _registerAllDelayedScripts() {
-                document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e => {
-                    e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-rocket-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e)
-                }))
-            }
-            async _transformScript(e) {
-                return await this._requestAnimFrame(), new Promise((t => {
-                    const n = document.createElement("script");
-                    let r;
-                    [...e.attributes].forEach((e => {
-                        let t = e.nodeName;
-                        "type" !== t && ("data-rocket-type" === t && (t = "type", r = e.nodeValue), n.setAttribute(t, e.nodeValue))
-                    })), e.hasAttribute("src") ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e)
-                }))
-            }
-            async _loadScriptsFromList(e) {
-                const t = e.shift();
-                return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve()
-            }
-            _preloadAllScripts() {
-                var e = document.createDocumentFragment();
-                [...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => {
-                    const n = t.getAttribute("src");
-                    if (n) {
-                        const t = document.createElement("link");
-                        t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t)
-                    }
-                })), document.head.appendChild(e)
-            }
-            _delayEventListeners() {
-                let e = {};
+				constructor(e) {
+					this.triggerEvents = e, this.eventOptions = {
+						passive: !0
+					}, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = {
+						normal: [],
+						async: [],
+						defer: []
+					}, this.allJQueries = []
+				}
+				_addUserInteractionListener(e) {
+					this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions)))
+				}
+				_removeUserInteractionListener(e) {
+					this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions)))
+				}
+				triggerListener() {
+					this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow()
+				}
+				async _loadEverythingNow() {
+					this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded"))
+				}
+				_registerAllDelayedScripts() {
+					document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e => {
+						e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-rocket-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e)
+					}))
+				}
+				async _transformScript(e) {
+					return await this._requestAnimFrame(), new Promise((t => {
+						const n = document.createElement("script");
+						let r;
+						[...e.attributes].forEach((e => {
+							let t = e.nodeName;
+							"type" !== t && ("data-rocket-type" === t && (t = "type", r = e.nodeValue), n.setAttribute(t, e.nodeValue))
+						})), e.hasAttribute("src") ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e)
+					}))
+				}
+				async _loadScriptsFromList(e) {
+					const t = e.shift();
+					return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve()
+				}
+				_preloadAllScripts() {
+					var e = document.createDocumentFragment();
+					[...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => {
+						const n = t.getAttribute("src");
+						if(n) {
+							const t = document.createElement("link");
+							t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t)
+						}
+					})), document.head.appendChild(e)
+				}
+				_delayEventListeners() {
+					let e = {};
 
-                function t(t, n) {
-                    ! function (t) {
-                        function n(n) {
-                            return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
-                        }
-                        e[t] || (e[t] = {
-                            originalFunctions: {
-                                add: t.addEventListener,
-                                remove: t.removeEventListener
-                            },
-                            eventsToRewrite: []
-                        }, t.addEventListener = function () {
-                            arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
-                        }, t.removeEventListener = function () {
-                            arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
-                        })
-                    }(t), e[t].eventsToRewrite.push(n)
-                }
+					function t(t, n) {
+						! function(t) {
+							function n(n) {
+								return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
+							}
+							e[t] || (e[t] = {
+								originalFunctions: {
+									add: t.addEventListener,
+									remove: t.removeEventListener
+								},
+								eventsToRewrite: []
+							}, t.addEventListener = function() {
+								arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
+							}, t.removeEventListener = function() {
+								arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
+							})
+						}(t), e[t].eventsToRewrite.push(n)
+					}
 
-                function n(e, t) {
-                    let n = e[t];
-                    Object.defineProperty(e, t, {
-                        get: () => n || function () { },
-                        set(r) {
-                            e["rocket" + t] = n = r
-                        }
-                    })
-                }
-                t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow")
-            }
-            _delayJQueryReady(e) {
-                let t = window.jQuery;
-                Object.defineProperty(window, "jQuery", {
-                    get: () => t,
-                    set(n) {
-                        if (n && n.fn && !e.allJQueries.includes(n)) {
-                            n.fn.ready = n.fn.init.prototype.ready = function (t) {
-                                e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
-                            };
-                            const t = n.fn.on;
-                            n.fn.on = n.fn.init.prototype.on = function () {
-                                if (this[0] === window) {
-                                    function e(e) {
-                                        return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
-                                    }
-                                    "string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => {
-                                        delete Object.assign(arguments[0], {
-                                            [e(t)]: arguments[0][t]
-                                        })[t]
-                                    }))
-                                }
-                                return t.apply(this, arguments), this
-                            }, e.allJQueries.push(n)
-                        }
-                        t = n
-                    }
-                })
-            }
-            async _triggerDOMContentLoaded() {
-                this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange()
-            }
-            async _triggerWindowLoad() {
-                await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow()
-            }
-            _handleDocumentWrite() {
-                const e = new Map;
-                document.write = document.writeln = function (t) {
-                    const n = document.currentScript,
-                        r = document.createRange(),
-                        i = n.parentElement;
-                    let o = e.get(n);
-                    void 0 === o && (o = n.nextSibling, e.set(n, o));
-                    const a = document.createDocumentFragment();
-                    r.setStart(a, 0), a.appendChild(r.createContextualFragment(t)), i.insertBefore(a, o)
-                }
-            }
-            async _requestAnimFrame() {
-                return new Promise((e => requestAnimationFrame(e)))
-            }
-            static run() {
-                const e = new RocketLazyLoadScripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
-                e._addUserInteractionListener(e)
-            }
-        }
-        RocketLazyLoadScripts.run();
-    </script>
+					function n(e, t) {
+						let n = e[t];
+						Object.defineProperty(e, t, {
+							get: () => n || function() {},
+							set(r) {
+								e["rocket" + t] = n = r
+							}
+						})
+					}
+					t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow")
+				}
+				_delayJQueryReady(e) {
+					let t = window.jQuery;
+					Object.defineProperty(window, "jQuery", {
+						get: () => t,
+						set(n) {
+							if(n && n.fn && !e.allJQueries.includes(n)) {
+								n.fn.ready = n.fn.init.prototype.ready = function(t) {
+									e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
+								};
+								const t = n.fn.on;
+								n.fn.on = n.fn.init.prototype.on = function() {
+									if(this[0] === window) {
+										function e(e) {
+											return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
+										}
+										"string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => {
+											delete Object.assign(arguments[0], {
+												[e(t)]: arguments[0][t]
+											})[t]
+										}))
+									}
+									return t.apply(this, arguments), this
+								}, e.allJQueries.push(n)
+							}
+							t = n
+						}
+					})
+				}
+				async _triggerDOMContentLoaded() {
+					this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange()
+				}
+				async _triggerWindowLoad() {
+					await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow()
+				}
+				_handleDocumentWrite() {
+					const e = new Map;
+					document.write = document.writeln = function(t) {
+						const n = document.currentScript,
+							r = document.createRange(),
+							i = n.parentElement;
+						let o = e.get(n);
+						void 0 === o && (o = n.nextSibling, e.set(n, o));
+						const a = document.createDocumentFragment();
+						r.setStart(a, 0), a.appendChild(r.createContextualFragment(t)), i.insertBefore(a, o)
+					}
+				}
+				async _requestAnimFrame() {
+					return new Promise((e => requestAnimationFrame(e)))
+				}
+				static run() {
+					const e = new RocketLazyLoadScripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
+					e._addUserInteractionListener(e)
+				}
+			}
+			RocketLazyLoadScripts.run();
+		</script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>Electro-hydraulic CNC Press Brake|CNC Press Brake - RUCHENG</title>
+    <title>T3 Fully Enclosed Laser Cutting Machine - </title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -1796,8 +1793,7 @@
             unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
         }
     </style>
-    <meta name="description"
-        content="CNC press brake, precise control units, rigid body frame, perfect design, high efficiency, multiple tool usage solutions">
+    <meta name="description" content="">
     <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 
     <style>
@@ -4511,12 +4507,9 @@
             display: flex
         }
     </style>
-    <link data-minify="1" rel="stylesheet" href="/product/astra-local-fonts.css" data-rocket-async="style" as="style"
-        media="all">
-    <link data-minify="1" rel="stylesheet" href="/product/trp-language-switcher.css" data-rocket-async="style"
-        as="style" media="all">
-    <link data-minify="1" rel="stylesheet" href="/product/astra-addon-61b1b636505ab3-92433527.css"
-        data-rocket-async="style" as="style" media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/astra-local-fonts.css" data-rocket-async="style" as="style" media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/trp-language-switcher.css" data-rocket-async="style" as="style" media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/astra-addon-61b1b636505ab3-92433527.css" data-rocket-async="style" as="style" media="all">
     <style id="astra-addon-css-inline-css">
         #content:before {
             content: "921";
@@ -5473,8 +5466,7 @@
             color: #ffffff;
         }
     </style>
-    <link data-minify="1" rel="stylesheet" href="/product/elementor-icons.min.css" data-rocket-async="style" as="style"
-        media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/elementor-icons.min.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
         @font-face {
@@ -8209,12 +8201,9 @@
     <link rel="stylesheet" href="/product/v4-shims.min.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/style.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/fontawesome.min.css" data-rocket-async="style" as="style" media="all">
-    <link data-minify="1" rel="stylesheet" href="/product/regular.min.css" data-rocket-async="style" as="style"
-        media="all">
-    <link data-minify="1" rel="stylesheet" href="/product/solid.min.css" data-rocket-async="style" as="style"
-        media="all">
-    <link data-minify="1" rel="stylesheet" href="/product/brands.min.css" data-rocket-async="style" as="style"
-        media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/regular.min.css" data-rocket-async="style" as="style" media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/solid.min.css" data-rocket-async="style" as="style" media="all">
+    <link data-minify="1" rel="stylesheet" href="/product/brands.min.css" data-rocket-async="style" as="style" media="all">
 
     <script src="/product/jquery.min.js" id="jquery-core-js"></script>
     <script src="/product/jquery-migrate.min.js" id="jquery-migrate-js" defer=""></script>
@@ -8273,75 +8262,75 @@
     </noscript>
     <script>
         /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-        (function (w) {
-            "use strict";
-            if (!w.loadCSS) {
-                w.loadCSS = function () { }
-            }
-            var rp = loadCSS.relpreload = {};
-            rp.support = (function () {
-                var ret;
-                try {
-                    ret = w.document.createElement("link").relList.supports("preload")
-                } catch (e) {
-                    ret = !1
-                }
-                return function () {
-                    return ret
-                }
-            })();
-            rp.bindMediaToggle = function (link) {
-                var finalMedia = link.media || "all";
+			(function(w) {
+				"use strict";
+				if(!w.loadCSS) {
+					w.loadCSS = function() {}
+				}
+				var rp = loadCSS.relpreload = {};
+				rp.support = (function() {
+					var ret;
+					try {
+						ret = w.document.createElement("link").relList.supports("preload")
+					} catch(e) {
+						ret = !1
+					}
+					return function() {
+						return ret
+					}
+				})();
+				rp.bindMediaToggle = function(link) {
+					var finalMedia = link.media || "all";
 
-                function enableStylesheet() {
-                    link.media = finalMedia
-                }
-                if (link.addEventListener) {
-                    link.addEventListener("load", enableStylesheet)
-                } else if (link.attachEvent) {
-                    link.attachEvent("onload", enableStylesheet)
-                }
-                setTimeout(function () {
-                    link.rel = "stylesheet";
-                    link.media = "only x"
-                });
-                setTimeout(enableStylesheet, 3000)
-            };
-            rp.poly = function () {
-                if (rp.support()) {
-                    return
-                }
-                var links = w.document.getElementsByTagName("link");
-                for (var i = 0; i < links.length; i++) {
-                    var link = links[i];
-                    if (link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
-                        link.setAttribute("data-loadcss", !0);
-                        rp.bindMediaToggle(link)
-                    }
-                }
-            };
-            if (!rp.support()) {
-                rp.poly();
-                var run = w.setInterval(rp.poly, 500);
-                if (w.addEventListener) {
-                    w.addEventListener("load", function () {
-                        rp.poly();
-                        w.clearInterval(run)
-                    })
-                } else if (w.attachEvent) {
-                    w.attachEvent("onload", function () {
-                        rp.poly();
-                        w.clearInterval(run)
-                    })
-                }
-            }
-            if (typeof exports !== "undefined") {
-                exports.loadCSS = loadCSS
-            } else {
-                w.loadCSS = loadCSS
-            }
-        }(typeof global !== "undefined" ? global : this))
-    </script>
+					function enableStylesheet() {
+						link.media = finalMedia
+					}
+					if(link.addEventListener) {
+						link.addEventListener("load", enableStylesheet)
+					} else if(link.attachEvent) {
+						link.attachEvent("onload", enableStylesheet)
+					}
+					setTimeout(function() {
+						link.rel = "stylesheet";
+						link.media = "only x"
+					});
+					setTimeout(enableStylesheet, 3000)
+				};
+				rp.poly = function() {
+					if(rp.support()) {
+						return
+					}
+					var links = w.document.getElementsByTagName("link");
+					for(var i = 0; i < links.length; i++) {
+						var link = links[i];
+						if(link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
+							link.setAttribute("data-loadcss", !0);
+							rp.bindMediaToggle(link)
+						}
+					}
+				};
+				if(!rp.support()) {
+					rp.poly();
+					var run = w.setInterval(rp.poly, 500);
+					if(w.addEventListener) {
+						w.addEventListener("load", function() {
+							rp.poly();
+							w.clearInterval(run)
+						})
+					} else if(w.attachEvent) {
+						w.attachEvent("onload", function() {
+							rp.poly();
+							w.clearInterval(run)
+						})
+					}
+				}
+				if(typeof exports !== "undefined") {
+					exports.loadCSS = loadCSS
+				} else {
+					w.loadCSS = loadCSS
+				}
+			}(typeof global !== "undefined" ? global : this))
+		</script>
     <link href="/product/jquery.min.js" rel="preload" as="script">
     <link href="/product/jquery-migrate.min.js" rel="preload" as="script">
     <link href="/product/v4-shims.min.js" rel="preload" as="script">
@@ -8395,105 +8384,96 @@
         }
     </style>
     <!-- header footer -->
-    <link rel="stylesheet" id="elementor-post-6-css" href="/wp-content/uploads/elementor/css/post-6.css?ver=1639183943"
-        media="all">
-    <link rel="stylesheet" id="elementor-pro-css"
-        href="/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.3.6" media="all">
-    <link rel="stylesheet" id="elementor-post-98-css"
-        href="/wp-content/uploads/elementor/css/post-98.css?ver=1639183944" media="all">
-    <link rel="stylesheet" id="elementor-post-125-css"
-        href="/wp-content/uploads/elementor/css/post-125.css?ver=1639183944" media="all">
-    <link rel="stylesheet" id="elementor-post-183-css"
-        href="/wp-content/uploads/elementor/css/post-183.css?ver=1639184097" media="all">
-    <meta name="keywords" content="CNC Press Brake">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
-    <!-- twitter分享 -->
-    <meta property="twitter:url" content="/product_1_1.php">
-    <meta name="twitter:title" content="Electro-hydraulic CNC Press Brake|CNC Press Brake - RUCHENG">
-    <meta name="twitter:description"
-        content="CNC press brake, precise control units, rigid body frame, perfect design, high efficiency, multiple tool usage solutions">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="null">
+    <link rel="stylesheet" id="elementor-post-6-css" href="/wp-content/uploads/elementor/css/post-6.css?ver=1639183943" media="all">
+    <link rel="stylesheet" id="elementor-pro-css" href="/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.3.6" media="all">
+    <link rel="stylesheet" id="elementor-post-98-css" href="/wp-content/uploads/elementor/css/post-98.css?ver=1639183944" media="all">
+    <link rel="stylesheet" id="elementor-post-125-css" href="/wp-content/uploads/elementor/css/post-125.css?ver=1639183944" media="all">
+    <link rel="stylesheet" id="elementor-post-183-css" href="/wp-content/uploads/elementor/css/post-183.css?ver=1639184097" media="all">
+    <meta name="keywords" content="">
+<link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+        <!-- twitter分享 -->
+        <meta property="twitter:url" content="/product-fully_enclosed_fiber_laser_cutting_machine.php">
+        <meta name="twitter:title" content="">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="null">
 
-    <!-- facebook分享 -->
-    <meta property="og:url" content="/product_1_1.php">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Electro-hydraulic CNC Press Brake|CNC Press Brake - RUCHENG">
-    <meta property="og:description"
-        content="CNC press brake, precise control units, rigid body frame, perfect design, high efficiency, multiple tool usage solutions">
-    <meta property="og:image" content="null">
+        <!-- facebook分享 -->
+        <meta property="og:url" content="/product-fully_enclosed_fiber_laser_cutting_machine.php">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="">
+        <meta property="og:description" content="">
+        <meta property="og:image" content="null">
 
-    <script>
-        function shareFacebook() {
-            var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
-            _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
-            window.open(_shareUrl, '_blank');
+        <script>
+            function shareFacebook() {
+                var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
+                _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
+                window.open(_shareUrl, '_blank');
+            }
+            function shareTwitter() {
+                var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
+                _shareUrl += '&text=' + encodeURIComponent(''); 
+                _shareUrl += '&url=' + encodeURIComponent(location.href); 
+                window.open(_shareUrl, '_blank');
+            }
+            function sharePinterest() {
+                var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
+                _shareUrl += '&media=' + encodeURIComponent('null'); 
+                _shareUrl += '&description=' + encodeURIComponent(''); 
+                _shareUrl += '&url=' + encodeURIComponent(location.href); 
+                window.open(_shareUrl, '_blank');
+            }
+        </script>
+    
+            <meta charset="UTF-8">
+            <script>
+                var docCookies = {
+    getItem: function (sKey) {
+        return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+    },
+    setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+        if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+        var sExpires = "";
+        if (vEnd) {
+            switch (vEnd.constructor) {
+            case Number:
+                sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+                break;
+            case String:
+                sExpires = "; expires=" + vEnd;
+                break;
+            case Date:
+                sExpires = "; expires=" + vEnd.toUTCString();
+                break;
+            }
         }
-        function shareTwitter() {
-            var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-            _shareUrl += '&text=' + encodeURIComponent('Electro-hydraulic CNC Press Brake|CNC Press Brake - RUCHENG');
-            _shareUrl += '&url=' + encodeURIComponent(location.href);
-            window.open(_shareUrl, '_blank');
-        }
-        function sharePinterest() {
-            var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
-            _shareUrl += '&media=' + encodeURIComponent('null');
-            _shareUrl += '&description=' + encodeURIComponent('Electro-hydraulic CNC Press Brake|CNC Press Brake - RUCHENG');
-            _shareUrl += '&url=' + encodeURIComponent(location.href);
-            window.open(_shareUrl, '_blank');
-        }
-    </script>
-
-    <meta charset="UTF-8">
-    <script>
-        var docCookies = {
-            getItem: function (sKey) {
-                return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
-            },
-            setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
-                var sExpires = "";
-                if (vEnd) {
-                    switch (vEnd.constructor) {
-                        case Number:
-                            sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
-                            break;
-                        case String:
-                            sExpires = "; expires=" + vEnd;
-                            break;
-                        case Date:
-                            sExpires = "; expires=" + vEnd.toUTCString();
-                            break;
+        document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+        return true;
+        },
+        removeItem: function (sKey, sPath, sDomain) {
+        if (!sKey || !this.hasItem(sKey)) { return false; }
+        document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + ( sDomain ? "; domain=" + sDomain : "") + ( sPath ? "; path=" + sPath : "");
+        return true;
+    },
+    hasItem: function (sKey) {
+        return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+    },
+    keys: /* optional method: you can safely remove it! */ function () {
+        var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+        for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+        return aKeys;
+    }
+};
+                if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
+                    if (!docCookies.getItem('login_name')) {
+                        location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
                     }
                 }
-                document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
-                return true;
-            },
-            removeItem: function (sKey, sPath, sDomain) {
-                if (!sKey || !this.hasItem(sKey)) { return false; }
-                document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
-                return true;
-            },
-            hasItem: function (sKey) {
-                return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
-            },
-            keys: /* optional method: you can safely remove it! */ function () {
-                var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
-                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
-                return aKeys;
-            }
-        };
-        if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
-            if (!docCookies.getItem('login_name')) {
-                location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
-            }
-        }
-    </script>
-</head>
+            </script>
+        </head>
 
-<body itemtype="https://schema.org/WebPage" itemscope="itemscope"
-    class="page-template-default page page-id-3467 page-child parent-pageid-606 wp-custom-logo translatepress-en_US ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.5 ast-full-width-layout ast-sticky-main-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit-5426 elementor-page elementor-page-3467 astra-addon-3.6.3 e--ua-blink e--ua-chrome e--ua-webkit ast-mouse-clicked"
-    data-elementor-device-mode="desktop">
+<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-3467 page-child parent-pageid-606 wp-custom-logo translatepress-en_US ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.5 ast-full-width-layout ast-sticky-main-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit-5426 elementor-page elementor-page-3467 astra-addon-3.6.3 e--ua-blink e--ua-chrome e--ua-webkit ast-mouse-clicked" data-elementor-device-mode="desktop">
     <a class="skip-link screen-reader-text" href="" role="link" title="跳到内容">
         <font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">跳到内容</font>
@@ -8504,21 +8484,9 @@
 
 
 
-
-
-
-
-
-
-
+        
     <?php include 'header.php'; ?>
-
-
-
-
-
-
-
+    
 
 
 
@@ -8527,176 +8495,90 @@
             <div class="ast-container">
                 <div id="primary" class="content-area primary">
                     <main id="main" class="site-main">
-                        <article class="post-3467 page type-page status-publish ast-article-single" id="post-3467"
-                            itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+                        <article class="post-3467 page type-page status-publish ast-article-single" id="post-3467" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
                             <header class="entry-header ast-header-without-markup">
                             </header>
                             <div class="entry-content clear" itemprop="text">
-                                <div data-elementor-type="wp-page" data-elementor-id="3467"
-                                    class="elementor elementor-3467" data-elementor-settings="[]">
+                                <div data-elementor-type="wp-page" data-elementor-id="3467" class="elementor elementor-3467" data-elementor-settings="[]">
                                     <div class="elementor-section-wrap">
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-5f1adbd3 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                            data-id="5f1adbd3" data-element_type="section"
-                                            data-settings="{'background_background':'classic'}">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5f1adbd3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5f1adbd3" data-element_type="section" data-settings="{" background_background":"classic"}"="">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6395c5e"
-                                                    data-id="6395c5e" data-element_type="column"
-                                                    data-settings="{'background_background':'classic'}">
+                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6395c5e" data-id="6395c5e" data-element_type="column" data-settings="{" background_background":"classic"}"="">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn"
-                                                            data-id="671e90da" data-element_type="widget"
-                                                            data-settings="{}" data-widget_type="image.default">
+                                                        <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn" data-id="671e90da" data-element_type="widget" data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1647084461901/1.jpg"
-                                                                    class="attachment-full size-full entered lazyloaded"
-                                                                    alt=""
-                                                                    data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
-                                                                    data-ll-status="loaded"
-                                                                    sizes="(max-width: 1000px) 100vw, 1000px"
-                                                                    loading="lazy">
+                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1645959963326/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ef2d8e4"
-                                                    data-id="2ef2d8e4" data-element_type="column">
+                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ef2d8e4" data-id="2ef2d8e4" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-1a7f4b02 elementor-widget elementor-widget-heading animated fadeInDown"
-                                                            data-id="1a7f4b02" data-element_type="widget"
-                                                            data-settings="{}" data-widget_type="heading.default">
+                                                        <div class="elementor-element elementor-element-1a7f4b02 elementor-widget elementor-widget-heading animated fadeInDown" data-id="1a7f4b02" data-element_type="widget" data-settings="{}" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
+                                                                <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">
-                                                                            Electro-hydraulic CNC Press Brake</font>
+                                                                        <font style="vertical-align: inherit;">T3 series (fully enclosed) laser cutting machine</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-9683311 elementor-widget elementor-widget-text-editor animated fadeIn"
-                                                            data-id="9683311" data-element_type="widget"
-                                                            data-settings="{}" data-widget_type="text-editor.default">
+                                                        <div class="elementor-element elementor-element-9683311 elementor-widget elementor-widget-text-editor animated fadeIn" data-id="9683311" data-element_type="widget" data-settings="{}" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                 <p>
-                                                                    <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">With its
-                                                                            easy to use control units, rigid body frame,
-                                                                            perfect design, high efficiency, multiple
-                                                                            tool usage solutions, top level CE safety
-                                                                            standards and with its suitable price range,
-                                                                            we’re the world leader in its category.
-                                                                        </font>
-                                                                    </font>
-                                                                </p>
+																		<font style="vertical-align: inherit;">
+																			<font style="vertical-align: inherit;">The fiber laser cutting machine is equipped with exchange table and cover. The exchanging of the table only needs 15 seconds. The cutting and feeding can be done at the same time which effectively improve the production efficiency.</font>
+																		</font>
+																	</p>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-1af56af8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                                            data-id="1af56af8" data-element_type="widget"
-                                                            data-widget_type="icon-list.default">
+                                                        <div class="elementor-element elementor-element-1af56af8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1af56af8" data-element_type="widget" data-widget_type="icon-list.default">
                                                             <div class="elementor-widget-container">
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true"
-                                                                                class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                    New industrial design, top-level
-                                                                                    process production, pleasing
-                                                                                    appearance</font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">New industrial design, top-level process production, pleasing appearance</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true"
-                                                                                class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                    Heavy frame, solid and durable
-                                                                                </font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Heavy frame, solid and durable</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true"
-                                                                                class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                    Advanced production technology and
-                                                                                    strict quality control</font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Advanced production technology and strict quality control</font></font></span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-7a90bcaf elementor-widget elementor-widget-spacer"
-                                                            data-id="7a90bcaf" data-element_type="widget"
-                                                            data-widget_type="spacer.default">
+                                                        <div class="elementor-element elementor-element-7a90bcaf elementor-widget elementor-widget-spacer" data-id="7a90bcaf" data-element_type="widget" data-widget_type="spacer.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-spacer">
                                                                     <div class="elementor-spacer-inner"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-10a72533 uael-button-halign-left uael-mobile-button-halign-justify uael-tablet-button-halign-justify uael-button-stack-tablet elementor-widget elementor-widget-uael-buttons animated fadeIn"
-                                                            data-id="10a72533" data-element_type="widget"
-                                                            data-settings="{}" data-widget_type="uael-buttons.default">
+                                                        <div class="elementor-element elementor-element-10a72533 uael-button-halign-left uael-mobile-button-halign-justify uael-tablet-button-halign-justify uael-button-stack-tablet elementor-widget elementor-widget-uael-buttons animated fadeIn" data-id="10a72533" data-element_type="widget" data-settings="{}" data-widget_type="uael-buttons.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="uael-dual-button-outer-wrap">
                                                                     <div class="uael-dual-button-wrap">
-                                                                        <div
-                                                                            class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-f96ab12 uael-dual-button-0">
-                                                                            <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow"
-                                                                                href="/contact.php">
-                                                                                <span
-                                                                                    class="elementor-button-content-wrapper uael-buttons-icon-">
-                                                                                    <span
-                                                                                        class="elementor-align-icon- elementor-button-icon">
-                                                                                    </span>
-                                                                                    <span
-                                                                                        class="elementor-button-text elementor-inline-editing"
-                                                                                        data-elementor-setting-key="buttons.0.text"
-                                                                                        data-elementor-inline-editing-toolbar="none">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            <font
-                                                                                                style="vertical-align: inherit;">
-                                                                                                Request A Quote
-                                                                                            </font>
-                                                                                        </font>
-                                                                                    </span>
+                                                                        <div class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-f96ab12 uael-dual-button-0">
+                                                                            <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow" href="/contact.php">
+                                                                                <span class="elementor-button-content-wrapper uael-buttons-icon-">
+<span class="elementor-align-icon- elementor-button-icon">
+</span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
-                                                                        <div
-                                                                            class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-1a1fde5 uael-dual-button-1">
-                                                                            <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow"
-                                                                                href="javascript:;" target="_blank">
-                                                                                <span
-                                                                                    class="elementor-button-content-wrapper uael-buttons-icon- elementor-button-content-wrapper uael-buttons-icon-">
-                                                                                    <span
-                                                                                        class="elementor-align-icon- elementor-button-icon">
-                                                                                    </span>
-                                                                                    <span
-                                                                                        class="elementor-button-text elementor-inline-editing"
-                                                                                        data-elementor-setting-key="buttons.1.text"
-                                                                                        data-elementor-inline-editing-toolbar="none">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            <font
-                                                                                                style="vertical-align: inherit;">
-                                                                                                Watch Video</font>
-                                                                                        </font>
-                                                                                    </span>
+                                                                        <div class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-1a1fde5 uael-dual-button-1">
+                                                                            <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow" href="javascript:;" target="_blank">
+                                                                                <span class="elementor-button-content-wrapper uael-buttons-icon- elementor-button-content-wrapper uael-buttons-icon-">
+<span class="elementor-align-icon- elementor-button-icon">
+</span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.1.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Watch Video</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
@@ -8708,50 +8590,32 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-4f16b4d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="4f16b4d7" data-element_type="section">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-4f16b4d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f16b4d7" data-element_type="section">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fa17c4c"
-                                                    data-id="7fa17c4c" data-element_type="column">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fa17c4c" data-id="7fa17c4c" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-56d7df0 elementor-widget elementor-widget-uael-infobox"
-                                                            data-id="56d7df0" data-element_type="widget"
-                                                            data-widget_type="uael-infobox.default">
+                                                        <div class="elementor-element elementor-element-56d7df0 elementor-widget elementor-widget-uael-infobox" data-id="56d7df0" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                             <div class="elementor-widget-container">
-                                                                <div
-                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
                                                                     <div class="uael-infobox-left-right-wrap">
                                                                         <div class="uael-infobox-content">
                                                                             <div class="uael-infobox-title-wrap">
-                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title_prefix"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            CHECK OUT</font>
+                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
+                                                                                    <font style="vertical-align: inherit;">
+                                                                                        <font style="vertical-align: inherit;">CHECK OUT</font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
                                                                                     <div class="uael-separator"></div>
                                                                                 </div>
-                                                                                <h2 class="uael-infobox-title elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            Machine Details</font>
+                                                                                <h2 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                    <font style="vertical-align: inherit;">
+                                                                                        <font style="vertical-align: inherit;">Machine Details</font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
                                                                             <div class="uael-infobox-text-wrap">
-                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                    data-elementor-inline-editing-toolbar="advanced">
+                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -8759,24 +8623,14 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-2693c1de elementor-align-left elementor-tablet-align-center elementor-mobile-align-center elementor-widget elementor-widget-button"
-                                                            data-id="2693c1de" data-element_type="widget"
-                                                            data-widget_type="button.default">
+                                                        <div class="elementor-element elementor-element-2693c1de elementor-align-left elementor-tablet-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2693c1de" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper">
-                                                                    <a href="" target="_blank"
-                                                                        class="elementor-button-link elementor-button elementor-size-md"
-                                                                        role="button">
+                                                                    <a href="" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                         <span class="elementor-button-content-wrapper">
-                                                                            <span
-                                                                                class="elementor-button-icon elementor-align-icon-right">
-                                                                                <i aria-hidden="true"
-                                                                                    class="fas fa-angle-right"></i>
-                                                                            </span>
-                                                                            <span class="elementor-button-text">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                </font>
-                                                                            </span>
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
+                                                                        <span class="elementor-button-text"><font style="vertical-align: inherit;"></font></span>
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -8786,264 +8640,106 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-5ae8d687 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                            data-id="5ae8d687" data-element_type="section"
-                                            data-settings="{'background_background':'classic'}">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5ae8d687 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5ae8d687" data-element_type="section" data-settings="{" background_background":"classic"}"="">
                                             <div class="elementor-container elementor-column-gap-no">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f6b9023"
-                                                    data-id="1f6b9023" data-element_type="column">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f6b9023" data-id="1f6b9023" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-3830f795 elementor-section-content-middle elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                                            data-id="3830f795" data-element_type="section">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-3830f795 elementor-section-content-middle elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3830f795" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-500e438a"
-                                                                    data-id="500e438a" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-1fce0156 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                                                            data-id="1fce0156"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="divider.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-500e438a" data-id="500e438a" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-1fce0156 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1fce0156" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
-                                                                                    <span
-                                                                                        class="elementor-divider-separator">
-                                                                                    </span>
+                                                                                    <span class="elementor-divider-separator">
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ed93d92"
-                                                                    data-id="4ed93d92" data-element_type="column"
-                                                                    data-settings="{'background_background':'classic'}">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ed93d92" data-id="4ed93d92" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
-                                                                        <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn"
-                                                                            data-id="1e92adac"
-                                                                            data-element_type="widget" data-settings="{"
-                                                                            _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"=""
-                                                                            data-widget_type="uael-hotspot.default">
+                                                                        <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="1e92adac" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664860/2.jpg"
-                                                                                        class="attachment-large size-large entered lazyloaded"
-                                                                                        alt="" data-ll-status="loaded"
-                                                                                        loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="3"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <!-- <span class="uael-tooltip elementor-repeater-item-0ee1d19">
+                                                                                <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645959963388/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
+                                                                                        <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
 <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
-                                                                                        </span> -->
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            中心对齐表</font>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中心对齐表</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 个中的 1 个</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 个中的 1
-                                                                                                                个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-1e92adac-2"
-                                                                                                data-uaeltour="2"
-                                                                                                data-tooltip-content="#uael-tooltip-content-1e92adac-e024718">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-e024718">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            数控折弯机</font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 个中的 2
-                                                                                                                个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
                                                                                         </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0cb9342">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-1e92adac-3"
-                                                                                                data-uaeltour="3"
-                                                                                                data-tooltip-content="#uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
                                                                                         </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            机械手</font>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip elementor-repeater-item-e024718">
+<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-1e92adac-e024718">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-e024718"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数控折弯机</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 个中的 2 个</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 中的 3
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="3">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="3">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip elementor-repeater-item-0cb9342">
+<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-3" data-uaeltour="3" data-tooltip-content="#uael-tooltip-content-1e92adac-0cb9342">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0cb9342"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机械手</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 中的 3</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="3">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="3">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -9053,111 +8749,40 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-550a5915 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                                            data-id="550a5915" data-element_type="section">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-550a5915 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="550a5915" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-374dec96"
-                                                                    data-id="374dec96" data-element_type="column"
-                                                                    data-settings="{'background_background':'classic'}">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-374dec96" data-id="374dec96" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
-                                                                        <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn"
-                                                                            data-id="c75a9ae" data-element_type="widget"
-                                                                            data-settings="{"
-                                                                            _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"=""
-                                                                            data-widget_type="uael-hotspot.default">
+                                                                        <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="c75a9ae" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664910/3.jpg"
-                                                                                        class="attachment-large size-large entered lazyloaded"
-                                                                                        alt="" data-ll-status="loaded"
-                                                                                        loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="1"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-c75a9ae-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
+                                                                                <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645959963434/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
+                                                                                        <span class="uael-tooltip elementor-repeater-item-0ee1d19">
+<span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            工件</font>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-c75a9ae-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工件</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-c75a9ae" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                1 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-c75a9ae"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-c75a9ae"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-c75a9ae" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -9165,19 +8790,13 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8087382"
-                                                                    data-id="8087382" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-5a67c77e elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                                                            data-id="5a67c77e"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="divider.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8087382" data-id="8087382" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-5a67c77e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5a67c77e" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
-                                                                                    <span
-                                                                                        class="elementor-divider-separator">
-                                                                                    </span>
+                                                                                    <span class="elementor-divider-separator">
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9185,130 +8804,52 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-68bef096 elementor-section-content-middle elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                                            data-id="68bef096" data-element_type="section">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-68bef096 elementor-section-content-middle elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="68bef096" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-42216817"
-                                                                    data-id="42216817" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-3a8771ba elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                                                            data-id="3a8771ba"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="divider.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-42216817" data-id="42216817" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-3a8771ba elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3a8771ba" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
-                                                                                    <span
-                                                                                        class="elementor-divider-separator">
-                                                                                    </span>
+                                                                                    <span class="elementor-divider-separator">
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5006602a"
-                                                                    data-id="5006602a" data-element_type="column"
-                                                                    data-settings="{'background_background':'classic'}">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5006602a" data-id="5006602a" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
-                                                                        <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn"
-                                                                            data-id="14823dfa"
-                                                                            data-element_type="widget" data-settings="{"
-                                                                            _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"=""
-                                                                            data-widget_type="uael-hotspot.default">
+                                                                        <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="14823dfa" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683"
-                                                                                        class="attachment-large size-large entered lazyloaded"
-                                                                                        alt=""
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664950/4.jpg"
-                                                                                        data-ll-status="loaded"
-                                                                                        loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="1"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-14823dfa-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
+                                                                                <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
+                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1645959963469/4.jpg" data-ll-status="loaded" loading="lazy">
+                                                                                    <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
+                                                                                        <span class="uael-tooltip elementor-repeater-item-0ee1d19">
+<span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            夹爪</font>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-14823dfa-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">夹爪</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-14823dfa" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                1 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-14823dfa"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-14823dfa"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-14823dfa" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -9318,178 +8859,65 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-45bf93e5 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                                            data-id="45bf93e5" data-element_type="section">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-45bf93e5 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="45bf93e5" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4cf47740"
-                                                                    data-id="4cf47740" data-element_type="column"
-                                                                    data-settings="{'background_background':'classic'}">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4cf47740" data-id="4cf47740" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
-                                                                        <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn"
-                                                                            data-id="39d9dd0b"
-                                                                            data-element_type="widget" data-settings="{"
-                                                                            _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"=""
-                                                                            data-widget_type="uael-hotspot.default">
+                                                                        <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="39d9dd0b" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943428954/5.jpg"
-                                                                                        class="attachment-large size-large entered lazyloaded"
-                                                                                        alt="" data-ll-status="loaded"
-                                                                                        loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="2"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-39d9dd0b-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
+                                                                                <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645959963509/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
+                                                                                        <span class="uael-tooltip elementor-repeater-item-0ee1d19">
+<span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            电器</font>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电器</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                2 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-39d9dd0b"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-39d9dd0b"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-39d9dd0b-2"
-                                                                                                data-uaeltour="2"
-                                                                                                data-tooltip-content="#uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            控制器</font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
                                                                                                     </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                2 的 2
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-39d9dd0b"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-39d9dd0b"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip elementor-repeater-item-e024718">
+<span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-39d9dd0b-e024718">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+                                                                                        </span>
+                                                                                        <span class="uael-tooltip-container">
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-e024718"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制器</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 的 2</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -9497,19 +8925,13 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b144603"
-                                                                    data-id="1b144603" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-49bdb850 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                                                            data-id="49bdb850"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="divider.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b144603" data-id="1b144603" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-49bdb850 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="49bdb850" data-element_type="widget" data-widget_type="divider.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
-                                                                                    <span
-                                                                                        class="elementor-divider-separator">
-                                                                                    </span>
+                                                                                    <span class="elementor-divider-separator">
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9521,57 +8943,36 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-696e47b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="696e47b3" data-element_type="section"
-                                            data-settings="{'background_background':'classic'}">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-696e47b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="696e47b3" data-element_type="section" data-settings="{" background_background":"classic"}"="">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f7faac5"
-                                                    data-id="7f7faac5" data-element_type="column">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f7faac5" data-id="7f7faac5" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-5c71caff elementor-widget elementor-widget-heading"
-                                                            data-id="5c71caff" data-element_type="widget"
-                                                            data-widget_type="heading.default">
+                                                        <div class="elementor-element elementor-element-5c71caff elementor-widget elementor-widget-heading" data-id="5c71caff" data-element_type="widget" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
+                                                                <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Want to
-                                                                            get the price?</font>
+                                                                        <font style="vertical-align: inherit;">Want to get the price?</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-72f29589 elementor-widget elementor-widget-text-editor"
-                                                            data-id="72f29589" data-element_type="widget"
-                                                            data-widget_type="text-editor.default">
+                                                        <div class="elementor-element elementor-element-72f29589 elementor-widget elementor-widget-text-editor" data-id="72f29589" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                 <p>
-                                                                    <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Our sales
-                                                                            experts will contact you within 24 hours.
-                                                                        </font>
-                                                                    </font>
-                                                                </p>
+																		<font style="vertical-align: inherit;">
+																			<font style="vertical-align: inherit;">Our sales experts will contact you within 24 hours.
+</font>
+																		</font>
+																	</p>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-6bd54ec6 elementor-align-center elementor-widget elementor-widget-button animated zoomIn"
-                                                            data-id="6bd54ec6" data-element_type="widget"
-                                                            data-settings="{" _animation":"zoomin"}"=""
-                                                            data-widget_type="button.default">
+                                                        <div class="elementor-element elementor-element-6bd54ec6 elementor-align-center elementor-widget elementor-widget-button animated zoomIn" data-id="6bd54ec6" data-element_type="widget" data-settings="{" _animation":"zoomin"}"="" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper">
-                                                                    <a href="javascript:;"
-                                                                        class="elementor-button-link elementor-button elementor-size-md"
-                                                                        role="button">
+                                                                    <a href="javascript:;" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                         <span class="elementor-button-content-wrapper">
-                                                                            <span class="elementor-button-text">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        Get Free Quote</font>
-                                                                                </font>
-                                                                            </span>
+<span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get Free Quote
+</font></font></span>
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -9581,66 +8982,39 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-467f7e8a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="467f7e8a" data-element_type="section"
-                                            data-settings="{'background_background':'classic'}">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-467f7e8a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="467f7e8a" data-element_type="section" data-settings="{" background_background":"classic"}"="">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-347275a9"
-                                                    data-id="347275a9" data-element_type="column">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-347275a9" data-id="347275a9" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-21cdd8d1 elementor-widget elementor-widget-uael-infobox"
-                                                            data-id="21cdd8d1" data-element_type="widget"
-                                                            data-widget_type="uael-infobox.default">
+                                                        <div class="elementor-element elementor-element-21cdd8d1 elementor-widget elementor-widget-uael-infobox" data-id="21cdd8d1" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                             <div class="elementor-widget-container">
-                                                                <div
-                                                                    class="uael-module-content uael-infobox  uael-infobox-center  uael-infobox-link-type-none">
+                                                                <div class="uael-module-content uael-infobox  uael-infobox-center  uael-infobox-link-type-none">
                                                                     <div class="uael-infobox-left-right-wrap">
                                                                         <div class="uael-infobox-content">
                                                                             <div class="uael-infobox-title-wrap">
-                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title_prefix"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            Standard &amp; Optional
+                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
+                                                                                    <font style="vertical-align: inherit;">
+                                                                                        <font style="vertical-align: inherit;">Standard &amp; Optional
                                                                                         </font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
                                                                                     <div class="uael-separator"></div>
                                                                                 </div>
-                                                                                <h2 class="uael-infobox-title elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            Components</font>
+                                                                                <h2 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                    <font style="vertical-align: inherit;">
+                                                                                        <font style="vertical-align: inherit;">Components
+                                                                                        </font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
                                                                             <div class="uael-infobox-text-wrap">
-                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                    data-elementor-inline-editing-toolbar="advanced">
+                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                     <p>
-                                                                                        <font
-                                                                                            style="vertical-align: inherit;">
-                                                                                            <font
-                                                                                                style="vertical-align: inherit;">
-                                                                                                You can better
-                                                                                                understand the
-                                                                                                performance of the
-                                                                                                machine through the
-                                                                                                following machine detail
-                                                                                                display and text
-                                                                                                description</font>
-                                                                                        </font>
-                                                                                    </p>
+																							<font style="vertical-align: inherit;">
+																								<font style="vertical-align: inherit;">You can better understand the performance of the machine through the following machine detail display and text description</font>
+																							</font>
+																						</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9648,122 +9022,45 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-58036de8 elementor-widget elementor-widget-spacer"
-                                                            data-id="58036de8" data-element_type="widget"
-                                                            data-widget_type="spacer.default">
+                                                        <div class="elementor-element elementor-element-58036de8 elementor-widget elementor-widget-spacer" data-id="58036de8" data-element_type="widget" data-widget_type="spacer.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-spacer">
                                                                     <div class="elementor-spacer-inner"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-3d8e7c7e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="3d8e7c7e" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-755fcbc5"
-                                                                    data-id="755fcbc5" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="72fb2127"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-3d8e7c7e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d8e7c7e" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-755fcbc5" data-id="755fcbc5" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn" data-id="72fb2127" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596299/x1.jpg"
-                                                                                    class="attachment-large size-large entered lazyloaded"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    data-ll-status="loaded"
-                                                                                    sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1645951757626/X1.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2dce53d"
-                                                                    data-id="2dce53d" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-2ef66f40 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="2ef66f40"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2dce53d" data-id="2dce53d" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-2ef66f40 elementor-widget elementor-widget-uael-infobox" data-id="2ef66f40" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            Mechanical
-                                                                                                            Structure
-                                                                                                        </font>
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">laser cutting machine Console</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                The main
-                                                                                                                mechanical
-                                                                                                                structure
-                                                                                                                of the
-                                                                                                                press
-                                                                                                                brake
-                                                                                                                consists
-                                                                                                                of the
-                                                                                                                frame,
-                                                                                                                column,
-                                                                                                                ram,
-                                                                                                                worktable,
-                                                                                                                the main
-                                                                                                                cylinder
-                                                                                                                and
-                                                                                                                backgauge.
-                                                                                                                The main
-                                                                                                                components
-                                                                                                                are
-                                                                                                                through
-                                                                                                                finite
-                                                                                                                element
-                                                                                                                analysis
-                                                                                                                and
-                                                                                                                optimized
-                                                                                                                design
-                                                                                                                by 3D
-                                                                                                                software
-                                                                                                                to fully
-                                                                                                                guarantee
-                                                                                                                the
-                                                                                                                structural
-                                                                                                                strength
-                                                                                                                and
-                                                                                                                rigidity
-                                                                                                                of each
-                                                                                                                component.
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </p>
+																											<font style="vertical-align: inherit;">
+																												<font style="vertical-align: inherit;">Professional CAD/CAM automatic programming software and automatic nesting software, support Chinese and English interfaces, rich process parameters, and save raw materials to the greatest extent.
+</font>
+																											</font>
+																										</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9775,99 +9072,36 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-78892a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="78892a" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-52e82609"
-                                                                    data-id="52e82609" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="861c91a" data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-78892a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78892a" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-52e82609" data-id="52e82609" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn" data-id="861c91a" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="600" height="420"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596379/x2.jpg"
-                                                                                    class="attachment-large size-large entered lazyloaded"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 600px) 100vw, 600px"
-                                                                                    data-ll-status="loaded"
-                                                                                    sizes="(max-width: 600px) 100vw, 600px"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1647866251230/X2.jpg?x-oss-process=style/small" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-74fd56ef"
-                                                                    data-id="74fd56ef" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-6630a2b5 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="6630a2b5"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-74fd56ef" data-id="74fd56ef" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-6630a2b5 elementor-widget elementor-widget-uael-infobox" data-id="6630a2b5" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            Frame</font>
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">Flange type precision reducer
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            The
-                                                                                                            foundation
-                                                                                                            of every
-                                                                                                            press brake
-                                                                                                            is a solid,
-                                                                                                            mono-block
-                                                                                                            frame which
-                                                                                                            made from
-                                                                                                            high yield
-                                                                                                            steel. Which
-                                                                                                            means our
-                                                                                                            press brakes
-                                                                                                            will perform
-                                                                                                            accurately
-                                                                                                            and reliably
-                                                                                                            year after
-                                                                                                            year. Every
-                                                                                                            press brake
-                                                                                                            frame is
-                                                                                                            tempered.
-                                                                                                            We' re so
-                                                                                                            confident in
-                                                                                                            our frames
-                                                                                                            so that we
-                                                                                                            offer a
-                                                                                                            15-year
-                                                                                                            warranty
-                                                                                                            with our
-                                                                                                            standard
-                                                                                                            machines.
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">
+                                                                                                            Cast aluminum alloy, light load, guaranteed acceleration
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </div>
@@ -9881,97 +9115,39 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-9cdba65 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="9cdba65" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-de2993d"
-                                                                    data-id="de2993d" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="d48b1e9" data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-9cdba65 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9cdba65" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-de2993d" data-id="de2993d" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn" data-id="d48b1e9" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    class="attachment-large size-large entered exited"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596424/x3.jpg"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646136647799/X3.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-11ac913"
-                                                                    data-id="11ac913" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-937172a elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="937172a" data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-11ac913" data-id="11ac913" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-937172a elementor-widget elementor-widget-uael-infobox" data-id="937172a" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            Controller
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">Exchange table sprocket chain type exchange structure
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                The
-                                                                                                                standard
-                                                                                                                controller
-                                                                                                                of our
-                                                                                                                series
-                                                                                                                press
-                                                                                                                brake is
-                                                                                                                Delem
-                                                                                                                DA53T.
-                                                                                                                CYBELEC
-                                                                                                                and Esa
-                                                                                                                brand
-                                                                                                                controller
-                                                                                                                can be
-                                                                                                                selected
-                                                                                                                based on
-                                                                                                                your
-                                                                                                                practical
-                                                                                                                use and
-                                                                                                                budget.
-                                                                                                            </font>
-
-                                                                                                        </font><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                            </font>
-                                                                                                        </span>
-                                                                                                    </p>
+																											<font style="vertical-align: inherit;">
+																												
+																												<font style="vertical-align: inherit;">Atlanta High Precision Rack (UHPP). Level 5 precision, applicable to laser cutting machines, can provide rigid support for quenched helical gears and ground helical gears, making the load driving structure compact and effectively reducing the driving torque
+</font>
+																											</font><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9983,121 +9159,35 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-64dc3d7b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="64dc3d7b" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d87a79"
-                                                                    data-id="2d87a79" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="794ae984"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-64dc3d7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64dc3d7b" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d87a79" data-id="2d87a79" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    class="attachment-large size-large entered exited"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042650/x4.jpg"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646136647834/X4.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-401f963e"
-                                                                    data-id="401f963e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-29feabf9 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="29feabf9"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-401f963e" data-id="401f963e" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-29feabf9 elementor-widget elementor-widget-uael-infobox" data-id="29feabf9" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            Servo Motor
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">Precision rails and helical racks
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    Compared
-                                                                                                                    to
-                                                                                                                    traditional
-                                                                                                                    stepper
-                                                                                                                    motors,
-                                                                                                                    the
-                                                                                                                    advantages
-                                                                                                                    of
-                                                                                                                    using
-                                                                                                                    servo
-                                                                                                                    motors
-                                                                                                                    include:
-                                                                                                                    improve
-                                                                                                                    the
-                                                                                                                    accuracy
-                                                                                                                    to ±
-                                                                                                                    0.01mm,
-                                                                                                                    the
-                                                                                                                    noise
-                                                                                                                    decrease
-                                                                                                                    to
-                                                                                                                    25
-                                                                                                                    decibels,
-                                                                                                                    reduce
-                                                                                                                    energy
-                                                                                                                    consumption
-                                                                                                                    by
-                                                                                                                    60%,
-                                                                                                                    consump
-                                                                                                                    70%
-                                                                                                                    less
-                                                                                                                    hydraulic
-                                                                                                                    oil
-                                                                                                                    and
-                                                                                                                    30%
-                                                                                                                    higher
-                                                                                                                    efficiency.
-                                                                                                                </font>
-                                                                                                            </font>
-                                                                                                        </span><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                            </font>
-                                                                                                        </span><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                            </font>
-                                                                                                        </span></p>
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">It has four-direction and other load characteristics and the function of automatic centering, which can absorb the assembly error of the mounting surface and obtain high-precision demands.
+</font></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -10109,84 +9199,35 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-590a453f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="590a453f" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-401a051d"
-                                                                    data-id="401a051d" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="69bde833"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-590a453f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="590a453f" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-401a051d" data-id="401a051d" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn" data-id="69bde833" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042683/x5.jpg"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647881/X5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7cb2fe92"
-                                                                    data-id="7cb2fe92" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-3f76c416 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="3f76c416"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7cb2fe92" data-id="7cb2fe92" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-3f76c416 elementor-widget elementor-widget-uael-infobox" data-id="3f76c416" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            Step Motor
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">Double servo motor gantry double drive
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">The
-                                                                                                            motor of our
-                                                                                                            press brake
-                                                                                                            is adopt
-                                                                                                            world famous
-                                                                                                            brand
-                                                                                                            "Siemens",
-                                                                                                            which will
-                                                                                                            not only has
-                                                                                                            low noise
-                                                                                                            during
-                                                                                                            working of
-                                                                                                            the machine
-                                                                                                            but also has
-                                                                                                            longer
-                                                                                                            service
-                                                                                                            life.</span><br>
-                                                                                                    </p>
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">The maximum speed is increased to 6000 rpm, the temperature rise is reduced, the efficiency is improved, and the peak torque is improved
+</span><br></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -10198,164 +9239,66 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-d3295aa elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="d3295aa" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1653dd7c"
-                                                                    data-id="1653dd7c" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="740da2e8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-d3295aa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3295aa" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1653dd7c" data-id="1653dd7c" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn" data-id="740da2e8" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042743/x6.jpg"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647929/X6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-398ea43f"
-                                                                    data-id="398ea43f" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-4898f153 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="4898f153"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-398ea43f" data-id="398ea43f" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-4898f153 elementor-widget elementor-widget-uael-infobox" data-id="4898f153" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Oil Pump</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">International
-                                                                                                            imported
-                                                                                                            brand oil
-                                                                                                            pump is
-                                                                                                            adopted,
-                                                                                                            with lower
-                                                                                                            noise and
-                                                                                                            stronger
-                                                                                                            output
-                                                                                                            power.Amazing
-                                                                                                            low noise,
-                                                                                                            made of high
-                                                                                                            strength
-                                                                                                            cast iron
-                                                                                                            and unique
-                                                                                                            design for
-                                                                                                            inner noise
-                                                                                                            reduction.Low
-                                                                                                            sensitivity
-                                                                                                            to oil
-                                                                                                            pollution
-                                                                                                            and assure
-                                                                                                            of long
-                                                                                                            service
-                                                                                                            life</span><br>
-                                                                                                    </p>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-2cbca2a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="2cbca2a" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fb4274"
-                                                                    data-id="3fb4274" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="4e33a99a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042787/x7.jpg"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c5d2c05"
-                                                                    data-id="c5d2c05" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-141df51e elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="141df51e"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Hydraulic System
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Flange type precision reducer
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">Our
-                                                                                                            press brake
-                                                                                                            machine uses
-                                                                                                            Hoerbiger
-                                                                                                            integrated
-                                                                                                            hydraulic
-                                                                                                            control
-                                                                                                            system that
-                                                                                                            make it more
-                                                                                                            reliable and
-                                                                                                            easy for
-                                                                                                            maintenance.
-
-                                                                                                        </span><br></p>
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">Cast aluminum alloy, light load, guaranteed acceleration
+</span><br></p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-2cbca2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbca2a" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fb4274" data-id="3fb4274" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn" data-id="4e33a99a" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647978/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c5d2c05" data-id="c5d2c05" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-141df51e elementor-widget elementor-widget-uael-infobox" data-id="141df51e" data-element_type="widget" data-widget_type="uael-infobox.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Fiber laser special cutting head
+                                                                                                </h3>
+                                                                                            </div>
+                                                                                            <div class="uael-infobox-text-wrap">
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">German PRECITEC&nbsp;</span><br></p>
 
                                                                                                 </div>
                                                                                             </div>
@@ -10368,599 +9311,29 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                            <div class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn" data-id="30abb32a" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136648013/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
+                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Electrical System
+                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
+                                                                                    <div class="uael-infobox-left-right-wrap">
+                                                                                        <div class="uael-infobox-content">
+                                                                                            <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Capacitive non-contact automatic height adjustment
                                                                                                 </h3>
                                                                                             </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    Our press brake
-                                                                                                    adopt Schneider
-                                                                                                    electrical
-                                                                                                    components. The high
-                                                                                                    quality electric
-                                                                                                    parts can make the
-                                                                                                    machine performing
-                                                                                                    well even the
-                                                                                                    electricity is not
-                                                                                                    stable and customers
-                                                                                                    can easily get the
-                                                                                                    replacement anywhere
-                                                                                                    in the world.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Backgauge System</h3>
-                                                                                            </div>
                                                                                             <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">We using the Taiwan PMI ball screw and linear guide to ensure the moving of X-axis with higher accuracy than using rod. And the backgauge adopt timing belt & wheel mechanism which controlled by servo motor instead of step motor. The height of the backgauge finger can be adjusted manually. Totally there're THREE pcs of backgauge fingers for positioning.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Punches & Dies</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The standard top punch and dual-V bottom die are specially designed for bending sheet metals. More press brake toolings can be selected as per your practical use. Material and HRC47 degree values ​​are marked on it</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Manual Crowning</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The crowning will compensate for the deflection of the worktable during bending process so as to obtain higher working precision.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Mechanical Crowning</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The motorized crowning system will adjust the parallelism and straightness automatically.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section> -->
-                                                        <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Pedal Switch</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The pedal switch will be used to control the movement of the ram. And there'is emergency stop button on top of it.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section> -->
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398719/1.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Backgauge System
-                                                                                                </h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    We using the Taiwan
-                                                                                                    PMI ball screw and
-                                                                                                    linear guide to
-                                                                                                    ensure the moving of
-                                                                                                    X-axis with higher
-                                                                                                    accuracy than using
-                                                                                                    rod. And the
-                                                                                                    backgauge adopt
-                                                                                                    timing belt &amp;
-                                                                                                    wheel mechanism
-                                                                                                    which controlled by
-                                                                                                    servo motor instead
-                                                                                                    of step motor. The
-                                                                                                    height of the
-                                                                                                    backgauge finger can
-                                                                                                    be adjusted
-                                                                                                    manually. Totally
-                                                                                                    there're THREE pcs
-                                                                                                    of backgauge fingers
-                                                                                                    for positioning.
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398752/2.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Punches &amp; Dies
-                                                                                                </h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The standard top
-                                                                                                    punch and dual-V
-                                                                                                    bottom die are
-                                                                                                    specially designed
-                                                                                                    for bending sheet
-                                                                                                    metals. More press
-                                                                                                    brake toolings can
-                                                                                                    be selected as per
-                                                                                                    your practical use.
-                                                                                                    Material and HRC47
-                                                                                                    degree values ​​are
-                                                                                                    marked on it.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398784/3.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Manual Crowning</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The crowning will
-                                                                                                    compensate for the
-                                                                                                    deflection of the
-                                                                                                    worktable during
-                                                                                                    bending process so
-                                                                                                    as to obtain higher
-                                                                                                    working precision.
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398806/4.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Mechanical Crowning
-                                                                                                </h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The motorized
-                                                                                                    crowning system will
-                                                                                                    adjust the
-                                                                                                    parallelism and
-                                                                                                    straightness
-                                                                                                    automatically.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398840/5.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Pedal Switch</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The pedal switch
-                                                                                                    will be used to
-                                                                                                    control the movement
-                                                                                                    of the ram. And
-                                                                                                    there'is emergency
-                                                                                                    stop button on top
-                                                                                                    of it.</div>
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">Germany PRECITEC/Switzerland RAY TOOLS</div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -10975,43 +9348,25 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-635c958a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="635c958a" data-element_type="section">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-635c958a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="635c958a" data-element_type="section">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a94ff9b"
-                                                    data-id="2a94ff9b" data-element_type="column">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a94ff9b" data-id="2a94ff9b" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-67bc8856 elementor-widget elementor-widget-uael-infobox"
-                                                            data-id="67bc8856" data-element_type="widget"
-                                                            data-widget_type="uael-infobox.default">
+                                                        <div class="elementor-element elementor-element-67bc8856 elementor-widget elementor-widget-uael-infobox" data-id="67bc8856" data-element_type="widget" data-widget_type="uael-infobox.default">
                                                             <div class="elementor-widget-container">
-                                                                <div
-                                                                    class="uael-module-content uael-infobox  uael-infobox-center  uael-infobox-link-type-none">
+                                                                <div class="uael-module-content uael-infobox  uael-infobox-center  uael-infobox-link-type-none">
                                                                     <div class="uael-infobox-left-right-wrap">
                                                                         <div class="uael-infobox-content">
                                                                             <div class="uael-infobox-title-wrap">
-                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title_prefix"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    Download</h6>
+                                                                                <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">Download</h6>
                                                                                 <div class="uael-separator-parent">
                                                                                     <div class="uael-separator"></div>
                                                                                 </div>
-                                                                                <h2 class="uael-infobox-title elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                    Technical Specifications</h2>
+                                                                                <h2 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Technical Specifications</h2>
                                                                             </div>
                                                                             <div class="uael-infobox-text-wrap">
-                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                    <p>You can download our product
-                                                                                        brochure through the link below
-                                                                                        to learn more about the
-                                                                                        technical specifications of the
-                                                                                        machine</p>
+                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
+                                                                                    <p>You can download our product brochure through the link below to learn more about the technical specifications of the machine</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -11019,21 +9374,12 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-738cc106 elementor-align-center elementor-widget elementor-widget-button"
-                                                            data-id="738cc106" data-element_type="widget"
-                                                            data-widget_type="button.default">
+                                                        <div class="elementor-element elementor-element-738cc106 elementor-align-center elementor-widget elementor-widget-button" data-id="738cc106" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper">
-                                                                    <a href="javascript:;"
-                                                                        class="elementor-button-link elementor-button elementor-size-xl elementor-button-content-wrapper"
-                                                                        style="width:max-content;margin:auto;"
-                                                                        role="button">
-                                                                        <span class="elementor-button-text">Download
-                                                                            brochure</span>
-                                                                        <span
-                                                                            class="elementor-button-icon elementor-align-icon-right"><i
-                                                                                aria-hidden="true"
-                                                                                class="fas fa-download"></i></span>
+                                                                    <a href="javascript:;" class="elementor-button-link elementor-button elementor-size-xl elementor-button-content-wrapper" style="width:max-content;margin:auto;" role="button">
+                                                                        <span class="elementor-button-text">Download brochure</span>
+                                                                        <span class="elementor-button-icon elementor-align-icon-right"><i aria-hidden="true" class="fas fa-download"></i></span>
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -11054,318 +9400,9 @@
 
 
 
-
-
-
-
-
-
-
-        <div component="footer.php">
-            <script type="text/javascript" src="/js/customer.js"></script>
-
-            <div data-elementor-type="footer" data-elementor-id="125"
-                class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="4d77cba" data-element_type="section"
-                        data-settings="{'background_background':'classic'}">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505"
-                                data-id="fb54505" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image"
-                                        data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <img width="154" height="60"
-                                                src="//cdn.xuansiwei.com/zhang3794/1646744278031/11.png?x-oss-process=style/png_small"
-                                                class="attachment-large size-large" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor"
-                                        data-id="9feec28" data-element_type="widget"
-                                        data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is
-                                            a modern management enterprise producing all kinds of ordinary and NC
-                                            bending machines, plate shears, laser cutting machines and supporting knives
-                                            and molds. </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-                                        data-id="77f5f5f" data-element_type="widget"
-                                        data-widget_type="social-icons.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-social-icons-wrapper elementor-grid">
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61"
-                                                        target="_blank"
-                                                        href="https://www.facebook.com/profile.php?id=100078482187510 ">
-                                                        <span class="elementor-screen-only">Facebook</span>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                </span>
-                                                <a href="/">
-                                                    <span class="elementor-grid-item">
-                                                    </span></a><a
-                                                    class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5"
-                                                    target="_blank" href="https://twitter.com/Ruchengchina">
-                                                    <span class="elementor-screen-only">Twitter</span>
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                        target="_blank"
-                                                        href="https://www.youtube.com/channel/UCDtDqUgMqtMIa_9HuPvajpQ  ">
-                                                        <span class="elementor-screen-only">Youtube</span>
-                                                        <i class="fab fa-youtube"></i>
-                                                    </a>
-                                                </span>
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                        target="_blank" href=" https://vm.tiktok.com/TTPdavJ8fV/">
-                                                        <span class="elementor-screen-only">Youtube</span>
-                                                        <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small"
-                                                            alt="" height="25px" width="25px" loading="lazy">
-                                                    </a>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d"
-                                data-id="5cbb53d" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading"
-                                        data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Links</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item">Services</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item">Contact us</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item"
-                                                            tabindex="-1">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item"
-                                                            tabindex="-1">Services</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item"
-                                                            tabindex="-1">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item"
-                                                            tabindex="-1">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item"
-                                                            tabindex="-1">Contact us</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449"
-                                data-id="f7a0449" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading"
-                                        data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Services</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item">Pre-sales
-                                                            consultation</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item">Sign contract</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item">Quality
-                                                            assurance</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item">High-quality
-                                                            after-sales</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item">Offline
-                                                            communication</a></li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Power Energies</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Mechanical Engineering</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Chemical Research</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Industrial Construction</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Petroleum and Gas</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757"
-                                data-id="9815757" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading"
-                                        data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                        data-id="2de5018" data-element_type="widget"
-                                        data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
-                                                    <span class="elementor-icon-list-text">Shiqiu Industrial Zone,
-                                                        Lishui District, Nanjing City, Jiangsu Province</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-phone"></i></span>
-                                                    <span class="elementor-icon-list-text">400-886-6884</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
-                                                    <span
-                                                        class="elementor-icon-list-text">sales@ruchengmachine.com</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="523a6fc" data-element_type="section"
-                        data-settings="{'background_background':'classic'}">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec"
-                                data-id="f4057ec" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading"
-                                        data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default"> <a
-                                                    href="privacy.php">Privacy Policy</a> &nbsp;<a
-                                                    href="terms.php">Terms</a> &nbsp; Copyright @ Nanjing Rucheng
-                                                Technology Co., Ltd. All rights reserved. </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-
-
-
-
-
-
-
+        
+        <?php include 'footer.php'; ?>
+    
 
 
 
@@ -11373,13 +9410,8 @@
     </div>
 
     <script src="/product/8hyjuqjfcpp49kny8glii0blzfd3qebj.js" async=""></script>
-    <a id="ast-scroll-top" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both"
-        style="display: none;">
-        <span class="ast-icon icon-arrow"></span> <span class="screen-reader-text">
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">滚动到顶部</font>
-            </font>
-        </span>
+    <a id="ast-scroll-top" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both" style="display: none;">
+        <span class="ast-icon icon-arrow"></span> <span class="screen-reader-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">滚动到顶部</font></font></span>
     </a>
 
     <link rel="stylesheet" href="/product/animations.min.css" data-rocket-async="style" as="style" media="all">
@@ -11436,8 +9468,7 @@
             "is_header_builder_active": "1"
         };
     </script>
-    <script data-minify="1" src="/product/astra-addon-61b1b63650d634-24606830.js" id="astra-addon-js-js"
-        defer=""></script>
+    <script data-minify="1" src="/product/astra-addon-61b1b63650d634-24606830.js" id="astra-addon-js-js" defer=""></script>
     <script src="/product/wp-embed.min.js" id="wp-embed-js" defer=""></script>
     <script id="uael-frontend-script-js-extra">
         var uael_script = {
@@ -11678,7 +9709,7 @@
     <script src="/product/punycode.min.js" id="wpforms-punycode-js" defer=""></script>
     <script data-minify="1" src="/product/wpforms.js" id="wpforms-js" defer=""></script>
     <script>
-        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () {
+        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
             var t, e = location.hash.substring(1);
             /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
         }, !1);
@@ -11740,7 +9771,7 @@
             class_loading: "lazyloading",
             class_loaded: "lazyloaded",
             threshold: 300,
-            callback_loaded: function (element) {
+            callback_loaded: function(element) {
                 if (element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible") {
                     if (element.classList.contains("lazyloaded")) {
                         if (typeof window.jQuery != "undefined") {
@@ -11752,14 +9783,14 @@
                 }
             }
         };
-        window.addEventListener('LazyLoad::Initialized', function (e) {
+        window.addEventListener('LazyLoad::Initialized', function(e) {
             var lazyLoadInstance = e.detail.instance;
             if (window.MutationObserver) {
-                var observer = new MutationObserver(function (mutations) {
+                var observer = new MutationObserver(function(mutations) {
                     var image_count = 0;
                     var iframe_count = 0;
                     var rocketlazy_count = 0;
-                    mutations.forEach(function (mutation) {
+                    mutations.forEach(function(mutation) {
                         for (var i = 0; i < mutation.addedNodes.length; i++) {
                             if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
                                 continue
@@ -11816,7 +9847,7 @@
                     const e = t.getBoundingClientRect();
                     if (e.bottom >= 0 && e.top <= window.innerHeight) try {
                         this._animateElement(t)
-                    } catch (t) { }
+                    } catch (t) {}
                 })
             }
             _animateElement(t) {
@@ -11828,7 +9859,7 @@
                 let s = setTimeout(() => {
                     t.classList.remove("elementor-invisible"), t.classList.add("animated", n), this._removeAnimationSettings(t, e)
                 }, i);
-                window.addEventListener("rocket-startLoading", function () {
+                window.addEventListener("rocket-startLoading", function() {
                     clearTimeout(s)
                 })
             }
@@ -11863,8 +9894,7 @@
     <div id="goog-gt-tt" class="skiptranslate" dir="ltr">
         <div style="padding: 8px;">
             <div>
-                <div class="logo"><img src="/product/translate_24dp.png" width="20" height="20" alt="Google Translate"
-                        loading="lazy"></div>
+                <div class="logo"><img src="/product/translate_24dp.png" width="20" height="20" alt="Google Translate" loading="lazy"></div>
             </div>
         </div>
         <div class="top" style="padding: 8px; float: left; width: 100%;">
@@ -11874,8 +9904,7 @@
             <div class="original-text"></div>
         </div>
         <div class="bottom" style="padding: 8px;">
-            <div class="activity-links"><span class="activity-link">Contribute a better translation</span><span
-                    class="activity-link"></span></div>
+            <div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div>
             <div class="started-activity-container">
                 <hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;">
                 <div class="activity-root"></div>
@@ -11885,10 +9914,8 @@
     </div><span id="elementor-device-mode" class="elementor-screen-only"></span>
     <div class="goog-te-spinner-pos">
         <div class="goog-te-spinner-animation">
-            <svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px"
-                viewBox="0 0 66 66">
-                <circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33"
-                    r="30"></circle>
+            <svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66">
+                <circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
             </svg>
         </div>
     </div>
@@ -11912,30 +9939,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body>
-
-</html>
+</body></html>

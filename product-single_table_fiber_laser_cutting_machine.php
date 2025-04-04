@@ -173,7 +173,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>W11S Universal Veneer Reeling Machine - </title>
+    <title>T1 Single Table Fiber Laser Cutting Machine - </title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -8392,14 +8392,14 @@
     <meta name="keywords" content="">
 <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
         <!-- twitter分享 -->
-        <meta property="twitter:url" content="/product_4_2.php">
+        <meta property="twitter:url" content="/product-single_table_fiber_laser_cutting_machine.php">
         <meta name="twitter:title" content="">
         <meta name="twitter:description" content="">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="null">
 
         <!-- facebook分享 -->
-        <meta property="og:url" content="/product_4_2.php">
+        <meta property="og:url" content="/product-single_table_fiber_laser_cutting_machine.php">
         <meta property="og:type" content="website">
         <meta property="og:title" content="">
         <meta property="og:description" content="">
@@ -8483,9 +8483,15 @@
 
 
 
+
+
+
         
     <?php include 'header.php'; ?>
     
+
+
+
 
 
 
@@ -8499,13 +8505,13 @@
                             <div class="entry-content clear" itemprop="text">
                                 <div data-elementor-type="wp-page" data-elementor-id="3467" class="elementor elementor-3467" data-elementor-settings="[]">
                                     <div class="elementor-section-wrap">
-                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5f1adbd3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5f1adbd3" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5f1adbd3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5f1adbd3" data-element_type="section" data-settings="{'background_background':'classic'}">
                                             <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6395c5e" data-id="6395c5e" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6395c5e" data-id="6395c5e" data-element_type="column" data-settings="{'background_background':'classic'}">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn" data-id="671e90da" data-element_type="widget" data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1646397375084/2.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
+                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1645951757430/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -8516,7 +8522,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">W11S Universal Veneer Reeling Machine</font>
+                                                                        <font style="vertical-align: inherit;">T1&nbsp;Single Table Fiber Laser Cutting Machine</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8525,7 +8531,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <p>
 																		<font style="vertical-align: inherit;">
-																			<font style="vertical-align: inherit;">The structure of the machine is a three-rod symmetrical type. The upper roller makes a vertical lifting movement at the symmetrical position between the two lower rollers, which is obtained by the rotation of the screw and the worm. The two lower rollers rotate, and the output gear of the reducer meshes with the lower gear. Coiled sheet provides torque.</font>
+																			<font style="vertical-align: inherit;">Focus on carbon steel within 20mm, high-efficiency cutting of stainless steel, galvanized sheet, electrolytic board, silicon steel and other metal materials within 10mm.</font>
 																		</font>
 																	</p>
                                                             </div>
@@ -8536,18 +8542,18 @@
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-New industrial design, top-level process production, pleasing appearance</font></font></span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adopting floorstanding gantry dual-drives structure, which is compact and covers small area.</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compact structure, convenient operation and maintenance. Easy to operate and stable.</font></font></span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Machine body is processed through plug welding and annealing</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Advanced production technology and strict quality control</font></font></span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adopt high-performance fiber laser generator
+</font></font></span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -8568,8 +8574,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                 <span class="elementor-button-content-wrapper uael-buttons-icon-">
 <span class="elementor-align-icon- elementor-button-icon">
 </span>
-                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote
-</font></font></span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
@@ -8578,8 +8583,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                 <span class="elementor-button-content-wrapper uael-buttons-icon- elementor-button-content-wrapper uael-buttons-icon-">
 <span class="elementor-align-icon- elementor-button-icon">
 </span>
-                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.1.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Watch Video
-</font></font></span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.1.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Watch Video</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
@@ -8603,8 +8607,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                             <div class="uael-infobox-title-wrap">
                                                                                 <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">CHECK OUT
-                                                                                        </font>
+                                                                                        <font style="vertical-align: inherit;">CHECK OUT</font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -8612,8 +8615,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                 </div>
                                                                                 <h2 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">Machine Details
-                                                                                        </font>
+                                                                                        <font style="vertical-align: inherit;">Machine Details</font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
@@ -8643,7 +8645,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                 </div>
                                             </div>
                                         </section>
-                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5ae8d687 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5ae8d687" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-5ae8d687 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5ae8d687" data-element_type="section" data-settings="{'background_background':'classic'}">
                                             <div class="elementor-container elementor-column-gap-no">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f6b9023" data-id="1f6b9023" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -8661,13 +8663,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ed93d92" data-id="4ed93d92" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ed93d92" data-id="4ed93d92" data-element_type="column" data-settings="{'background_background':'classic'}">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
                                                                         <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="1e92adac" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646397375237/6.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645951757473/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
@@ -8754,13 +8756,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                         </section>
                                                         <section class="elementor-section elementor-inner-section elementor-element elementor-element-550a5915 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="550a5915" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-374dec96" data-id="374dec96" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-374dec96" data-id="374dec96" data-element_type="column" data-settings="{'background_background':'classic'}">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
                                                                         <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="c75a9ae" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646397375309/7.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645951757509/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
@@ -8821,13 +8823,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5006602a" data-id="5006602a" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5006602a" data-id="5006602a" data-element_type="column" data-settings="{'background_background':'classic'}">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
                                                                         <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="14823dfa" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646397375122/3.jpg" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1645951757544/4.jpg" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
@@ -8864,13 +8866,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                         </section>
                                                         <section class="elementor-section elementor-inner-section elementor-element elementor-element-45bf93e5 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="45bf93e5" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-no">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4cf47740" data-id="4cf47740" data-element_type="column" data-settings="{" background_background":"classic"}"="">
+                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4cf47740" data-id="4cf47740" data-element_type="column" data-settings="{'background_background':'classic'}">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-background-overlay"></div>
                                                                         <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="39d9dd0b" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646397375361/8.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1645951757586/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
@@ -8946,7 +8948,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                 </div>
                                             </div>
                                         </section>
-                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-696e47b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="696e47b3" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-696e47b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="696e47b3" data-element_type="section" data-settings="{'background_background':'classic'}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f7faac5" data-id="7f7faac5" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -8954,8 +8956,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                             <div class="elementor-widget-container">
                                                                 <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Want to get the price?
-                                                                        </font>
+                                                                        <font style="vertical-align: inherit;">Want to get the price?</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8964,8 +8965,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                             <div class="elementor-widget-container">
                                                                 <p>
 																		<font style="vertical-align: inherit;">
-																			<font style="vertical-align: inherit;">Our sales experts will contact you within 24 hours.
-</font>
+																			<font style="vertical-align: inherit;">Our sales experts will contact you within 24 hours.</font>
 																		</font>
 																	</p>
                                                             </div>
@@ -8975,8 +8975,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 <div class="elementor-button-wrapper">
                                                                     <a href="javascript:;" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                         <span class="elementor-button-content-wrapper">
-<span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get Free Quote
-</font></font></span>
+<span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get Free Quote</font></font></span>
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -8986,7 +8985,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                 </div>
                                             </div>
                                         </section>
-                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-467f7e8a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="467f7e8a" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-467f7e8a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="467f7e8a" data-element_type="section" data-settings="{'background_background':'classic'}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-347275a9" data-id="347275a9" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -8998,8 +8997,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                             <div class="uael-infobox-title-wrap">
                                                                                 <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">Standard &amp; Optional
-                                                                                        </font>
+                                                                                        <font style="vertical-align: inherit;">Standard &amp; Optional</font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -9007,8 +9005,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                 </div>
                                                                                 <h2 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">Components
-                                                                                        </font>
+                                                                                        <font style="vertical-align: inherit;">Components</font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
@@ -9033,13 +9030,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-3d8e7c7e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d8e7c7e" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-3d8e7c7e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d8e7c7e" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-755fcbc5" data-id="755fcbc5" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn" data-id="72fb2127" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn" data-id="72fb2127" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1647864669319/x1.jpg?x-oss-process=style/small" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1645951757626/X1.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9053,7 +9050,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Motor and reducer</font>
+                                                                                                        <font style="vertical-align: inherit;">laser cutting machine Console</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9061,7 +9058,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
 																											<font style="vertical-align: inherit;">
-																												<font style="vertical-align: inherit;">The main reducer adopts a cylindrical gear reducer, which is installed on the working base together with the pad height.</font>
+																												<font style="vertical-align: inherit;">Professional CAD/CAM automatic programming software and automatic nesting software, support Chinese and English interfaces, rich process parameters, and save raw materials to the greatest extent.</font>
 																											</font>
 																										</p>
                                                                                                 </div>
@@ -9075,13 +9072,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-78892a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78892a" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-78892a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78892a" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-52e82609" data-id="52e82609" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn" data-id="861c91a" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn" data-id="861c91a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1646397375535/x4.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy"> </div>
+                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1647866251230/X2.jpg?x-oss-process=style/small" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9095,14 +9092,14 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Roller and frame</font>
+                                                                                                        <font style="vertical-align: inherit;">Flange type precision reducer</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">The frame is a steel plate welded structure, and the radius of curvature of the arc is adjusted by adjusting the upper roller.</font>
+                                                                                                        <font style="vertical-align: inherit;">Cast aluminum alloy, light load, guaranteed acceleration</font>
                                                                                                     </font>
                                                                                                 </div>
                                                                                             </div>
@@ -9115,13 +9112,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-9cdba65 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9cdba65" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-9cdba65 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9cdba65" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-de2993d" data-id="de2993d" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn" data-id="d48b1e9" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn" data-id="d48b1e9" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646397375452/x2.jpg" loading="lazy"> </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646136647799/X3.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9135,7 +9132,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Use the schematic</font>
+                                                                                                        <font style="vertical-align: inherit;">Exchange table sprocket chain type exchange structure</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9143,9 +9140,9 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
 																											<font style="vertical-align: inherit;">
+																												<font style="vertical-align: inherit;">Atlanta High Precision Rack (UHPP). Level 5 precision, applicable to laser cutting machines, can provide rigid support for quenched helical gears and ground helical gears, making the load driving structure compact and effectively reducing the driving torque</font>
 																												
-																												
-																											</font><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. Straighten the steel plate; 2. Press and bend the steel plate downwards on the roller shaft; 3. The roller rotates the cylinder.</font></font></span></p>
+																											</font><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9157,13 +9154,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-64dc3d7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64dc3d7b" data-element_type="section" data-settings="{" background_background":"classic"}"="">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-64dc3d7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64dc3d7b" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d87a79" data-id="2d87a79" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-settings="{" _animation":"fadein"}"="" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646397375485/x3.jpg" loading="lazy"> </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646136647834/X4.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9177,13 +9174,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Multi-purpose machine</font>
+                                                                                                        <font style="vertical-align: inherit;">Precision rails and helical racks</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Buy custom molds, with more functions, you can roll angle iron, flat iron, round square tube, etc.</font></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">It has four-direction and other load characteristics and the function of automatic centering, which can absorb the assembly error of the mounting surface and obtain high-precision demands.</font></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9195,13 +9192,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-590a453f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="590a453f" data-element_type="section" data-settings="{" background_background":"classic"}">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-590a453f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="590a453f" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-401a051d" data-id="401a051d" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn" data-id="69bde833" data-element_type="widget" data-settings="{" _animation":"fadeIn"}" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn" data-id="69bde833" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647881/X5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9214,12 +9211,14 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
-                                                                                                    <font style="vertical-align: inherit;"></font>
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">Double servo motor gantry double drive</font>
+                                                                                                    </font>
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><br></p>
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">The maximum speed is increased to 6000 rpm, the temperature rise is reduced, the efficiency is improved, and the peak torque is improved</span><br></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9231,13 +9230,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-d3295aa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3295aa" data-element_type="section" data-settings="{" background_background":"classic"}">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-d3295aa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3295aa" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1653dd7c" data-id="1653dd7c" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn" data-id="740da2e8" data-element_type="widget" data-settings="{" _animation":"fadeIn"}" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn" data-id="740da2e8" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647929/X6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9249,6 +9248,8 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                     <div class="uael-infobox-left-right-wrap">
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Flange type precision reducer</h3>
+                                                                                                <div>Cast aluminum alloy, light load, guaranteed acceleration</div>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
@@ -9264,13 +9265,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-2cbca2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbca2a" data-element_type="section" data-settings="{" background_background":"classic"}">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-2cbca2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cbca2a" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fb4274" data-id="3fb4274" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn" data-id="4e33a99a" data-element_type="widget" data-settings="{" _animation":"fadeIn"}" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn" data-id="4e33a99a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136647978/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9282,6 +9283,8 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                     <div class="uael-infobox-left-right-wrap">
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Fiber laser special cutting head</h3>
+                                                                                                <div>German PRECITEC&nbsp;</div>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
@@ -9298,13 +9301,13 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{" background_background":"classic"}">
+                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn" data-id="30abb32a" data-element_type="widget" data-settings="{" _animation":"fadeIn"}" data-widget_type="image.default">
+                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136648013/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9316,9 +9319,11 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                                     <div class="uael-infobox-left-right-wrap">
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Capacitive non-contact automatic height adjustment</h3>
+                                                                                                <div>Germany PRECITEC/Switzerland RAY TOOLS</div>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
-
+                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced"></div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -9328,7 +9333,7 @@ New industrial design, top-level process production, pleasing appearance</font><
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </section> -->
+                                                        </section>
                                                     </div>
                                                 </div>
                                             </div>
@@ -9384,197 +9389,15 @@ New industrial design, top-level process production, pleasing appearance</font><
 
 
 
+
+
+
         
-        <div component="footer.php">
-            <script type="text/javascript" src="/js/customer.js"></script>
-
-<div data-elementor-type="footer" data-elementor-id="125" class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
-    <div class="elementor-section-wrap">
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d77cba" data-element_type="section" data-settings="{'background_background':'classic'}">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505" data-id="fb54505" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image" data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="154" height="60" src="//cdn.xuansiwei.com/zhang3794/1646744278031/11.png?x-oss-process=style/png_small" class="attachment-large size-large" alt="" loading="lazy">
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor" data-id="9feec28" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is a modern management enterprise producing all kinds of ordinary and NC bending machines, plate shears, laser cutting machines and supporting knives and molds. </div>
-                        </div>
-                        <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="77f5f5f" data-element_type="widget" data-widget_type="social-icons.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-social-icons-wrapper elementor-grid">
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61" target="_blank" href="https://www.facebook.com/profile.php?id=100078482187510 ">
-						                    <span class="elementor-screen-only">Facebook</span>
-                                    <i class="fab fa-facebook"></i>
-                                    </a>
-                                    </span>
-                                    <a href="/">
-                                        <span class="elementor-grid-item">
-					                    </span></a><a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5" target="_blank" href="https://twitter.com/Ruchengchina">
-                                        <span class="elementor-screen-only">Twitter</span>
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2" target="_blank" href="https://www.youtube.com/channel/UCDtDqUgMqtMIa_9HuPvajpQ  ">
-						                    <span class="elementor-screen-only">Youtube</span>
-                                    <i class="fab fa-youtube"></i>
-                                    </a>
-                                    </span>
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2" target="_blank" href=" https://vm.tiktok.com/TTPdavJ8fV/">
-						                    <span class="elementor-screen-only">Youtube</span>
-                                    <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small" alt="" height="25px" width="25px" loading="lazy">
-                                    </a>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d" data-id="5cbb53d" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading" data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Links</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                            <div class="elementor-widget-container">
-                                <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                    <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="/about.php" class="elementor-item">About</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="/services.php" class="elementor-item">Services</a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="/product.php" class="elementor-item">Product</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="/blog.php" class="elementor-item">Blog</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="/contact.php" class="elementor-item">Contact us</a></li>
-                                    </ul>
-                                </nav>
-                                <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-                                    <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                    <span class="elementor-screen-only">Menu</span>
-                                </div>
-                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-                                    <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="/about.php" class="elementor-item" tabindex="-1">About</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="/services.php" class="elementor-item" tabindex="-1">Services</a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="/product.php" class="elementor-item" tabindex="-1">Product</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="/blog.php" class="elementor-item" tabindex="-1">Blog</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="/contact.php" class="elementor-item" tabindex="-1">Contact us</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449" data-id="f7a0449" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading" data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Services</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                            <div class="elementor-widget-container">
-                                <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                    <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267"><a href="javascript:;" class="elementor-item">Pre-sales consultation</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268"><a href="javascript:;" class="elementor-item">Sign contract</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269"><a href="javascript:;" class="elementor-item">Quality assurance</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270"><a href="javascript:;" class="elementor-item">High-quality after-sales</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271"><a href="javascript:;" class="elementor-item">Offline communication</a></li>
-                                    </ul>
-                                </nav>
-                                <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-                                    <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                    <span class="elementor-screen-only">Menu</span>
-                                </div>
-                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-                                    <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267"><a href="javascript:;" class="elementor-item" tabindex="-1">Power Energies</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268"><a href="javascript:;" class="elementor-item" tabindex="-1">Mechanical Engineering</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269"><a href="javascript:;" class="elementor-item" tabindex="-1">Chemical Research</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270"><a href="javascript:;" class="elementor-item" tabindex="-1">Industrial Construction</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271"><a href="javascript:;" class="elementor-item" tabindex="-1">Petroleum and Gas</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757" data-id="9815757" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading" data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2de5018" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                                <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
-                                        <span class="elementor-icon-list-text">Shiqiu Industrial Zone, Lishui District, Nanjing City, Jiangsu Province</span>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-phone"></i></span>
-                                        <span class="elementor-icon-list-text">400-886-6884</span>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
-                                        <span class="elementor-icon-list-text">sales@ruchengmachine.com</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="523a6fc" data-element_type="section" data-settings="{'background_background':'classic'}">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec" data-id="f4057ec" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading" data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default"> <a href="privacy.php">Privacy Policy</a> &nbsp;<a href="terms.php">Terms</a> &nbsp; Copyright @ Nanjing Rucheng Technology Co., Ltd. All rights reserved. </h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</div>
-        </div>
+        <?php include 'footer.php'; ?>
     
+
+
+
 
 
 
@@ -10097,6 +9920,18 @@ New industrial design, top-level process production, pleasing appearance</font><
     <div style="all: initial;">
         <div id="__hcfy__" style="all: initial;"></div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

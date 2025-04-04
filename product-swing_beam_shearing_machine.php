@@ -2,6 +2,15 @@
 <html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-VWRCJYQDF2');
+    </script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script>
         if (navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
@@ -167,7 +176,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>产品2 - </title>
+    <title>Swing Beam Shearing Machine | Rucheng Manufacturing</title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -5465,7 +5474,7 @@
     </style>
     <link data-minify="1" rel="stylesheet" href="/product/elementor-icons.min.css" data-rocket-async="style" as="style"
         media="all">
-    <link rel="stylesheet" href="/product/frontend.min(1).css" data-rocket-async="style" as="style" media="all">
+    <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
         @font-face {
             font-family: eicons;
@@ -8192,7 +8201,7 @@
             }
         }
     </style>
-    <link rel="stylesheet" href="/product/frontend.min(2).css" data-rocket-async="style" as="style" media="all">
+    <link rel="stylesheet" href="/product/frontend.min2.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/uael-frontend.min.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/wpforms-full.min.css" data-rocket-async="style" as="style" media="all">
     <link data-minify="1" rel="stylesheet" href="/product/all.min.css" data-rocket-async="style" as="style" media="all">
@@ -8396,16 +8405,16 @@
     <link rel="stylesheet" id="elementor-post-183-css"
         href="/wp-content/uploads/elementor/css/post-183.css?ver=1639184097" media="all">
     <meta name="keywords" content="">
-
+    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/product_2.php">
+    <meta property="twitter:url" content="/product-swing_beam_shearing_machine.php ">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/product_2.php">
+    <meta property="og:url" content="/product-swing_beam_shearing_machine.php ">
     <meta property="og:type" content="website">
     <meta property="og:title" content="">
     <meta property="og:description" content="">
@@ -8491,7 +8500,15 @@
 
 
 
+
+
+
+
     <?php include 'header.php'; ?>
+
+
+
+
 
 
 
@@ -8520,7 +8537,8 @@
                                                             data-id="671e90da" data-element_type="widget"
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800" src="/product/1-1-5.jpg"
+                                                                <img width="1000" height="800"
+                                                                    src="//cdn.xuansiwei.com/zhang3794/1647251947378/1.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8541,8 +8559,7 @@
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">机器人折弯机
-                                                                        </font>
+                                                                        <font style="vertical-align: inherit;">Swing Beam Shearing Machine</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8553,9 +8570,10 @@
                                                             <div class="elementor-widget-container">
                                                                 <p>
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">
-                                                                            可实现自动上下料，自动分拣码垛，机械手自动换模技术，保证了小批量多品种生产和大规模生产的卓越效率。
-                                                                        </font>
+                                                                        <font style="vertical-align: inherit;">The swing
+                                                                            beam type shears still remain the
+                                                                            pacesetters in the price/quality ratio
+                                                                            market of today.</font>
                                                                     </font>
                                                                 </p>
                                                             </div>
@@ -8572,7 +8590,9 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    无需专业技术人员</font>
+                                                                                    Steel plate welded structure,
+                                                                                    hydraulic transmission, nitrogen
+                                                                                    cylinder return</font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8583,7 +8603,8 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    99.99% 保证产品精度</font>
+                                                                                    Easy operation, reliable performance
+                                                                                </font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8594,7 +8615,8 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    集成知名品牌部件，确保系统安全可靠</font>
+                                                                                    Straightness: ±0.10mm for 3m plate
+                                                                                    cutting</font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8619,7 +8641,7 @@
                                                                         <div
                                                                             class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-f96ab12 uael-dual-button-0">
                                                                             <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow"
-                                                                                href="javascript:;">
+                                                                                href="/contact.php">
                                                                                 <span
                                                                                     class="elementor-button-content-wrapper uael-buttons-icon-">
                                                                                     <span
@@ -8633,7 +8655,7 @@
                                                                                             style="vertical-align: inherit;">
                                                                                             <font
                                                                                                 style="vertical-align: inherit;">
-                                                                                                请求报价</font>
+                                                                                                Request A Quote</font>
                                                                                         </font>
                                                                                     </span>
                                                                                 </span>
@@ -8656,7 +8678,7 @@
                                                                                             style="vertical-align: inherit;">
                                                                                             <font
                                                                                                 style="vertical-align: inherit;">
-                                                                                                看视频</font>
+                                                                                                Watch Video</font>
                                                                                         </font>
                                                                                     </span>
                                                                                 </span>
@@ -8693,7 +8715,7 @@
                                                                                         style="vertical-align: inherit;">
                                                                                         <font
                                                                                             style="vertical-align: inherit;">
-                                                                                            查看</font>
+                                                                                            CHECK OUT</font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -8706,7 +8728,7 @@
                                                                                         style="vertical-align: inherit;">
                                                                                         <font
                                                                                             style="vertical-align: inherit;">
-                                                                                            机器详情</font>
+                                                                                            Machine Details</font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
@@ -8737,9 +8759,6 @@
                                                                             </span>
                                                                             <span class="elementor-button-text">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    <font
-                                                                                        style="vertical-align: inherit;">
-                                                                                        720° 全景视图</font>
                                                                                 </font>
                                                                             </span>
                                                                         </span>
@@ -8797,7 +8816,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="/product/1-6.jpg"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647251947424/2.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9046,7 +9065,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="/product/2-5.jpg"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647865461456/3.jpg?x-oss-process=style/small"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9198,7 +9217,8 @@
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
                                                                                         class="attachment-large size-large entered lazyloaded"
-                                                                                        alt="" src="/product/3-5.jpg"
+                                                                                        alt=""
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1648384790161/4.jpg?x-oss-process=style/small"
                                                                                         data-ll-status="loaded"
                                                                                         loading="lazy">
                                                                                     <div class="uael-hotspot-container"
@@ -9312,7 +9332,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="/product/4-5.jpg"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647251947579/5.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9511,8 +9531,8 @@
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">想拿到价格？
-                                                                        </font>
+                                                                        <font style="vertical-align: inherit;">Want to
+                                                                            get the price?</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -9523,8 +9543,9 @@
                                                             <div class="elementor-widget-container">
                                                                 <p>
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">我们的销售专家将在
-                                                                            24 小时内与您联系。</font>
+                                                                        <font style="vertical-align: inherit;">Our sales
+                                                                            experts will contact you within 24 hours.
+                                                                        </font>
                                                                     </font>
                                                                 </p>
                                                             </div>
@@ -9543,7 +9564,7 @@
                                                                                 <font style="vertical-align: inherit;">
                                                                                     <font
                                                                                         style="vertical-align: inherit;">
-                                                                                        获取免费报价</font>
+                                                                                        Get Free Quote</font>
                                                                                 </font>
                                                                             </span>
                                                                         </span>
@@ -9579,7 +9600,8 @@
                                                                                         style="vertical-align: inherit;">
                                                                                         <font
                                                                                             style="vertical-align: inherit;">
-                                                                                            标准和可选</font>
+                                                                                            Standard &amp; Optional
+                                                                                        </font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -9592,7 +9614,7 @@
                                                                                         style="vertical-align: inherit;">
                                                                                         <font
                                                                                             style="vertical-align: inherit;">
-                                                                                            组件</font>
+                                                                                            Components</font>
                                                                                     </font>
                                                                                 </h2>
                                                                             </div>
@@ -9605,8 +9627,13 @@
                                                                                             style="vertical-align: inherit;">
                                                                                             <font
                                                                                                 style="vertical-align: inherit;">
-                                                                                                通过以下机器详细展示和文字说明，您可以更好地了解机器的性能
-                                                                                            </font>
+                                                                                                You can better
+                                                                                                understand the
+                                                                                                performance of the
+                                                                                                machine through the
+                                                                                                following machine detail
+                                                                                                display and text
+                                                                                                description</font>
                                                                                         </font>
                                                                                     </p>
                                                                                 </div>
@@ -9642,7 +9669,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="/product/4-1-1.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948375930/x1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9677,7 +9704,8 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            控制器</font>
+                                                                                                            Controller
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9691,7 +9719,15 @@
                                                                                                             style="vertical-align: inherit;">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                控制器可以控制Y1和Y2轴（Y1控制左油缸，Y2控制右油缸），保证滑枕同步运动。&nbsp;
+                                                                                                                Estun
+                                                                                                                E21s,
+                                                                                                                E200PS
+                                                                                                                and
+                                                                                                                Delem
+                                                                                                                DAC310T
+                                                                                                                controller
+                                                                                                                can be
+                                                                                                                used.
                                                                                                             </font>
                                                                                                         </font>
                                                                                                     </p>
@@ -9722,7 +9758,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="600" height="420"
-                                                                                    src="/product/WADE-Press-Brake-Motor-2.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1647252428028/4-2.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 600px) 100vw, 600px"
@@ -9757,7 +9793,8 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            步进电机</font>
+                                                                                                            Front Table
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9770,7 +9807,16 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            我们折弯机的电机采用世界知名品牌“西门子”，不仅机器工作时噪音低，而且使用寿命更长。
+                                                                                                            It can
+                                                                                                            reduce the
+                                                                                                            contact
+                                                                                                            between the
+                                                                                                            sheet and
+                                                                                                            the
+                                                                                                            worktable
+                                                                                                            and reduce
+                                                                                                            the work
+                                                                                                            intensity.
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </div>
@@ -9803,13 +9849,8 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
-                                                                                    loading="lazy"><noscript><img
-                                                                                        width="700" height="500"
-                                                                                        src="/static/picture/1-7.jpg"
-                                                                                        class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        sizes="(max-width: 700px) 100vw, 700px" /></noscript>
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376022/X3.jpg"
+                                                                                    loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9837,7 +9878,7 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            伺服电机</font>
+                                                                                                            Blade</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9851,20 +9892,32 @@
                                                                                                             style="vertical-align: inherit;">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                伺服电机实现位置、速度和转矩的闭环控制，并通过系统给出的信号修正自身运行。
+                                                                                                                Blade
+                                                                                                                material
+                                                                                                                6CrW2Si.
+                                                                                                                Only the
+                                                                                                                highest
+                                                                                                                quality
+                                                                                                                cutting
+                                                                                                                blades
+                                                                                                                are used
+                                                                                                                to
+                                                                                                                ensure
+                                                                                                                the
+                                                                                                                longest
+                                                                                                                service
+                                                                                                                life and
+                                                                                                                the
+                                                                                                                least
+                                                                                                                number
+                                                                                                                of
+                                                                                                                sharpenings.
                                                                                                             </font>
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                具有精度高、速度快、稳定性强、及时性、舒适性等优点。&nbsp;
-                                                                                                            </font>
+
                                                                                                         </font><span
                                                                                                             style="font-style: inherit;font-weight: inherit">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    与传统步进电机相比，使用伺服电机的优势包括：精度提高到±0.01mm，噪音降低到25分贝，能耗降低60%，液压油消耗量减少70%，效率提高30%。
-                                                                                                                </font>
                                                                                                             </font>
                                                                                                         </span>
                                                                                                     </p>
@@ -9889,7 +9942,7 @@
                                                                     data-id="2d87a79" data-element_type="column">
                                                                     <div
                                                                         class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-794ae984 elementor-invisible elementor-widget elementor-widget-image"
+                                                                        <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn"
                                                                             data-id="794ae984"
                                                                             data-element_type="widget" data-settings="{"
                                                                             _animation":"fadein"}"=""
@@ -9899,13 +9952,8 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
-                                                                                    loading="lazy"><noscript><img
-                                                                                        width="700" height="500"
-                                                                                        src="/static/picture/Oil-Pump​.jpg"
-                                                                                        class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        sizes="(max-width: 700px) 100vw, 700px" /></noscript>
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1647252428073/X4.jpg"
+                                                                                    loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9934,7 +9982,8 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            油泵</font>
+                                                                                                            Backgauge
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9947,10 +9996,11 @@
                                                                                                             style="font-style: inherit;font-weight: inherit">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    采用国际进口品牌油泵，噪音更低，输出功率更强。&nbsp;
-                                                                                                                </font>
+                                                                                                            </font>
+                                                                                                        </span><span
+                                                                                                            style="font-style: inherit;font-weight: inherit">
+                                                                                                            <font
+                                                                                                                style="vertical-align: inherit;">
                                                                                                             </font>
                                                                                                         </span><span
                                                                                                             style="font-style: inherit;font-weight: inherit">
@@ -9958,16 +10008,37 @@
                                                                                                                 style="vertical-align: inherit;">
                                                                                                                 <font
                                                                                                                     style="vertical-align: inherit;">
-                                                                                                                    惊人的低噪音，由高强度铸铁制成，独特的内部降噪设计。&nbsp;
-                                                                                                                </font>
-                                                                                                            </font>
-                                                                                                        </span><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    对油污敏感度低，确保使用寿命长
+                                                                                                                    The
+                                                                                                                    guillotine
+                                                                                                                    shear
+                                                                                                                    design
+                                                                                                                    consists
+                                                                                                                    of a
+                                                                                                                    box-type
+                                                                                                                    bed
+                                                                                                                    frame
+                                                                                                                    that
+                                                                                                                    is
+                                                                                                                    fully
+                                                                                                                    welded
+                                                                                                                    to
+                                                                                                                    the
+                                                                                                                    workbench.
+                                                                                                                    The
+                                                                                                                    frame
+                                                                                                                    produces
+                                                                                                                    high
+                                                                                                                    stiffness
+                                                                                                                    to
+                                                                                                                    balance
+                                                                                                                    the
+                                                                                                                    torque
+                                                                                                                    load
+                                                                                                                    generated
+                                                                                                                    by
+                                                                                                                    the
+                                                                                                                    shear
+                                                                                                                    forces.
                                                                                                                 </font>
                                                                                                             </font>
                                                                                                         </span></p>
@@ -9992,14 +10063,14 @@
                                                                     data-id="401a051d" data-element_type="column">
                                                                     <div
                                                                         class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-69bde833 elementor-invisible elementor-widget elementor-widget-image"
+                                                                        <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn"
                                                                             data-id="69bde833"
                                                                             data-element_type="widget" data-settings="{"
                                                                             _animation":"fadein"}"=""
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376115/X5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10032,7 +10103,7 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            液压系统</font>
+                                                                                                            Motor</font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -10042,18 +10113,14 @@
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">Our
-                                                                                                            press brake
-                                                                                                            machine uses
-                                                                                                            Hoerbiger
-                                                                                                            integrated
-                                                                                                            hydraulic
-                                                                                                            control
-                                                                                                            system that
-                                                                                                            make it more
-                                                                                                            reliable and
-                                                                                                            easy for
-                                                                                                            maintenance.</span><br>
+                                                                                                            style="font-style: inherit;font-weight: inherit">We're
+                                                                                                            using the
+                                                                                                            Siemens
+                                                                                                            motor to
+                                                                                                            ensure the
+                                                                                                            service life
+                                                                                                            of the
+                                                                                                            machine.</span><br>
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -10076,23 +10143,18 @@
                                                                     data-id="1653dd7c" data-element_type="column">
                                                                     <div
                                                                         class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-invisible elementor-widget elementor-widget-image"
+                                                                        <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn"
                                                                             data-id="740da2e8"
                                                                             data-element_type="widget" data-settings="{"
                                                                             _animation":"fadein"}"=""
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648384790218/x6.jpg?x-oss-process=style/small"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy"><noscript><img
-                                                                                        width="700" height="500"
-                                                                                        src="/static/picture/Electrical-System​-1.jpg"
-                                                                                        class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        sizes="(max-width: 700px) 100vw, 700px" /></noscript>
+                                                                                    loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -10117,7 +10179,7 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Electrical System
+                                                                                                    Hydraulic System
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div
@@ -10126,31 +10188,33 @@
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">Our
-                                                                                                            press brake
-                                                                                                            adopt
-                                                                                                            Schneider
-                                                                                                            electrical
-                                                                                                            components.
-                                                                                                            The high
-                                                                                                            quality
-                                                                                                            electric
-                                                                                                            parts can
-                                                                                                            make the
-                                                                                                            machine
-                                                                                                            performing
-                                                                                                            well even
-                                                                                                            the
-                                                                                                            electricity
-                                                                                                            is not
+                                                                                                            style="font-style: inherit;font-weight: inherit">The
+                                                                                                            BOSCH
+                                                                                                            (Rexroth)
+                                                                                                            integrated
+                                                                                                            hydraulic
+                                                                                                            system is
+                                                                                                            compact. The
+                                                                                                            system
+                                                                                                            pressure
+                                                                                                            control
+                                                                                                            adopts
+                                                                                                            electro-hydraulic
+                                                                                                            proportional
+                                                                                                            pressure
+                                                                                                            valve, and
+                                                                                                            the whole
+                                                                                                            process
+                                                                                                            pressure can
+                                                                                                            be
+                                                                                                            programmed
+                                                                                                            and
+                                                                                                            controlled
+                                                                                                            to ensure
                                                                                                             stable and
-                                                                                                            customers
-                                                                                                            can easily
-                                                                                                            get the
-                                                                                                            replacement
-                                                                                                            anywhere in
-                                                                                                            the
-                                                                                                            world.</span><br>
+                                                                                                            reliable
+                                                                                                            machine
+                                                                                                            performance.</span><br>
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -10173,23 +10237,18 @@
                                                                     data-id="3fb4274" data-element_type="column">
                                                                     <div
                                                                         class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-invisible elementor-widget elementor-widget-image"
+                                                                        <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn"
                                                                             data-id="4e33a99a"
                                                                             data-element_type="widget" data-settings="{"
                                                                             _animation":"fadein"}"=""
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376220/X7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy"><noscript><img
-                                                                                        width="700" height="500"
-                                                                                        src="/static/picture/3-6.jpg"
-                                                                                        class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        sizes="(max-width: 700px) 100vw, 700px" /></noscript>
+                                                                                    loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -10214,7 +10273,7 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Backgauge System
+                                                                                                    Eletrical System
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div
@@ -10224,36 +10283,15 @@
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
                                                                                                             style="font-style: inherit;font-weight: inherit">We
-                                                                                                            using the
-                                                                                                            Taiwan PMI
-                                                                                                            ball screw
-                                                                                                            and linear
-                                                                                                            guide to
-                                                                                                            ensure the
-                                                                                                            moving of
-                                                                                                            X-axis with
-                                                                                                            higher
-                                                                                                            accuracy
-                                                                                                            than using
-                                                                                                            rod. And the
-                                                                                                            backgauge
-                                                                                                            adopt timing
-                                                                                                            belt &amp;
-                                                                                                            wheel
-                                                                                                            mechanism
-                                                                                                            which
-                                                                                                            controlled
-                                                                                                            by servo
-                                                                                                            motor
-                                                                                                            instead of
-                                                                                                            step
-                                                                                                            motor.&nbsp;</span><br>
+                                                                                                            use
+                                                                                                            schneider
+                                                                                                            electrical
+                                                                                                            components
+                                                                                                            to ensure
+                                                                                                            the stable
+                                                                                                            performance.</span><br>
                                                                                                     </p>
-                                                                                                    <p>The height of the
-                                                                                                        backgauge finger
-                                                                                                        can be adjusted
-                                                                                                        manually.&nbsp;
-                                                                                                    </p>
+
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -10275,23 +10313,18 @@
                                                                     data-id="2d588c7e" data-element_type="column">
                                                                     <div
                                                                         class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image"
+                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
                                                                             data-id="30abb32a"
                                                                             data-element_type="widget" data-settings="{"
                                                                             _animation":"fadein"}"=""
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20500'%3E%3C/svg%3E"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648384790254/x8.jpg?x-oss-process=style/small"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy"><noscript><img
-                                                                                        width="700" height="500"
-                                                                                        src="/static/picture/6.jpg"
-                                                                                        class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        sizes="(max-width: 700px) 100vw, 700px" /></noscript>
+                                                                                    loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -10316,26 +10349,32 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Punches &amp; Dies
-                                                                                                </h3>
+                                                                                                    Hydraulic Hold-down
+                                                                                                    Pads</h3>
                                                                                             </div>
                                                                                             <div
                                                                                                 class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The standard top
-                                                                                                    punch and dual-V
-                                                                                                    bottom die are
-                                                                                                    specially designed
-                                                                                                    for bending sheet
-                                                                                                    metals. More press
-                                                                                                    brake toolings can
-                                                                                                    be selected as per
-                                                                                                    your practical use.
-                                                                                                    Material and HRC47
-                                                                                                    degree values ​​are
-                                                                                                    marked on it </div>
+                                                                                                    The lower end of the
+                                                                                                    press cylinder is
+                                                                                                    made of non-metal
+                                                                                                    material, which has
+                                                                                                    certain elasticity
+                                                                                                    and large friction
+                                                                                                    coefficient. When
+                                                                                                    cutting the sheet,
+                                                                                                    the press pad can be
+                                                                                                    in close contact
+                                                                                                    with the material
+                                                                                                    plate to provide
+                                                                                                    sufficient friction
+                                                                                                    to effectively
+                                                                                                    prevent the plate
+                                                                                                    from being shaken
+                                                                                                    during the shearing
+                                                                                                    process.</div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -10400,16 +10439,15 @@
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper">
                                                                     <a href="javascript:;"
-                                                                        class="elementor-button-link elementor-button elementor-size-xl"
+                                                                        class="elementor-button-link elementor-button elementor-size-xl elementor-button-content-wrapper"
+                                                                        style="width:max-content;margin:auto;"
                                                                         role="button">
-                                                                        <span class="elementor-button-content-wrapper">
-                                                                            <span
-                                                                                class="elementor-button-icon elementor-align-icon-right"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="fas fa-download"></i> </span>
-                                                                            <span class="elementor-button-text">Download
-                                                                                brochure</span>
-                                                                        </span>
+                                                                        <span class="elementor-button-text">Download
+                                                                            brochure</span>
+                                                                        <span
+                                                                            class="elementor-button-icon elementor-align-icon-right"><i
+                                                                                aria-hidden="true"
+                                                                                class="fas fa-download"></i></span>
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -10429,290 +10467,15 @@
 
 
 
-        <div component="footer.php">
-            <script type="text/javascript" src="/js/customer.js"></script>
 
-            <div data-elementor-type="footer" data-elementor-id="125"
-                class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="4d77cba" data-element_type="section" data-settings="{"
-                        background_background":"classic"}"="">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505"
-                                data-id="fb54505" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image"
-                                        data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <img width="154" height="60"
-                                                src="//cdn.xuansiwei.com/zhang3794/1645260265111/10.png?x-oss-process=style/png_small"
-                                                class="attachment-large size-large" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor"
-                                        data-id="9feec28" data-element_type="widget"
-                                        data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is
-                                            a modern management enterprise producing all kinds of ordinary and NC
-                                            bending machines, plate shears, laser cutting machines and supporting knives
-                                            and molds. </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-                                        data-id="77f5f5f" data-element_type="widget"
-                                        data-widget_type="social-icons.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-social-icons-wrapper elementor-grid">
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61"
-                                                        target="_blank">
-                                                        <span class="elementor-screen-only">Facebook</span>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                </span>
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5"
-                                                        target="_blank">
-                                                        <span class="elementor-screen-only">Twitter</span>
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </span>
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                        target="_blank">
-                                                        <span class="elementor-screen-only">Youtube</span>
-                                                        <i class="fab fa-youtube"></i>
-                                                    </a>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d"
-                                data-id="5cbb53d" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading"
-                                        data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Links</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item">Services</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item">Contact us</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item"
-                                                            tabindex="-1">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item"
-                                                            tabindex="-1">Services</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item"
-                                                            tabindex="-1">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item"
-                                                            tabindex="-1">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item"
-                                                            tabindex="-1">Contact us</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449"
-                                data-id="f7a0449" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading"
-                                        data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Services</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item">Pre-sales
-                                                            consultation</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item">Sign contract</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item">Quality
-                                                            assurance</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item">High-quality
-                                                            after-sales</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item">Offline
-                                                            communication</a></li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Power Energies</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Mechanical Engineering</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Chemical Research</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Industrial Construction</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Petroleum and Gas</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757"
-                                data-id="9815757" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading"
-                                        data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                        data-id="2de5018" data-element_type="widget"
-                                        data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
-                                                    <span class="elementor-icon-list-text">Shiqiu Industrial Zone,
-                                                        Lishui District, Nanjing City, Jiangsu Province</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-phone"></i></span>
-                                                    <span class="elementor-icon-list-text">400-886-6884</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
-                                                    <span
-                                                        class="elementor-icon-list-text">sales@ruchengmachine.com</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="523a6fc" data-element_type="section" data-settings="{"
-                        background_background":"classic"}"="">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec"
-                                data-id="f4057ec" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading"
-                                        data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default"> 2021
-                                                abc4318.sg-host. All Right Reserved. </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
+
+
+
+        <?php include 'footer.php'; ?>
+
+
+
+
 
 
 
@@ -11245,6 +11008,22 @@
     <div style="all: initial;">
         <div id="__hcfy__" style="all: initial;"></div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

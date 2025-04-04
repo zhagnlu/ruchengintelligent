@@ -173,7 +173,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>TR1 Single Panel Tube Integrated Laser Cutting Machine - </title>
+    <title>TR2 Exchange Table Plate and Tube Integrated Laser Cutting Machine - </title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -8392,14 +8392,14 @@
     <meta name="keywords" content="">
 <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
         <!-- twitter分享 -->
-        <meta property="twitter:url" content="/product_3_4.php">
+        <meta property="twitter:url" content="/product-exchange_panel_tube_laser_cutting_machine.php">
         <meta name="twitter:title" content="">
         <meta name="twitter:description" content="">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="null">
 
         <!-- facebook分享 -->
-        <meta property="og:url" content="/product_3_4.php">
+        <meta property="og:url" content="/product-exchange_panel_tube_laser_cutting_machine.php">
         <meta property="og:type" content="website">
         <meta property="og:title" content="">
         <meta property="og:description" content="">
@@ -8509,7 +8509,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn" data-id="671e90da" data-element_type="widget" data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1645960318201/1-1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
+                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1645960318261/2-1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -8520,7 +8520,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">TR1 single panel tube integrated laser cutting machine</font>
+                                                                        <font style="vertical-align: inherit;">TR2 exchange table plate tube integrated laser cutting machine</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8573,7 +8573,8 @@
                                                                                 <span class="elementor-button-content-wrapper uael-buttons-icon-">
 <span class="elementor-align-icon- elementor-button-icon">
 </span>
-                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote</font></font></span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote
+</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
@@ -8606,7 +8607,9 @@
                                                                             <div class="uael-infobox-title-wrap">
                                                                                 <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">CHECK OUT</font>
+                                                                                        <font style="vertical-align: inherit;">CHECK OUT
+
+                                                                                        </font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -8669,7 +8672,7 @@
                                                                         <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="1e92adac" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646137033268/c1.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646914671320/c3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
@@ -8762,7 +8765,7 @@
                                                                         <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="c75a9ae" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646137033314/c2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646914671251/c1.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
@@ -8829,7 +8832,7 @@
                                                                         <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="14823dfa" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646137033351/c3.jpg" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646914671288/c2.jpg" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
@@ -8872,7 +8875,7 @@
                                                                         <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="39d9dd0b" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646137033390/c4.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646914671367/c4.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
@@ -9000,7 +9003,8 @@
                                                                             <div class="uael-infobox-title-wrap">
                                                                                 <h6 class="uael-infobox-title-prefix elementor-inline-editing" data-elementor-setting-key="infobox_title_prefix" data-elementor-inline-editing-toolbar="basic">
                                                                                     <font style="vertical-align: inherit;">
-                                                                                        <font style="vertical-align: inherit;">Standard &amp; Optional</font>
+                                                                                        <font style="vertical-align: inherit;">Standard &amp; Optional
+                                                                                        </font>
                                                                                     </font>
                                                                                 </h6>
                                                                                 <div class="uael-separator-parent">
@@ -9054,7 +9058,8 @@
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Laser Cutter Console</font>
+                                                                                                        <font style="vertical-align: inherit;">laser cutting machine Console
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9096,7 +9101,8 @@
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Flange type precision reducer</font>
+                                                                                                        <font style="vertical-align: inherit;">Flange type precision reducer
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9136,7 +9142,8 @@
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Exchange table sprocket chain type exchange structure</font>
+                                                                                                        <font style="vertical-align: inherit;">Exchange table sprocket chain type exchange structure
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9178,13 +9185,14 @@
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Precision rails and helical racks</font>
+                                                                                                        <font style="vertical-align: inherit;">Precision rails and helical racks
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">It has four-direction and other load characteristics and the function of automatic centering, which can absorb the assembly error of the mounting surface and obtain high-precision demands.</font></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">It has four-direction and other load characteristics and the function of automatic centering, which can absorb the assembly error of the mounting surface and obtain high-precision demands.</font></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9216,7 +9224,8 @@
                                                                                             <div class="uael-infobox-title-wrap">
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">Double servo motor gantry double drive</font>
+                                                                                                        <font style="vertical-align: inherit;">Double servo motor gantry double drive
+                                                                                                        </font>
                                                                                                     </font>
                                                                                                 </h3>
                                                                                             </div>
@@ -9252,7 +9261,8 @@
                                                                                     <div class="uael-infobox-left-right-wrap">
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Flange type precision reducer</h3>
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Flange type precision reducer
+                                                                                                </h3>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
@@ -9286,11 +9296,13 @@
                                                                                     <div class="uael-infobox-left-right-wrap">
                                                                                         <div class="uael-infobox-content">
                                                                                             <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Fiber laser special cutting head</h3>
+                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Fiber laser special cutting head
+                                                                                                </h3>
+                                                                                                <div>German PRECITEC&nbsp;</div>
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">German PRECITEC </span><br></p>
+                                                                                                    <p><br></p>
 
                                                                                                 </div>
                                                                                             </div>
@@ -9394,195 +9406,7 @@
 
 
         
-        <div component="footer.php">
-            <script type="text/javascript" src="/js/customer.js"></script>
-
-<div data-elementor-type="footer" data-elementor-id="125" class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
-    <div class="elementor-section-wrap">
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d77cba" data-element_type="section" data-settings="{'background_background':'classic'}">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505" data-id="fb54505" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image" data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="154" height="60" src="//cdn.xuansiwei.com/zhang3794/1646744278031/11.png?x-oss-process=style/png_small" class="attachment-large size-large" alt="" loading="lazy">
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor" data-id="9feec28" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is a modern management enterprise producing all kinds of ordinary and NC bending machines, plate shears, laser cutting machines and supporting knives and molds. </div>
-                        </div>
-                        <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="77f5f5f" data-element_type="widget" data-widget_type="social-icons.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-social-icons-wrapper elementor-grid">
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61" target="_blank" href="https://www.facebook.com/profile.php?id=100078482187510 ">
-						                    <span class="elementor-screen-only">Facebook</span>
-                                    <i class="fab fa-facebook"></i>
-                                    </a>
-                                    </span>
-                                    <a href="/">
-                                        <span class="elementor-grid-item">
-					                    </span></a><a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5" target="_blank" href="https://twitter.com/Ruchengchina">
-                                        <span class="elementor-screen-only">Twitter</span>
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2" target="_blank" href="https://www.youtube.com/channel/UCDtDqUgMqtMIa_9HuPvajpQ  ">
-						                    <span class="elementor-screen-only">Youtube</span>
-                                    <i class="fab fa-youtube"></i>
-                                    </a>
-                                    </span>
-                                    <span class="elementor-grid-item">
-					                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2" target="_blank" href=" https://vm.tiktok.com/TTPdavJ8fV/">
-						                    <span class="elementor-screen-only">Youtube</span>
-                                    <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small" alt="" height="25px" width="25px" loading="lazy">
-                                    </a>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d" data-id="5cbb53d" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading" data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Links</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                            <div class="elementor-widget-container">
-                                <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                    <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="/about.php" class="elementor-item">About</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="/services.php" class="elementor-item">Services</a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="/product.php" class="elementor-item">Product</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="/blog.php" class="elementor-item">Blog</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="/contact.php" class="elementor-item">Contact us</a></li>
-                                    </ul>
-                                </nav>
-                                <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-                                    <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                    <span class="elementor-screen-only">Menu</span>
-                                </div>
-                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-                                    <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="/about.php" class="elementor-item" tabindex="-1">About</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="/services.php" class="elementor-item" tabindex="-1">Services</a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="/product.php" class="elementor-item" tabindex="-1">Product</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="/blog.php" class="elementor-item" tabindex="-1">Blog</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="/contact.php" class="elementor-item" tabindex="-1">Contact us</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449" data-id="f7a0449" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading" data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Services</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                            <div class="elementor-widget-container">
-                                <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                    <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267"><a href="javascript:;" class="elementor-item">Pre-sales consultation</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268"><a href="javascript:;" class="elementor-item">Sign contract</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269"><a href="javascript:;" class="elementor-item">Quality assurance</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270"><a href="javascript:;" class="elementor-item">High-quality after-sales</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271"><a href="javascript:;" class="elementor-item">Offline communication</a></li>
-                                    </ul>
-                                </nav>
-                                <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-                                    <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                    <span class="elementor-screen-only">Menu</span>
-                                </div>
-                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-                                    <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267"><a href="javascript:;" class="elementor-item" tabindex="-1">Power Energies</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268"><a href="javascript:;" class="elementor-item" tabindex="-1">Mechanical Engineering</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269"><a href="javascript:;" class="elementor-item" tabindex="-1">Chemical Research</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270"><a href="javascript:;" class="elementor-item" tabindex="-1">Industrial Construction</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271"><a href="javascript:;" class="elementor-item" tabindex="-1">Petroleum and Gas</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757" data-id="9815757" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading" data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2de5018" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                                <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
-                                        <span class="elementor-icon-list-text">Shiqiu Industrial Zone, Lishui District, Nanjing City, Jiangsu Province</span>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-phone"></i></span>
-                                        <span class="elementor-icon-list-text">400-886-6884</span>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon">
-							            <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
-                                        <span class="elementor-icon-list-text">sales@ruchengmachine.com</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="523a6fc" data-element_type="section" data-settings="{'background_background':'classic'}">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec" data-id="f4057ec" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading" data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h3 class="elementor-heading-title elementor-size-default"> <a href="privacy.php">Privacy Policy</a> &nbsp;<a href="terms.php">Terms</a> &nbsp; Copyright @ Nanjing Rucheng Technology Co., Ltd. All rights reserved. </h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</div>
-        </div>
+        <?php include 'footer.php'; ?>
     
 
 

@@ -75,7 +75,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15956">
-                                                                        <a href="/product_1_1.php"
+                                                                        <a href="/product-electro_hydraulic_cnc_press_brake.php"
                                                                             class="elementor-sub-item">Electro-hydraulic
                                                                             CNC Press Brake</a>
                                                                     </li>
@@ -83,7 +83,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15957">
-                                                                        <a href="/product_1_2.php"
+                                                                        <a href="/product-torsion_press_brake.php"
                                                                             class="elementor-sub-item">Torsion-synchro
                                                                             CNC Press Brake</a>
                                                                     </li>
@@ -91,7 +91,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15958">
-                                                                        <a href="/product_1_3.php"
+                                                                        <a href="/product-tandem_press_brake.php"
                                                                             class="elementor-sub-item">Tandem Press
                                                                             Brake</a>
                                                                     </li>
@@ -99,7 +99,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15959">
-                                                                        <a href="/product_1_4.php"
+                                                                        <a href="/product-heavy_duty_press_brake.php"
                                                                             class="elementor-sub-item">Heavy-duty Press
                                                                             Brake</a>
                                                                     </li>
@@ -107,7 +107,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15960">
-                                                                        <a href="/product_1_5.php"
+                                                                        <a href="/product-robotic_press_brake.php"
                                                                             class="elementor-sub-item">Robotic Press
                                                                             Brake</a>
                                                                     </li>
@@ -120,23 +120,23 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
                                                                 <a href="/product.php?c=2"
-                                                                    class="elementor-sub-item">Hydraulic Shear</a>
+                                                                    class="elementor-sub-item">Hydraulic Shearing Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
-                                                                        <a href="/product_2_1.php"
+                                                                        <a href="/product-swing_beam_shearing_machine.php "
                                                                             class="elementor-sub-item">Swing Beam
-                                                                            Shear</a>
+                                                                            Shearing Machine</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15962">
-                                                                        <a href="/product_2_2.php"
+                                                                        <a href="/product-guillotine_shearing_machine.php"
                                                                             class="elementor-sub-item">Guillotine
-                                                                            Shear</a>
+                                                                            Shearing Machine</a>
                                                                     </li>
 
                                                                 </ul>
@@ -147,13 +147,13 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
                                                                 <a href="/product.php?c=3"
-                                                                    class="elementor-sub-item">Fiber Laser Cutter</a>
+                                                                    class="elementor-sub-item">Fiber Laser Cutting Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15963">
-                                                                        <a href="/product_3_1.php"
+                                                                        <a href="/product-single_table_fiber_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">T1 Single Table
                                                                             Fiber Laser Cutting Machine</a>
                                                                     </li>
@@ -161,7 +161,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
-                                                                        <a href="/product_3_2.php"
+                                                                        <a href="/product-double_table_fiber_laser_cutting_machine.php "
                                                                             class="elementor-sub-item">T2 Double Table
                                                                             Fiber Laser Cutting Machine</a>
                                                                     </li>
@@ -169,7 +169,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15965">
-                                                                        <a href="/product_3_3.php"
+                                                                        <a href="/product-fully_enclosed_fiber_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">T3 Fully Enclosed
                                                                             Laser Cutting Machine</a>
                                                                     </li>
@@ -177,7 +177,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
-                                                                        <a href="/product_3_4.php"
+                                                                        <a href="/product-single_panel_tube__laser_cutting_machine.php "
                                                                             class="elementor-sub-item">TR1 Single Panel
                                                                             Tube Integrated Laser Cutting Machine</a>
                                                                     </li>
@@ -185,7 +185,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15967">
-                                                                        <a href="/product_3_5.php"
+                                                                        <a href="/product-exchange_panel_tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">TR2 Exchange
                                                                             Table Plate and Tube Integrated Laser
                                                                             Cutting Machine</a>
@@ -194,7 +194,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15968">
-                                                                        <a href="/product_3_6.php"
+                                                                        <a href="/product-full_protection_tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">TR3
                                                                             Full-protection Interactive Table Panel Tube
                                                                             Integrated Laser Cutting Machine</a>
@@ -203,7 +203,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15969">
-                                                                        <a href="/product_3_7.php"
+                                                                        <a href="/product-tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">Tube Laser
                                                                             Cutting Machine</a>
                                                                     </li>
@@ -216,24 +216,24 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
                                                                 <a href="/product.php?c=4"
-                                                                    class="elementor-sub-item">Veneer Reeling
+                                                                    class="elementor-sub-item">Plate Rolling
                                                                     Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15970">
-                                                                        <a href="/product_4_1.php"
+                                                                        <a href="/product-plate_rolling_machine.php"
                                                                             class="elementor-sub-item">W11 Three-roller
-                                                                            symmetrical Veneer Reeling Machine</a>
+                                                                            Plate Rolling Machine</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15971">
-                                                                        <a href="/product_4_2.php"
+                                                                        <a href="/product-four-roller_plate_rolling_machine.php"
                                                                             class="elementor-sub-item">W11S Universal
-                                                                            Veneer Reeling Machine</a>
+                                                                            Plate Rolling Machine</a>
                                                                     </li>
 
                                                                 </ul>
@@ -244,15 +244,15 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
                                                                 <a href="/product.php?c=5"
-                                                                    class="elementor-sub-item">Hand-Opeeated
+                                                                    class="elementor-sub-item">Hand-Operated
                                                                     Ironworker</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16459">
-                                                                        <a href="/product_5_1.php"
-                                                                            class="elementor-sub-item">Hand-Opeeated
+                                                                        <a href="/product-hand_operated_ironworker.php"
+                                                                            class="elementor-sub-item">Hand-Operated
                                                                             Ironworker</a>
                                                                     </li>
 
@@ -271,7 +271,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16460">
-                                                                        <a href="/product_6_1.php"
+                                                                        <a href="/product-four_column_hydraulic_press.php"
                                                                             class="elementor-sub-item">Four-Column
                                                                             Hydraulic Press</a>
                                                                     </li>
@@ -502,7 +502,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15956">
-                                                                        <a href="/product_1_1.php"
+                                                                        <a href="/product-electro_hydraulic_cnc_press_brake.php"
                                                                             class="elementor-sub-item">Electro-hydraulic
                                                                             CNC Press Brake</a>
                                                                     </li>
@@ -510,7 +510,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15957">
-                                                                        <a href="/product_1_2.php"
+                                                                        <a href="/product-torsion_press_brake.php"
                                                                             class="elementor-sub-item">Torsion-synchro
                                                                             CNC Press Brake</a>
                                                                     </li>
@@ -518,7 +518,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15958">
-                                                                        <a href="/product_1_3.php"
+                                                                        <a href="/product-tandem_press_brake.php"
                                                                             class="elementor-sub-item">Tandem Press
                                                                             Brake</a>
                                                                     </li>
@@ -526,7 +526,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15959">
-                                                                        <a href="/product_1_4.php"
+                                                                        <a href="/product-heavy_duty_press_brake.php"
                                                                             class="elementor-sub-item">Heavy-duty Press
                                                                             Brake</a>
                                                                     </li>
@@ -534,7 +534,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15960">
-                                                                        <a href="/product_1_5.php"
+                                                                        <a href="/product-robotic_press_brake.php"
                                                                             class="elementor-sub-item">Robotic Press
                                                                             Brake</a>
                                                                     </li>
@@ -547,23 +547,23 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
                                                                 <a href="/product.php?c=2"
-                                                                    class="elementor-sub-item">Hydraulic Shear</a>
+                                                                    class="elementor-sub-item">Hydraulic Shearing Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
-                                                                        <a href="/product_2_1.php"
+                                                                        <a href="/product-swing_beam_shearing_machine.php "
                                                                             class="elementor-sub-item">Swing Beam
-                                                                            Shear</a>
+                                                                            Shearing Machine</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15962">
-                                                                        <a href="/product_2_2.php"
+                                                                        <a href="/product-guillotine_shearing_machine.php"
                                                                             class="elementor-sub-item">Guillotine
-                                                                            Shear</a>
+                                                                            Shearing Machine</a>
                                                                     </li>
 
                                                                 </ul>
@@ -574,13 +574,13 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
                                                                 <a href="/product.php?c=3"
-                                                                    class="elementor-sub-item">Fiber Laser Cutter</a>
+                                                                    class="elementor-sub-item">Fiber Laser Cutting Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15963">
-                                                                        <a href="/product_3_1.php"
+                                                                        <a href="/product-single_table_fiber_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">T1 Single Table
                                                                             Fiber Laser Cutting Machine</a>
                                                                     </li>
@@ -588,7 +588,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
-                                                                        <a href="/product_3_2.php"
+                                                                        <a href="/product-double_table_fiber_laser_cutting_machine.php "
                                                                             class="elementor-sub-item">T2 Double Table
                                                                             Fiber Laser Cutting Machine</a>
                                                                     </li>
@@ -596,7 +596,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15965">
-                                                                        <a href="/product_3_3.php"
+                                                                        <a href="/product-fully_enclosed_fiber_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">T3 Fully Enclosed
                                                                             Laser Cutting Machine</a>
                                                                     </li>
@@ -604,7 +604,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
-                                                                        <a href="/product_3_4.php"
+                                                                        <a href="/product-single_panel_tube__laser_cutting_machine.php "
                                                                             class="elementor-sub-item">TR1 Single Panel
                                                                             Tube Integrated Laser Cutting Machine</a>
                                                                     </li>
@@ -612,7 +612,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15967">
-                                                                        <a href="/product_3_5.php"
+                                                                        <a href="/product-exchange_panel_tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">TR2 Exchange
                                                                             Table Plate and Tube Integrated Laser
                                                                             Cutting Machine</a>
@@ -621,7 +621,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15968">
-                                                                        <a href="/product_3_6.php"
+                                                                        <a href="/product-full_protection_tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">TR3
                                                                             Full-protection Interactive Table Panel Tube
                                                                             Integrated Laser Cutting Machine</a>
@@ -630,7 +630,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15969">
-                                                                        <a href="/product_3_7.php"
+                                                                        <a href="/product-tube_laser_cutting_machine.php"
                                                                             class="elementor-sub-item">Tube Laser
                                                                             Cutting Machine</a>
                                                                     </li>
@@ -643,24 +643,24 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
                                                                 <a href="/product.php?c=4"
-                                                                    class="elementor-sub-item">Veneer Reeling
+                                                                    class="elementor-sub-item">Plate Rolling
                                                                     Machine</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15970">
-                                                                        <a href="/product_4_1.php"
+                                                                        <a href="/product-plate_rolling_machine.php"
                                                                             class="elementor-sub-item">W11 Three-roller
-                                                                            symmetrical Veneer Reeling Machine</a>
+                                                                            Plate Rolling Machine</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15971">
-                                                                        <a href="/product_4_2.php"
+                                                                        <a href="/product-four-roller_plate_rolling_machine.php"
                                                                             class="elementor-sub-item">W11S Universal
-                                                                            Veneer Reeling Machine</a>
+                                                                            Plate Rolling Machine</a>
                                                                     </li>
 
                                                                 </ul>
@@ -671,15 +671,15 @@ function isActive($page) {
                                                             <li
                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
                                                                 <a href="/product.php?c=5"
-                                                                    class="elementor-sub-item">Hand-Opeeated
+                                                                    class="elementor-sub-item">Hand-Operated
                                                                     Ironworker</a>
 
                                                                 <ul class="sub-menu elementor-nav-menu--dropdown">
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16459">
-                                                                        <a href="/product_5_1.php"
-                                                                            class="elementor-sub-item">Hand-Opeeated
+                                                                        <a href="/product-hand_operated_ironworker.php"
+                                                                            class="elementor-sub-item">Hand-Operated
                                                                             Ironworker</a>
                                                                     </li>
 
@@ -698,7 +698,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16460">
-                                                                        <a href="/product_6_1.php"
+                                                                        <a href="/product-four_column_hydraulic_press.php"
                                                                             class="elementor-sub-item">Four-Column
                                                                             Hydraulic Press</a>
                                                                     </li>

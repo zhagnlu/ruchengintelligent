@@ -176,7 +176,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>Torsion-synchro CNC Press Brake - </title>
+    <title>Heavy-duty Press Brake | Rucheng Machinery</title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -8407,14 +8407,14 @@
     <meta name="keywords" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/product_1_2.php">
+    <meta property="twitter:url" content="/product-heavy_duty_press_brake.php">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/product_1_2.php">
+    <meta property="og:url" content="/product-heavy_duty_press_brake.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="">
     <meta property="og:description" content="">
@@ -8504,13 +8504,7 @@
 
 
 
-
-
-
     <?php include 'header.php'; ?>
-
-
-
 
 
 
@@ -8544,7 +8538,7 @@
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943587157/1.jpg"
+                                                                    src="//cdn.xuansiwei.com/zhang3794/1647250202980/1.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8566,7 +8560,7 @@
                                                                     class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
                                                                         <font style="vertical-align: inherit;">
-                                                                            Torsion-synchro NC Press Brake</font>
+                                                                            Heavy-duty Press Brake</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8577,14 +8571,11 @@
                                                             <div class="elementor-widget-container">
                                                                 <p>
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">WC67K
-                                                                            series press brake equipped with standard
-                                                                            single-axis backgauge system (X-axis) and
-                                                                            single-axis bending angle system (Y-axis),
-                                                                            you can choose to add V-axis compensation
-                                                                            function, and select the appropriate mold to
-                                                                            easily bend the workpiece with complex
-                                                                            shapes.</font>
+                                                                        <font style="vertical-align: inherit;">For
+                                                                            particularly thick plate bending, our large
+                                                                            bending machine will be your best choice.
+
+                                                                        </font>
                                                                     </font>
                                                                 </p>
                                                             </div>
@@ -8601,7 +8592,7 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    Entire EU streamlined design</font>
+                                                                                    Full digital control;</font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8612,7 +8603,9 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    Heat treatment frame</font>
+                                                                                    Convenient operation and
+                                                                                    maintenance, simple and reliable
+                                                                                    adjustment;</font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8623,8 +8616,9 @@
                                                                         <span class="elementor-icon-list-text">
                                                                             <font style="vertical-align: inherit;">
                                                                                 <font style="vertical-align: inherit;">
-                                                                                    Hydraulic synchronization control
-                                                                                </font>
+                                                                                    High reliability CNC system and
+                                                                                    electro-hydraulic servo system are
+                                                                                    adopted for accurate control;</font>
                                                                             </font>
                                                                         </span>
                                                                     </li>
@@ -8823,7 +8817,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647864794415/3.jpg?x-oss-process=style/small"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647250203029/2.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9071,7 +9065,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647864794368/2.jpg?x-oss-process=style/small"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647250203069/3.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9223,7 +9217,7 @@
                                                                                     <img width="1024" height="683"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt=""
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943587308/4.jpg"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647863915767/4.jpg?x-oss-process=style/small"
                                                                                         data-ll-status="loaded"
                                                                                         loading="lazy">
                                                                                     <div class="uael-hotspot-container"
@@ -9336,7 +9330,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943587351/5.jpg"
+                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647863915836/5.jpg?x-oss-process=style/small"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9672,7 +9666,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887220/X1.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645945911333/x1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9707,8 +9701,7 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Mechanical
-                                                                                                            Structure
+                                                                                                            Controller
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
@@ -9723,44 +9716,50 @@
                                                                                                             style="vertical-align: inherit;">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                The main
-                                                                                                                mechanical
-                                                                                                                structure
-                                                                                                                of the
-                                                                                                                press
-                                                                                                                brake
-                                                                                                                consists
-                                                                                                                of the
-                                                                                                                frame,
-                                                                                                                column,
-                                                                                                                ram,
-                                                                                                                worktable,
-                                                                                                                the main
+                                                                                                                The
+                                                                                                                controller
+                                                                                                                can
+                                                                                                                control
+                                                                                                                the Y1
+                                                                                                                and Y2
+                                                                                                                axes (Y1
+                                                                                                                controls
+                                                                                                                the left
                                                                                                                 cylinder
-                                                                                                                and
-                                                                                                                backgauge.
-                                                                                                                The main
-                                                                                                                components
-                                                                                                                are
-                                                                                                                through
-                                                                                                                finite
-                                                                                                                element
-                                                                                                                analysis
-                                                                                                                and
-                                                                                                                optimized
-                                                                                                                design
-                                                                                                                by 3D
-                                                                                                                software
-                                                                                                                to fully
-                                                                                                                guarantee
+                                                                                                                and Y2
+                                                                                                                controls
                                                                                                                 the
-                                                                                                                structural
-                                                                                                                strength
-                                                                                                                and
-                                                                                                                rigidity
-                                                                                                                of each
-                                                                                                                component.
+                                                                                                                right
+                                                                                                                cylinder)
+                                                                                                                to
+                                                                                                                ensure
+                                                                                                                the
+                                                                                                                synchronous
+                                                                                                                movement
+                                                                                                                of the
+                                                                                                                ram.
 
+                                                                                                                The
+                                                                                                                standard
+                                                                                                                controller
+                                                                                                                of our
+                                                                                                                WAD
+                                                                                                                series
+                                                                                                                press
+                                                                                                                brake is
+                                                                                                                Delem
+                                                                                                                DA53T.
+                                                                                                                CYBELEC
+                                                                                                                and Esa
+                                                                                                                brand
+                                                                                                                controller
+                                                                                                                can be
+                                                                                                                selected
+                                                                                                                based on
+                                                                                                                your
+                                                                                                                practical
+                                                                                                                use and
+                                                                                                                budget.
                                                                                                             </font>
                                                                                                         </font>
                                                                                                     </p>
@@ -9790,7 +9789,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="600" height="420"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887262/X2.jpg"
+                                                                                    src="/product/WADE-Press-Brake-Motor-2.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 600px) 100vw, 600px"
@@ -9825,7 +9824,7 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Controller
+                                                                                                            Main Motor
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
@@ -9839,17 +9838,22 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Adopt
-                                                                                                            Estun's E21
-                                                                                                            controller
-                                                                                                            which is
-                                                                                                            able to
-                                                                                                            store 40
-                                                                                                            programs and
-                                                                                                            each program
-                                                                                                            has 25
-                                                                                                            steps.
-                                                                                                        </font>
+                                                                                                            The motor of
+                                                                                                            our press
+                                                                                                            brake is
+                                                                                                            adopt world
+                                                                                                            famous brand
+                                                                                                            "Siemens",
+                                                                                                            which will
+                                                                                                            not only has
+                                                                                                            low noise
+                                                                                                            during
+                                                                                                            working of
+                                                                                                            the machine
+                                                                                                            but also has
+                                                                                                            longer
+                                                                                                            service
+                                                                                                            life.</font>
                                                                                                     </font>
                                                                                                 </div>
                                                                                             </div>
@@ -9880,7 +9884,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887306/X3.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645945911390/x3.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -9909,10 +9913,7 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Torque
-                                                                                                            Synchronous
-                                                                                                            Control
-                                                                                                            System
+                                                                                                            Oil Pump
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
@@ -9927,45 +9928,42 @@
                                                                                                             style="vertical-align: inherit;">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
-                                                                                                                Adopt
-                                                                                                                steel
-                                                                                                                torsion
-                                                                                                                bar
-                                                                                                                synchronization
-                                                                                                                system,
-                                                                                                                the
-                                                                                                                structure
-                                                                                                                is very
-                                                                                                                simple,
-                                                                                                                but the
-                                                                                                                accuracy
-                                                                                                                is very
-                                                                                                                high. At
-                                                                                                                the two
-                                                                                                                ends of
-                                                                                                                the ram,
-                                                                                                                there
-                                                                                                                are two
-                                                                                                                synchronizing
-                                                                                                                devices
-                                                                                                                so that
-                                                                                                                the ram
-                                                                                                                movement
+                                                                                                                International
+                                                                                                                imported
+                                                                                                                brand
+                                                                                                                oil pump
                                                                                                                 is
-                                                                                                                always
-                                                                                                                parallel
-                                                                                                                to the
-                                                                                                                worktable.
-                                                                                                                This
-                                                                                                                structure
-                                                                                                                highlights
-                                                                                                                the
-                                                                                                                effect
-                                                                                                                of
-                                                                                                                balancing
-                                                                                                                motion
-                                                                                                                during
-                                                                                                                operation.
+                                                                                                                adopted,
+                                                                                                                with
+                                                                                                                lower
+                                                                                                                noise
+                                                                                                                and
+                                                                                                                stronger
+                                                                                                                output
+                                                                                                                power.
+                                                                                                                Amazing
+                                                                                                                low
+                                                                                                                noise,
+                                                                                                                made of
+                                                                                                                high
+                                                                                                                strength
+                                                                                                                cast
+                                                                                                                iron and
+                                                                                                                unique
+                                                                                                                design
+                                                                                                                for
+                                                                                                                inner
+                                                                                                                noise
+                                                                                                                reduction.
+                                                                                                                Low
+                                                                                                                sensitivity
+                                                                                                                to oil
+                                                                                                                pollution
+                                                                                                                and
+                                                                                                                assure
+                                                                                                                of long
+                                                                                                                service
+                                                                                                                life
                                                                                                             </font>
 
                                                                                                         </font><span
@@ -10005,7 +10003,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187198/X4.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456878/x4.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10035,7 +10033,8 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Main Motor
+                                                                                                            Hydraulic
+                                                                                                            System
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
@@ -10049,49 +10048,38 @@
                                                                                                             style="font-style: inherit;font-weight: inherit">
                                                                                                             <font
                                                                                                                 style="vertical-align: inherit;">
+                                                                                                            </font>
+                                                                                                        </span><span
+                                                                                                            style="font-style: inherit;font-weight: inherit">
+                                                                                                            <font
+                                                                                                                style="vertical-align: inherit;">
+                                                                                                            </font>
+                                                                                                        </span><span
+                                                                                                            style="font-style: inherit;font-weight: inherit">
+                                                                                                            <font
+                                                                                                                style="vertical-align: inherit;">
                                                                                                                 <font
                                                                                                                     style="vertical-align: inherit;">
-                                                                                                                    The
-                                                                                                                    motor
-                                                                                                                    of
-                                                                                                                    our
+                                                                                                                    Our
                                                                                                                     press
                                                                                                                     brake
-                                                                                                                    is
-                                                                                                                    adopt
-                                                                                                                    world
-                                                                                                                    famous
-                                                                                                                    brand
-                                                                                                                    "Siemens",
-                                                                                                                    which
-                                                                                                                    will
-                                                                                                                    not
-                                                                                                                    only
-                                                                                                                    has
-                                                                                                                    low
-                                                                                                                    noise
-                                                                                                                    during
-                                                                                                                    working
-                                                                                                                    of
-                                                                                                                    the
                                                                                                                     machine
-                                                                                                                    but
-                                                                                                                    also
-                                                                                                                    has
-                                                                                                                    longer
-                                                                                                                    service
-                                                                                                                    life.
+                                                                                                                    uses
+                                                                                                                    Hoerbiger
+                                                                                                                    integrated
+                                                                                                                    hydraulic
+                                                                                                                    control
+                                                                                                                    system
+                                                                                                                    that
+                                                                                                                    make
+                                                                                                                    it
+                                                                                                                    more
+                                                                                                                    reliable
+                                                                                                                    and
+                                                                                                                    easy
+                                                                                                                    for
+                                                                                                                    maintenance.
                                                                                                                 </font>
-                                                                                                            </font>
-                                                                                                        </span><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                            </font>
-                                                                                                        </span><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
                                                                                                             </font>
                                                                                                         </span></p>
                                                                                                 </div>
@@ -10121,7 +10109,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187240/X5.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456915/x5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10154,7 +10142,8 @@
                                                                                                         style="vertical-align: inherit;">
                                                                                                         <font
                                                                                                             style="vertical-align: inherit;">
-                                                                                                            Oil Pump
+                                                                                                            Electrical
+                                                                                                            System
                                                                                                         </font>
                                                                                                     </font>
                                                                                                 </h3>
@@ -10165,27 +10154,31 @@
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">China
-                                                                                                            Famous Brand
-                                                                                                            SAEMP/ USA
-                                                                                                            Sunny:
-
-                                                                                                            Amazing low
-                                                                                                            noise, made
-                                                                                                            of high
-                                                                                                            strength
-                                                                                                            cast iron
-                                                                                                            and unique
-                                                                                                            design for
-                                                                                                            inner noise
-                                                                                                            reduction;Low
-                                                                                                            sensitivity
-                                                                                                            to oil
-                                                                                                            pollution
-                                                                                                            and assure
-                                                                                                            of long
-                                                                                                            service
-                                                                                                            life</span><br>
+                                                                                                            style="font-style: inherit;font-weight: inherit">Our
+                                                                                                            press brake
+                                                                                                            adopt
+                                                                                                            Schneider
+                                                                                                            electrical
+                                                                                                            components.
+                                                                                                            The high
+                                                                                                            quality
+                                                                                                            electric
+                                                                                                            parts can
+                                                                                                            make the
+                                                                                                            machine
+                                                                                                            performing
+                                                                                                            well even
+                                                                                                            the
+                                                                                                            electricity
+                                                                                                            is not
+                                                                                                            stable and
+                                                                                                            customers
+                                                                                                            can easily
+                                                                                                            get the
+                                                                                                            replacement
+                                                                                                            anywhere in
+                                                                                                            the
+                                                                                                            world.</span><br>
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -10214,7 +10207,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187275/X6.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456947/x6.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10243,7 +10236,7 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Hydraulic System
+                                                                                                    Backgauge System
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div
@@ -10252,23 +10245,37 @@
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">Our
-                                                                                                            press brake
-                                                                                                            machine uses
-                                                                                                            BOSCH-REXROTH
-                                                                                                            integrated
-                                                                                                            hydraulic
-                                                                                                            control
-                                                                                                            system that
-                                                                                                            limits the
-                                                                                                            number of
-                                                                                                            pipe
-                                                                                                            connections,
-                                                                                                            making it
-                                                                                                            more
-                                                                                                            reliable and
-                                                                                                            easy for
-                                                                                                            maintenance.</span><br>
+                                                                                                            style="font-style: inherit;font-weight: inherit">We
+                                                                                                            using the
+                                                                                                            Taiwan PMI
+                                                                                                            ball screw
+                                                                                                            and linear
+                                                                                                            guide to
+                                                                                                            ensure the
+                                                                                                            moving of
+                                                                                                            X-axis with
+                                                                                                            higher
+                                                                                                            accuracy
+                                                                                                            than using
+                                                                                                            rod. And the
+                                                                                                            backgauge
+                                                                                                            adopt timing
+                                                                                                            belt &amp;
+                                                                                                            wheel
+                                                                                                            mechanism
+                                                                                                            which
+                                                                                                            controlled
+                                                                                                            by servo
+                                                                                                            motor
+                                                                                                            instead of
+                                                                                                            step motor.
+
+                                                                                                            The height
+                                                                                                            of the
+                                                                                                            backgauge
+                                                                                                            finger can
+                                                                                                            be adjusted
+                                                                                                            manually.</span><br>
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -10297,7 +10304,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187327/X7.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456985/x7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10326,7 +10333,7 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Electrical System
+                                                                                                    Punches &amp; Dies
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div
@@ -10335,32 +10342,29 @@
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p><span
-                                                                                                            style="font-style: inherit;font-weight: inherit">Our
+                                                                                                            style="font-style: inherit;font-weight: inherit">The
+                                                                                                            standard top
+                                                                                                            punch and
+                                                                                                            dual-V
+                                                                                                            bottom die
+                                                                                                            are
+                                                                                                            specially
+                                                                                                            designed for
+                                                                                                            bending
+                                                                                                            sheet
+                                                                                                            metals. More
                                                                                                             press brake
-                                                                                                            adopts
-                                                                                                            Schneider
-                                                                                                            electrical
-                                                                                                            components.
-                                                                                                            The high
-                                                                                                            quality
-                                                                                                            electric
-                                                                                                            parts can
-                                                                                                            make the
-                                                                                                            machine
-                                                                                                            performing
-                                                                                                            well even
-                                                                                                            the
-                                                                                                            electricity
-                                                                                                            is not
-                                                                                                            stable and
-                                                                                                            customers
-                                                                                                            can easily
-                                                                                                            get the
-                                                                                                            replacement
-                                                                                                            anywhere in
-                                                                                                            the world.
-
-                                                                                                        </span><br></p>
+                                                                                                            toolings can
+                                                                                                            be selected
+                                                                                                            as per your
+                                                                                                            practical
+                                                                                                            use.
+                                                                                                            Material and
+                                                                                                            HRC47 degree
+                                                                                                            values ​​are
+                                                                                                            marked on
+                                                                                                            it</span><br>
+                                                                                                    </p>
 
                                                                                                 </div>
                                                                                             </div>
@@ -10389,7 +10393,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187372/X8.jpg"
+                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136457017/x8.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10418,150 +10422,7 @@
                                                                                                 <h3 class="uael-infobox-title elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_title"
                                                                                                     data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Punch &amp; Die</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The WC67K series
-                                                                                                    press brake is
-                                                                                                    equipped with
-                                                                                                    standard top punch
-                                                                                                    and multi-V bottom
-                                                                                                    die for the use in
-                                                                                                    various purposes.
-                                                                                                    More press brake
-                                                                                                    toolings can be
-                                                                                                    selected as per your
-                                                                                                    practical use.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495549/n1.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Manual Crowning</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The crowning will
-                                                                                                    compensate for the
-                                                                                                    deflection of the
-                                                                                                    worktable during
-                                                                                                    bending process so
-                                                                                                    as to obtain higher
-                                                                                                    working precision.
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495581/n2.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Backgauge Finger
+                                                                                                    Mechanical Crowning
                                                                                                 </h3>
                                                                                             </div>
                                                                                             <div
@@ -10569,81 +10430,12 @@
                                                                                                 <div class="uael-infobox-text elementor-inline-editing"
                                                                                                     data-elementor-setting-key="infobox_description"
                                                                                                     data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    Generally the press
-                                                                                                    brake will equip two
-                                                                                                    fingers.
-
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="566000d1" data-element_type="section"
-                                                            data-settings="{'background_background':'classic'}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e"
-                                                                    data-id="2d588c7e" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn"
-                                                                            data-id="30abb32a"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495634/n3.jpg?x-oss-process=style/small"
-                                                                                    class="attachment-large size-large"
-                                                                                    alt=""
-                                                                                    data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    loading="lazy">
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14"
-                                                                    data-id="172e7c14" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox"
-                                                                            data-id="783389f8"
-                                                                            data-element_type="widget"
-                                                                            data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div
-                                                                                        class="uael-infobox-left-right-wrap">
-                                                                                        <div
-                                                                                            class="uael-infobox-content">
-                                                                                            <div
-                                                                                                class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_title"
-                                                                                                    data-elementor-inline-editing-toolbar="basic">
-                                                                                                    Pedal Switch</h3>
-                                                                                            </div>
-                                                                                            <div
-                                                                                                class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing"
-                                                                                                    data-elementor-setting-key="infobox_description"
-                                                                                                    data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    The pedal switch
-                                                                                                    will be used to
-                                                                                                    control the movement
-                                                                                                    of the ram. And
-                                                                                                    there'is emergency
-                                                                                                    stop button on top
-                                                                                                    of it.
-                                                                                                </div>
+                                                                                                    The motorized
+                                                                                                    crowning system will
+                                                                                                    adjust the
+                                                                                                    parallelism and
+                                                                                                    straightness
+                                                                                                    automatically.</div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -10740,310 +10532,7 @@
 
 
 
-
-
-
-        <div component="footer.php">
-            <script type="text/javascript" src="/js/customer.js"></script>
-
-            <div data-elementor-type="footer" data-elementor-id="125"
-                class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="4d77cba" data-element_type="section"
-                        data-settings="{'background_background':'classic'}">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505"
-                                data-id="fb54505" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image"
-                                        data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <img width="154" height="60"
-                                                src="//cdn.xuansiwei.com/zhang3794/1646744278031/11.png?x-oss-process=style/png_small"
-                                                class="attachment-large size-large" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor"
-                                        data-id="9feec28" data-element_type="widget"
-                                        data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is
-                                            a modern management enterprise producing all kinds of ordinary and NC
-                                            bending machines, plate shears, laser cutting machines and supporting knives
-                                            and molds. </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-                                        data-id="77f5f5f" data-element_type="widget"
-                                        data-widget_type="social-icons.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-social-icons-wrapper elementor-grid">
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61"
-                                                        target="_blank"
-                                                        href="https://www.facebook.com/profile.php?id=100078482187510 ">
-                                                        <span class="elementor-screen-only">Facebook</span>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                </span>
-                                                <a href="/">
-                                                    <span class="elementor-grid-item">
-                                                    </span></a><a
-                                                    class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5"
-                                                    target="_blank" href="https://twitter.com/Ruchengchina">
-                                                    <span class="elementor-screen-only">Twitter</span>
-                                                    <i class="fab fa-twitter"></i>
-                                                </a>
-
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                        target="_blank"
-                                                        href="https://www.youtube.com/channel/UCDtDqUgMqtMIa_9HuPvajpQ  ">
-                                                        <span class="elementor-screen-only">Youtube</span>
-                                                        <i class="fab fa-youtube"></i>
-                                                    </a>
-                                                </span>
-                                                <span class="elementor-grid-item">
-                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                        target="_blank" href=" https://vm.tiktok.com/TTPdavJ8fV/">
-                                                        <span class="elementor-screen-only">Youtube</span>
-                                                        <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small"
-                                                            alt="" height="25px" width="25px" loading="lazy">
-                                                    </a>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d"
-                                data-id="5cbb53d" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading"
-                                        data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Links</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item">Services</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item">Contact us</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                        <a href="/about.php" class="elementor-item"
-                                                            tabindex="-1">About</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                        <a href="/services.php" class="elementor-item"
-                                                            tabindex="-1">Services</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                        <a href="/product.php" class="elementor-item"
-                                                            tabindex="-1">Product</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                        <a href="/blog.php" class="elementor-item"
-                                                            tabindex="-1">Blog</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                        <a href="/contact.php" class="elementor-item"
-                                                            tabindex="-1">Contact us</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449"
-                                data-id="f7a0449" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading"
-                                        data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Services</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
-                                        <div class="elementor-widget-container">
-                                            <nav migration_allowed="1" migrated="0" role="navigation"
-                                                class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                                <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item">Pre-sales
-                                                            consultation</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item">Sign contract</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item">Quality
-                                                            assurance</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item">High-quality
-                                                            after-sales</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item">Offline
-                                                            communication</a></li>
-                                                </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Power Energies</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Mechanical Engineering</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Chemical Research</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Industrial Construction</a></li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                        <a href="javascript:;" class="elementor-item"
-                                                            tabindex="-1">Petroleum and Gas</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757"
-                                data-id="9815757" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading"
-                                        data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                        data-id="2de5018" data-element_type="widget"
-                                        data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
-                                                    <span class="elementor-icon-list-text">Shiqiu Industrial Zone,
-                                                        Lishui District, Nanjing City, Jiangsu Province</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-phone"></i></span>
-                                                    <span class="elementor-icon-list-text">400-886-6884</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                                        <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
-                                                    <span
-                                                        class="elementor-icon-list-text">sales@ruchengmachine.com</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="523a6fc" data-element_type="section"
-                        data-settings="{'background_background':'classic'}">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec"
-                                data-id="f4057ec" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading"
-                                        data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default"> <a
-                                                    href="privacy.php">Privacy Policy</a> &nbsp;<a
-                                                    href="terms.php">Terms</a> &nbsp; Copyright @ Nanjing Rucheng
-                                                Technology Co., Ltd. All rights reserved. </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-
-
-
+        <?php include 'footer.php'; ?>
 
 
 
@@ -11580,18 +11069,6 @@
     <div style="all: initial;">
         <div id="__hcfy__" style="all: initial;"></div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
