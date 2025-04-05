@@ -290,14 +290,14 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15972">
-                                                                        <a href="/product_7_1.php"
+                                                                        <a href="/product-rolling_shear_blade.php"
                                                                             class="elementor-sub-item">Rolling Shear Slitting Blade</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15973">
-                                                                        <a href="/product_7_2.php"
+                                                                        <a href="/product-slitting_circular_blade.php"
                                                                             class="elementor-sub-item">Slitting round
                                                                             blade</a>
                                                                     </li>
@@ -305,7 +305,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15975">
-                                                                        <a href="/product_7_3.php"
+                                                                        <a href="/product-shearing_machine_blade.php"
                                                                             class="elementor-sub-item">Shearing Machine
                                                                             Blade</a>
                                                                     </li>
@@ -313,7 +313,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15977">
-                                                                        <a href="/product_7_4.php"
+                                                                        <a href="/product-doctor_blade.php"
                                                                             class="elementor-sub-item">Ink Doctor
                                                                             Blade</a>
                                                                     </li>
@@ -321,7 +321,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15978">
-                                                                        <a href="/product_7_5.php"
+                                                                        <a href="/product-rolling_blade.php"
                                                                             class="elementor-sub-item">Rolled Steel
                                                                             Blade</a>
                                                                     </li>
@@ -329,7 +329,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15979">
-                                                                        <a href="/product_7_6.php"
+                                                                        <a href="/product-slow_cursher_blade.php"
                                                                             class="elementor-sub-item">Slow Shredder
                                                                             Blade</a>
                                                                     </li>
@@ -337,21 +337,21 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15980">
-                                                                        <a href="/product_7_7.php"
+                                                                        <a href="/product-toothed_blade.php"
                                                                             class="elementor-sub-item">Saw Blade</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15981">
-                                                                        <a href="/product_7_8.php"
+                                                                        <a href="/product-chipper_blade.php"
                                                                             class="elementor-sub-item">Chipper Blade</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15982">
-                                                                        <a href="/product_7_9.php"
+                                                                        <a href="/product-corrugated_paper_cutting_blade.php"
                                                                             class="elementor-sub-item">Corrugated Paper
                                                                             Cutting Slitter Blade</a>
                                                                     </li>
@@ -359,7 +359,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15983">
-                                                                        <a href="/product_7_10.php"
+                                                                        <a href="/product-crusher_blade.php"
                                                                             class="elementor-sub-item">Crusher Blade</a>
                                                                     </li>
 
@@ -377,7 +377,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15984">
-                                                                        <a href="/product_8_1.php"
+                                                                        <a href="/product-cnc_bending_machine_mold.php"
                                                                             class="elementor-sub-item">Die of CNC Press
                                                                             Brake</a>
                                                                     </li>
@@ -385,7 +385,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15985">
-                                                                        <a href="/product_8_2.php"
+                                                                        <a href="/product-flattening_die_of_press_brake.php"
                                                                             class="elementor-sub-item">Press Brake
                                                                             Flattening Die</a>
                                                                     </li>
@@ -401,7 +401,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15987">
-                                                                        <a href="/product_8_4.php"
+                                                                        <a href="/product-v_lower_die_of_press_brake.php"
                                                                             class="elementor-sub-item">Single/Multi V
                                                                             Lower Die of Press Brake</a>
                                                                     </li>
@@ -409,25 +409,24 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15988">
-                                                                        <a href="/product_8_5.php"
-                                                                            class="elementor-sub-item">Arc Die of Press
+                                                                        <a href="/product-radius_die_of_press_brake.php"
+                                                                            class="elementor-sub-item">Circular Bending Die of Press
                                                                             Brake</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15989">
-                                                                        <a href="/product_8_6.php"
+                                                                        <a href="/product-gooseneck_punch_of_press_brake.php"
                                                                             class="elementor-sub-item">Gooseneck
-                                                                            Scimitar</a>
+                                                                            Punch of Press Brake</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15990">
-                                                                        <a href="/product_8_7.php"
-                                                                            class="elementor-sub-item">Traceless Bending
-                                                                            Mould</a>
+                                                                        <a href="/product-mark_free_die_of_press_brake.php"
+                                                                            class="elementor-sub-item">Mark-Free Punch of Press Brake</a>
                                                                     </li>
 
                                                                 </ul>
@@ -717,7 +716,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15972">
-                                                                        <a href="/product_7_1.php"
+                                                                        <a href="/product-rolling_shear_blade.php"
                                                                             class="elementor-sub-item">Rolling Shear
                                                                             Slitting Blade</a>
                                                                     </li>
@@ -725,7 +724,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15973">
-                                                                        <a href="/product_7_2.php"
+                                                                        <a href="/product-slitting_circular_blade.php"
                                                                             class="elementor-sub-item">Slitting round
                                                                             blade</a>
                                                                     </li>
@@ -733,7 +732,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15975">
-                                                                        <a href="/product_7_3.php"
+                                                                        <a href="/product-shearing_machine_blade.php"
                                                                             class="elementor-sub-item">Shearing Machine
                                                                             Blade</a>
                                                                     </li>
@@ -741,7 +740,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15977">
-                                                                        <a href="/product_7_4.php"
+                                                                        <a href="/product-doctor_blade.php"
                                                                             class="elementor-sub-item">Ink Doctor
                                                                             Blade</a>
                                                                     </li>
@@ -749,7 +748,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15978">
-                                                                        <a href="/product_7_5.php"
+                                                                        <a href="/product-rolling_blade.php"
                                                                             class="elementor-sub-item">Rolled Steel
                                                                             Blade</a>
                                                                     </li>
@@ -757,7 +756,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15979">
-                                                                        <a href="/product_7_6.php"
+                                                                        <a href="/product-slow_cursher_blade.php"
                                                                             class="elementor-sub-item">Slow Shredder
                                                                             Blade</a>
                                                                     </li>
@@ -765,21 +764,21 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15980">
-                                                                        <a href="/product_7_7.php"
+                                                                        <a href="/product-toothed_blade.php"
                                                                             class="elementor-sub-item">Saw Blade</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15981">
-                                                                        <a href="/product_7_8.php"
+                                                                        <a href="/product-chipper_blade.php"
                                                                             class="elementor-sub-item">Chipper Blade</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15982">
-                                                                        <a href="/product_7_9.php"
+                                                                        <a href="/product-corrugated_paper_cutting_blade.php"
                                                                             class="elementor-sub-item">Corrugated Paper
                                                                             Cutting Slitter Blade</a>
                                                                     </li>
@@ -787,7 +786,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15983">
-                                                                        <a href="/product_7_10.php"
+                                                                        <a href="/product-crusher_blade.php"
                                                                             class="elementor-sub-item">Crusher Blade</a>
                                                                     </li>
 
@@ -805,7 +804,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15984">
-                                                                        <a href="/product_8_1.php"
+                                                                        <a href="/product-cnc_bending_machine_mold.php"
                                                                             class="elementor-sub-item">Die of CNC Press
                                                                             Brake</a>
                                                                     </li>
@@ -813,7 +812,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15985">
-                                                                        <a href="/product_8_2.php"
+                                                                        <a href="/product-flattening_die_of_press_brake.php"
                                                                             class="elementor-sub-item">Press Brake
                                                                             Flattening Die</a>
                                                                     </li>
@@ -829,7 +828,7 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15987">
-                                                                        <a href="/product_8_4.php"
+                                                                        <a href="/product-v_lower_die_of_press_brake.php"
                                                                             class="elementor-sub-item">Single/Multi V
                                                                             Lower Die of Press Brake</a>
                                                                     </li>
@@ -837,25 +836,22 @@ function isActive($page) {
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15988">
-                                                                        <a href="/product_8_5.php"
-                                                                            class="elementor-sub-item">Arc Die of Press
-                                                                            Brake</a>
+                                                                        <a href="/product-radius_die_of_press_brake.php"
+                                                                            class="elementor-sub-item">Circular Bending Die of Press Brake</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15989">
-                                                                        <a href="/product_8_6.php"
-                                                                            class="elementor-sub-item">Gooseneck
-                                                                            Scimitar</a>
+                                                                        <a href="/product-gooseneck_punch_of_press_brake.php"
+                                                                            class="elementor-sub-item">Gooseneck Punch of Press Brake</a>
                                                                     </li>
 
 
                                                                     <li
                                                                         class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15990">
-                                                                        <a href="/product_8_7.php"
-                                                                            class="elementor-sub-item">Traceless Bending
-                                                                            Mould</a>
+                                                                        <a href="/product-mark_free_die_of_press_brake.php"
+                                                                            class="elementor-sub-item">Mark-Free Punch of Press Brake</a>
                                                                     </li>
 
                                                                 </ul>

@@ -173,7 +173,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
-    <title>Traceless Bending Mould - </title>
+    <title>Crusher Blade - </title>
     <link rel="preload" as="style" href="/product/fonts_googleapis.css">
     <style id="" media="all">
         /* cyrillic-ext */
@@ -8392,14 +8392,14 @@
     <meta name="keywords" content="">
 <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
         <!-- twitter分享 -->
-        <meta property="twitter:url" content="/product_8_7.php">
+        <meta property="twitter:url" content="/product-crusher_blade.php">
         <meta name="twitter:title" content="">
         <meta name="twitter:description" content="">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="null">
 
         <!-- facebook分享 -->
-        <meta property="og:url" content="/product_8_7.php">
+        <meta property="og:url" content="/product-crusher_blade.php">
         <meta property="og:type" content="website">
         <meta property="og:title" content="">
         <meta property="og:description" content="">
@@ -8511,7 +8511,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn" data-id="671e90da" data-element_type="widget" data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1646393240855/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
+                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1646309441782/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -8522,7 +8522,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <h2 class="elementor-heading-title elementor-size-default">
                                                                     <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Pipe bender seamless bending die</font>
+                                                                        <font style="vertical-align: inherit;">Crusher Blade</font>
                                                                     </font>
                                                                 </h2>
                                                             </div>
@@ -8531,7 +8531,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <p>
 																		<font style="vertical-align: inherit;">
-																			<font style="vertical-align: inherit;">Excellent bending effect, a variety of materials are available, and non-standard customization is supported</font>
+																			<font style="vertical-align: inherit;">The product has no breakage, burrs , gaps, soft edges, etc., and the knife edge is smooth and flat, and the edge is sharp.</font>
 																		</font>
 																	</p>
                                                             </div>
@@ -8668,7 +8668,7 @@
                                                                         <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="1e92adac" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646393240889/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309441818/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
@@ -8761,7 +8761,7 @@
                                                                         <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="c75a9ae" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646393240922/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309441852/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
@@ -8828,7 +8828,7 @@
                                                                         <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="14823dfa" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646393240955/4.jpg" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646309441883/4.jpg" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
@@ -8871,7 +8871,7 @@
                                                                         <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="39d9dd0b" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646393241002/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309441918/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
 <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
@@ -9162,7 +9162,7 @@ It is the basis for ensuring product quality</font>
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646140677727/x9.jpg" loading="lazy"> </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646139413865/x4.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
