@@ -6,7 +6,10 @@
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'G-VWRCJYQDF2');
@@ -28,7 +31,7 @@
                 "concatemoji": "\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"
             }
         };
-        ! function (e, a, t) {
+        ! function(e, a, t) {
             var n, r, o, i = a.createElement("canvas"),
                 p = i.getContext && i.getContext("2d");
 
@@ -44,9 +47,9 @@
                 t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
             }
             for (o = Array("flag", "emoji"), t.supports = {
-                everything: !0,
-                everythingExceptFlag: !0
-            }, r = 0; r < o.length; r++) t.supports[o[r]] = function (e) {
+                    everything: !0,
+                    everythingExceptFlag: !0
+                }, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
                 if (!p || !p.fillText) return !1;
                 switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
                     case "flag":
@@ -64,15 +67,15 @@
             }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t
                 .supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
             t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t
-                .readyCallback = function () {
+                .readyCallback = function() {
                     t.DOMReady = !0
-                }, t.supports.everything || (n = function () {
+                }, t.supports.everything || (n = function() {
                     t.readyCallback()
                 }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load",
-                    n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () {
-                        "complete" === a.readyState && t.readyCallback()
-                    })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji),
-                        c(n.wpemoji)))
+                    n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+                    "complete" === a.readyState && t.readyCallback()
+                })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji),
+                    c(n.wpemoji)))
         }(window, document, window._wpemojiSettings);
     </script>
     <style>
@@ -381,12 +384,14 @@
             _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
             window.open(_shareUrl, '_blank');
         }
+
         function shareTwitter() {
             var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
             _shareUrl += '&text=' + encodeURIComponent('Press Brake, Shear, Fiber laser cutting machine Manufacturer - RUCHENG');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
+
         function sharePinterest() {
             var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
             _shareUrl += '&media=' + encodeURIComponent('null');
@@ -399,11 +404,13 @@
     <meta charset="UTF-8">
     <script>
         var docCookies = {
-            getItem: function (sKey) {
+            getItem: function(sKey) {
                 return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
             },
-            setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+            setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+                    return false;
+                }
                 var sExpires = "";
                 if (vEnd) {
                     switch (vEnd.constructor) {
@@ -421,17 +428,21 @@
                 document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
                 return true;
             },
-            removeItem: function (sKey, sPath, sDomain) {
-                if (!sKey || !this.hasItem(sKey)) { return false; }
+            removeItem: function(sKey, sPath, sDomain) {
+                if (!sKey || !this.hasItem(sKey)) {
+                    return false;
+                }
                 document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
                 return true;
             },
-            hasItem: function (sKey) {
+            hasItem: function(sKey) {
                 return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
             },
-            keys: /* optional method: you can safely remove it! */ function () {
+            keys: /* optional method: you can safely remove it! */ function() {
                 var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
-                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
+                    aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
+                }
                 return aKeys;
             }
         };
@@ -666,7 +677,7 @@
                                     easing: "easeOutExpo",
                                     delay: 1000
                                 })
-                                .finished.then(function () {
+                                .finished.then(function() {
                                     swiper.slideNext(); // 动画结束后切换轮播图
                                     runAnime();
                                 })
@@ -1672,7 +1683,7 @@
                                                                 loop: true,
                                                             });
                                                         }
-                                                        $(window).resize(function () {
+                                                        $(window).resize(function() {
                                                             if ($(window).width() > 767) {
                                                                 var swiper_3 = new Swiper('#f3_focus .swiper-container', {
                                                                     navigation: {
@@ -2078,11 +2089,11 @@
 
 
     <script type="text/javascript">
-            (function () {
-                var c = document.body.className;
-                c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-                document.body.className = c;
-            })();
+        (function() {
+            var c = document.body.className;
+            c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+            document.body.className = c;
+        })();
     </script>
     <link rel="stylesheet" id="elementor-gallery-css"
         href="/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0" media="all">

@@ -6,7 +6,10 @@
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'G-VWRCJYQDF2');
@@ -88,7 +91,7 @@
                 let e = {};
 
                 function t(t, n) {
-                    ! function (t) {
+                    ! function(t) {
                         function n(n) {
                             return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
                         }
@@ -98,9 +101,9 @@
                                 remove: t.removeEventListener
                             },
                             eventsToRewrite: []
-                        }, t.addEventListener = function () {
+                        }, t.addEventListener = function() {
                             arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
-                        }, t.removeEventListener = function () {
+                        }, t.removeEventListener = function() {
                             arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
                         })
                     }(t), e[t].eventsToRewrite.push(n)
@@ -109,7 +112,7 @@
                 function n(e, t) {
                     let n = e[t];
                     Object.defineProperty(e, t, {
-                        get: () => n || function () { },
+                        get: () => n || function() {},
                         set(r) {
                             e["rocket" + t] = n = r
                         }
@@ -123,11 +126,11 @@
                     get: () => t,
                     set(n) {
                         if (n && n.fn && !e.allJQueries.includes(n)) {
-                            n.fn.ready = n.fn.init.prototype.ready = function (t) {
+                            n.fn.ready = n.fn.init.prototype.ready = function(t) {
                                 e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
                             };
                             const t = n.fn.on;
-                            n.fn.on = n.fn.init.prototype.on = function () {
+                            n.fn.on = n.fn.init.prototype.on = function() {
                                 if (this[0] === window) {
                                     function e(e) {
                                         return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
@@ -153,7 +156,7 @@
             }
             _handleDocumentWrite() {
                 const e = new Map;
-                document.write = document.writeln = function (t) {
+                document.write = document.writeln = function(t) {
                     const n = document.currentScript,
                         r = document.createRange(),
                         i = n.parentElement;
@@ -8272,24 +8275,24 @@
     </noscript>
     <script>
         /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-        (function (w) {
+        (function(w) {
             "use strict";
             if (!w.loadCSS) {
-                w.loadCSS = function () { }
+                w.loadCSS = function() {}
             }
             var rp = loadCSS.relpreload = {};
-            rp.support = (function () {
+            rp.support = (function() {
                 var ret;
                 try {
                     ret = w.document.createElement("link").relList.supports("preload")
                 } catch (e) {
                     ret = !1
                 }
-                return function () {
+                return function() {
                     return ret
                 }
             })();
-            rp.bindMediaToggle = function (link) {
+            rp.bindMediaToggle = function(link) {
                 var finalMedia = link.media || "all";
 
                 function enableStylesheet() {
@@ -8300,13 +8303,13 @@
                 } else if (link.attachEvent) {
                     link.attachEvent("onload", enableStylesheet)
                 }
-                setTimeout(function () {
+                setTimeout(function() {
                     link.rel = "stylesheet";
                     link.media = "only x"
                 });
                 setTimeout(enableStylesheet, 3000)
             };
-            rp.poly = function () {
+            rp.poly = function() {
                 if (rp.support()) {
                     return
                 }
@@ -8323,12 +8326,12 @@
                 rp.poly();
                 var run = w.setInterval(rp.poly, 500);
                 if (w.addEventListener) {
-                    w.addEventListener("load", function () {
+                    w.addEventListener("load", function() {
                         rp.poly();
                         w.clearInterval(run)
                     })
                 } else if (w.attachEvent) {
-                    w.attachEvent("onload", function () {
+                    w.attachEvent("onload", function() {
                         rp.poly();
                         w.clearInterval(run)
                     })
@@ -8426,12 +8429,14 @@
             _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
             window.open(_shareUrl, '_blank');
         }
+
         function shareTwitter() {
             var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
             _shareUrl += '&text=' + encodeURIComponent('');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
+
         function sharePinterest() {
             var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
             _shareUrl += '&media=' + encodeURIComponent('null');
@@ -8444,11 +8449,13 @@
     <meta charset="UTF-8">
     <script>
         var docCookies = {
-            getItem: function (sKey) {
+            getItem: function(sKey) {
                 return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
             },
-            setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+            setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+                    return false;
+                }
                 var sExpires = "";
                 if (vEnd) {
                     switch (vEnd.constructor) {
@@ -8466,17 +8473,21 @@
                 document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
                 return true;
             },
-            removeItem: function (sKey, sPath, sDomain) {
-                if (!sKey || !this.hasItem(sKey)) { return false; }
+            removeItem: function(sKey, sPath, sDomain) {
+                if (!sKey || !this.hasItem(sKey)) {
+                    return false;
+                }
                 document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
                 return true;
             },
-            hasItem: function (sKey) {
+            hasItem: function(sKey) {
                 return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
             },
-            keys: /* optional method: you can safely remove it! */ function () {
+            keys: /* optional method: you can safely remove it! */ function() {
                 var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
-                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
+                    aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
+                }
                 return aKeys;
             }
         };
@@ -8500,7 +8511,7 @@
 
 
 
-    <?php include 'header.php'; ?>
+        <?php include 'header.php'; ?>
 
 
 
@@ -10880,7 +10891,7 @@
     <script src="/product/punycode.min.js" id="wpforms-punycode-js" defer=""></script>
     <script data-minify="1" src="/product/wpforms.js" id="wpforms-js" defer=""></script>
     <script>
-        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () {
+        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
             var t, e = location.hash.substring(1);
             /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
         }, !1);
@@ -10942,7 +10953,7 @@
             class_loading: "lazyloading",
             class_loaded: "lazyloaded",
             threshold: 300,
-            callback_loaded: function (element) {
+            callback_loaded: function(element) {
                 if (element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible") {
                     if (element.classList.contains("lazyloaded")) {
                         if (typeof window.jQuery != "undefined") {
@@ -10954,14 +10965,14 @@
                 }
             }
         };
-        window.addEventListener('LazyLoad::Initialized', function (e) {
+        window.addEventListener('LazyLoad::Initialized', function(e) {
             var lazyLoadInstance = e.detail.instance;
             if (window.MutationObserver) {
-                var observer = new MutationObserver(function (mutations) {
+                var observer = new MutationObserver(function(mutations) {
                     var image_count = 0;
                     var iframe_count = 0;
                     var rocketlazy_count = 0;
-                    mutations.forEach(function (mutation) {
+                    mutations.forEach(function(mutation) {
                         for (var i = 0; i < mutation.addedNodes.length; i++) {
                             if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
                                 continue
@@ -11018,7 +11029,7 @@
                     const e = t.getBoundingClientRect();
                     if (e.bottom >= 0 && e.top <= window.innerHeight) try {
                         this._animateElement(t)
-                    } catch (t) { }
+                    } catch (t) {}
                 })
             }
             _animateElement(t) {
@@ -11030,7 +11041,7 @@
                 let s = setTimeout(() => {
                     t.classList.remove("elementor-invisible"), t.classList.add("animated", n), this._removeAnimationSettings(t, e)
                 }, i);
-                window.addEventListener("rocket-startLoading", function () {
+                window.addEventListener("rocket-startLoading", function() {
                     clearTimeout(s)
                 })
             }

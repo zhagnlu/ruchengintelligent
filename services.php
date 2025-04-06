@@ -1,13 +1,19 @@
-<!DOCTYPE html><html lang="zh-CN"><head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!DOCTYPE html>
+<html lang="zh-CN">
 
-  gtag('config', 'G-VWRCJYQDF2');
-</script>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-VWRCJYQDF2');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Our Services - RUCHENG</title>
@@ -325,88 +331,96 @@
     <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/11/cropped-cropped-logo-270x270.png">
     <meta name="keywords" content="Quality and professional services​">
     <meta name="description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
-<link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
-        <!-- twitter分享 -->
-        <meta property="twitter:url" content="/services.php">
-        <meta name="twitter:title" content="Our Services - RUCHENG">
-        <meta name="twitter:description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="null">
+    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <!-- twitter分享 -->
+    <meta property="twitter:url" content="/services.php">
+    <meta name="twitter:title" content="Our Services - RUCHENG">
+    <meta name="twitter:description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="null">
 
-        <!-- facebook分享 -->
-        <meta property="og:url" content="/services.php">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Our Services - RUCHENG">
-        <meta property="og:description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
-        <meta property="og:image" content="null">
+    <!-- facebook分享 -->
+    <meta property="og:url" content="/services.php">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Our Services - RUCHENG">
+    <meta property="og:description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
+    <meta property="og:image" content="null">
 
-        <script>
-            function shareFacebook() {
-                var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
-                _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
-                window.open(_shareUrl, '_blank');
-            }
-            function shareTwitter() {
-                var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-                _shareUrl += '&text=' + encodeURIComponent('Our Services - RUCHENG'); 
-                _shareUrl += '&url=' + encodeURIComponent(location.href); 
-                window.open(_shareUrl, '_blank');
-            }
-            function sharePinterest() {
-                var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
-                _shareUrl += '&media=' + encodeURIComponent('null'); 
-                _shareUrl += '&description=' + encodeURIComponent('Our Services - RUCHENG'); 
-                _shareUrl += '&url=' + encodeURIComponent(location.href); 
-                window.open(_shareUrl, '_blank');
-            }
-        </script>
-    
-            <meta charset="UTF-8">
-            <script>
-                var docCookies = {
-    getItem: function (sKey) {
-        return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
-    },
-    setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-        if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
-        var sExpires = "";
-        if (vEnd) {
-            switch (vEnd.constructor) {
-            case Number:
-                sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
-                break;
-            case String:
-                sExpires = "; expires=" + vEnd;
-                break;
-            case Date:
-                sExpires = "; expires=" + vEnd.toUTCString();
-                break;
-            }
+    <script>
+        function shareFacebook() {
+            var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
+            _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
+            window.open(_shareUrl, '_blank');
         }
-        document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
-        return true;
-        },
-        removeItem: function (sKey, sPath, sDomain) {
-        if (!sKey || !this.hasItem(sKey)) { return false; }
-        document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + ( sDomain ? "; domain=" + sDomain : "") + ( sPath ? "; path=" + sPath : "");
-        return true;
-    },
-    hasItem: function (sKey) {
-        return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
-    },
-    keys: /* optional method: you can safely remove it! */ function () {
-        var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
-        for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
-        return aKeys;
-    }
-};
-                if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
-                    if (!docCookies.getItem('login_name')) {
-                        location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
+
+        function shareTwitter() {
+            var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
+            _shareUrl += '&text=' + encodeURIComponent('Our Services - RUCHENG');
+            _shareUrl += '&url=' + encodeURIComponent(location.href);
+            window.open(_shareUrl, '_blank');
+        }
+
+        function sharePinterest() {
+            var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
+            _shareUrl += '&media=' + encodeURIComponent('null');
+            _shareUrl += '&description=' + encodeURIComponent('Our Services - RUCHENG');
+            _shareUrl += '&url=' + encodeURIComponent(location.href);
+            window.open(_shareUrl, '_blank');
+        }
+    </script>
+
+    <meta charset="UTF-8">
+    <script>
+        var docCookies = {
+            getItem: function(sKey) {
+                return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+            },
+            setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
+                    return false;
+                }
+                var sExpires = "";
+                if (vEnd) {
+                    switch (vEnd.constructor) {
+                        case Number:
+                            sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+                            break;
+                        case String:
+                            sExpires = "; expires=" + vEnd;
+                            break;
+                        case Date:
+                            sExpires = "; expires=" + vEnd.toUTCString();
+                            break;
                     }
                 }
-            </script>
-        </head>
+                document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+                return true;
+            },
+            removeItem: function(sKey, sPath, sDomain) {
+                if (!sKey || !this.hasItem(sKey)) {
+                    return false;
+                }
+                document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
+                return true;
+            },
+            hasItem: function(sKey) {
+                return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+            },
+            keys: /* optional method: you can safely remove it! */ function() {
+                var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
+                    aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
+                }
+                return aKeys;
+            }
+        };
+        if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
+            if (!docCookies.getItem('login_name')) {
+                location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
+            }
+        }
+    </script>
+</head>
 
 <body class="page-template page-template-elementor_header_footer page page-id-161 wp-custom-logo wp-embed-responsive theme-twentynineteen woocommerce-no-js singular image-filters-enabled elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-161">
 
@@ -418,8 +432,8 @@
 
 
 
-    
- <?php include 'header.php'; ?>
+
+    <?php include 'header.php'; ?>
 
 
 
@@ -496,7 +510,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>Pre-sales consultation</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">Detailed consultation, scientific selection and pricing negotiation	</p>
+                                                            <p class="elementor-icon-box-description">Detailed consultation, scientific selection and pricing negotiation </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -514,7 +528,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>After-sale service</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">our company has a dedicated after-sales service team to guide the installation and commissioning of equipment and other detailed work. 	</p>
+                                                            <p class="elementor-icon-box-description">our company has a dedicated after-sales service team to guide the installation and commissioning of equipment and other detailed work. </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -536,7 +550,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>Sign contract</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">Understand product requirements.Determine delivery method and date				</p>
+                                                            <p class="elementor-icon-box-description">Understand product requirements.Determine delivery method and date </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -554,7 +568,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>Service thought</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">All for the sake of users, timely and serious, as far as possible to make users satisfied				</p>
+                                                            <p class="elementor-icon-box-description">All for the sake of users, timely and serious, as far as possible to make users satisfied </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -576,7 +590,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>Quality assurance</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">The supplier guarantees that the goods delivered in the contract are qualified products	</p>
+                                                            <p class="elementor-icon-box-description">The supplier guarantees that the goods delivered in the contract are qualified products </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -594,7 +608,7 @@
                                                             <h3 class="elementor-icon-box-title">
                                                                 <span>Offline communication</span>
                                                             </h3>
-                                                            <p class="elementor-icon-box-description">We will hold offline communication meetings regularly to answer the problems encountered by users in the process of using our machine	</p>
+                                                            <p class="elementor-icon-box-description">We will hold offline communication meetings regularly to answer the problems encountered by users in the process of using our machine </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -750,17 +764,17 @@
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Knowledgeable and young team.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Advanced production equipment.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Strong product design ability.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
@@ -779,22 +793,22 @@
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Wide range of product applications.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Tailor-made personalized products.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Guarantee excellent product quality.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
                                                                             <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-check-square"></i></span>
                                                                             <span class="elementor-icon-list-text">Good after-sales service.
-</span>
+                                                                            </span>
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -833,9 +847,9 @@
 
 
 
-    
+
     <?php include 'footer.php'; ?>
-    
+
 
 
 
@@ -1151,4 +1165,6 @@
 
 
 
-</body></html>
+</body>
+
+</html>

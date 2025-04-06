@@ -2,11 +2,13 @@
 <button id="translate-button">🌍 Language</button>
 
 <style>
-  #google_translate_element {
+    #google_translate_element {
         display: None;
         position: absolute;
-        top: 40px; /* 调整浮动窗口的位置 */
-        right: 0px; /* 调整浮动窗口的位置 */
+        top: 40px;
+        /* 调整浮动窗口的位置 */
+        right: 0px;
+        /* 调整浮动窗口的位置 */
         background: white;
         border: 1px solid #ddd;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -15,11 +17,16 @@
     }
 
     #translate-button {
-        font-size: 14px; /* 调整字体大小 */
-        padding: 0px 2px; /* 调整按钮内边距 */
-        border-radius: 2px; /* 圆角 */
-        background-color:transparent; /* 按钮背景颜色 */
-        color: black; /* 文字颜色 */
+        font-size: 14px;
+        /* 调整字体大小 */
+        padding: 0px 2px;
+        /* 调整按钮内边距 */
+        border-radius: 2px;
+        /* 圆角 */
+        background-color: transparent;
+        /* 按钮背景颜色 */
+        color: black;
+        /* 文字颜色 */
         border: none;
         cursor: pointer;
         line-height: 1;
@@ -33,7 +40,7 @@
 
     /*  隐藏 Google 翻译工具栏 */
     .goog-te-banner-frame,
-    #goog-gt-tt, 
+    #goog-gt-tt,
     .goog-te-balloon-frame {
         display: none !important;
     }
@@ -52,8 +59,11 @@
 
 <script>
     function googleTranslateElementInit() {
-        new google.translate.TranslateElement(
-            {pageLanguage: 'en', includedLanguages: 'zh-CN,zh-TW,zh-HK,fr,de,ja,ko,es,ru,en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL},
+        new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'zh-CN,zh-TW,zh-HK,fr,de,ja,ko,es,ru,en',
+                layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+            },
             'google_translate_element'
         );
 
