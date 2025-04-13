@@ -19,8 +19,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Our Company - RUCHENG</title>
     <!-- Google 搜索优化 -->
-    <meta name="description" content="Nanjing Rucheng Technology Manufacturing Co., Ltd. (RC) focus on manufacturing press brakes, hdyraulic shears, laser cutting machines, so far">
-    <meta name="keywords" content="press brake, hydraulic shear, laser cutting machine, Rucheng, manufacturing, Nanjing">
+    <meta name="description"
+        content="Nanjing Rucheng Technology Manufacturing Co., Ltd. (RC) focus on manufacturing press brakes, hdyraulic shears, laser cutting machines, so far">
+    <meta name="keywords"
+        content="press brake, hydraulic shear, laser cutting machine, Rucheng, manufacturing, Nanjing">
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="">
     <link rel="alternate" type="application/rss+xml" title="blue » Feed" href="/feed">
@@ -392,7 +394,8 @@
     <meta itemprop="image:height" content="180">
     <meta itemprop="image:alt" content="RUCHENG Logo">
     <meta itemprop="name" content="Our Company - RUCHENG">
-    <meta itemprop="description" content="Nanjing Rucheng Technology Manufacturing Co., Ltd. (RC) focus on manufacturing press brakes, hdyraulic shears, laser cutting machines, so far">
+    <meta itemprop="description"
+        content="Nanjing Rucheng Technology Manufacturing Co., Ltd. (RC) focus on manufacturing press brakes, hdyraulic shears, laser cutting machines, so far">
     <meta itemprop="url" content="/about.php">
 
     <script>
@@ -422,7 +425,9 @@
     <script>
         var docCookies = {
             getItem: function(sKey) {
-                return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+                return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" +
+                    encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"
+                ), "$1")) || null;
             },
             setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
                 if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
@@ -432,7 +437,8 @@
                 if (vEnd) {
                     switch (vEnd.constructor) {
                         case Number:
-                            sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+                            sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" :
+                                "; max-age=" + vEnd;
                             break;
                         case String:
                             sExpires = "; expires=" + vEnd;
@@ -442,21 +448,26 @@
                             break;
                     }
                 }
-                document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+                document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (
+                    sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ?
+                    "; secure" : "");
                 return true;
             },
             removeItem: function(sKey, sPath, sDomain) {
                 if (!sKey || !this.hasItem(sKey)) {
                     return false;
                 }
-                document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
+                document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ?
+                    "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
                 return true;
             },
             hasItem: function(sKey) {
-                return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+                return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\="))
+                    .test(document.cookie);
             },
             keys: /* optional method: you can safely remove it! */ function() {
-                var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+                var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "")
+                    .split(/\s*(?:\=[^;]*)?;\s*/);
                 for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
                     aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
                 }
@@ -850,21 +861,10 @@
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-284603d"
                         data-id="284603d" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <!-- <div class="elementor-element elementor-element-6697c32 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="6697c32" data-element_type="widget" data-settings="{" youtube_url":"https:\="" \="" www.youtube.com\="" watch?v="XHOmBV4js_E" ,"show_image_overlay":"yes","image_overlay":{"url":"http:\="" product:8084\="" wp-content\="" uploads\="" 2021\="" 11\="" pic10.jpg","id":41,"alt":"","source":"library"},"video_type":"youtube","controls":"yes","aspect_ratio":"169"}""="" data-widget_type="video.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <div class="elementor-video"></div>
-                                        <div class="elementor-custom-embed-image-overlay" style="background-image: url(//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg);">
-                                            <div class="elementor-custom-embed-play" role="button">
-                                                <i class="eicon-play" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">播放视频</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <iframe src="//cdn.xuansiwei.com/zhang3794/1648609036276/gongchangchangfang.mp4"
-                                frameborder="0" height="100%"></iframe>
+                            <video width="100%" height="auto" controls>
+                                <source src="https://cdn.xuansiwei.com/zhang3794/1648609036276/gongchangchangfang.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </div>
 
@@ -917,50 +917,26 @@
                     <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e387364"
                         data-id="e387364" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <!-- <div class="elementor-element elementor-element-64256ae elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="64256ae" data-element_type="widget" data-settings="{" youtube_url":"https:\="" \="" www.youtube.com\="" watch?v="XHOmBV4js_E" ,"show_image_overlay":"yes","image_overlay":{"url":"http:\="" product:8084\="" wp-content\="" uploads\="" 2021\="" 11\="" pic10.jpg","id":41,"alt":"","source":"library"},"video_type":"youtube","controls":"yes","aspect_ratio":"169"}""="" data-widget_type="video.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <div class="elementor-video"></div>
-                                        <div class="elementor-custom-embed-image-overlay" style="background-image: url(//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg);">
-                                            <div class="elementor-custom-embed-play" role="button">
-                                                <i class="eicon-play" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">播放视频</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Vw_gFjkL6rM"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen=""></iframe>
+                            <video width="100%" height="auto" controls>
+                                <source src="videos/cnc_press_brake.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </div>
                     <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e2a1c6a"
                         data-id="e2a1c6a" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-5aac4c6 elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
-                                data-id="5aac4c6" data-element_type="widget" data-settings="{" youtube_url":"https:\=""
-                                \="" www.youtube.com\="" watch?v="XHOmBV4js_E"
-                                ,"show_image_overlay":"yes","image_overlay":{"url":"http:\="" product:8084\=""
-                                wp-content\="" uploads\="" 2021\="" 11\=""
-                                pic10.jpg","id":41,"alt":"","source":"library"},"video_type":"youtube","controls":"yes","aspect_ratio":"169"}""=""
+                                data-id="5aac4c6" data-element_type="widget"
                                 data-widget_type="video.default">
-                                <!-- <div class="elementor-widget-container">
-                                    <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <div class="elementor-video"></div>
-                                        <div class="elementor-custom-embed-image-overlay" style="background-image: url(//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg);">
-                                            <div class="elementor-custom-embed-play" role="button">
-                                                <i class="eicon-play" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">播放视频</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/9ahx85VUEBw"
+                                <video width="100%" height="auto" controls>
+                                    <source src="/videos/laser_tube_cutting_machine.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9ahx85VUEBw"
                                     title="YouTube video player" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen=""></iframe>
+                                    allowfullscreen=""></iframe> -->
                             </div>
                         </div>
                     </div>
@@ -968,26 +944,17 @@
                         data-id="09110e1" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-939bdd2 elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
-                                data-id="939bdd2" data-element_type="widget" data-settings="{" youtube_url":"https:\=""
-                                \="" www.youtube.com\="" watch?v="XHOmBV4js_E"
-                                ,"show_image_overlay":"yes","image_overlay":{"url":"http:\="" product:8084\=""
-                                wp-content\="" uploads\="" 2021\="" 11\=""
-                                pic10.jpg","id":41,"alt":"","source":"library"},"video_type":"youtube","controls":"yes","aspect_ratio":"169"}""=""
+                                data-id="939bdd2" data-element_type="widget"
                                 data-widget_type="video.default">
                                 <div class="elementor-widget-container">
-                                    <!-- <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <div class="elementor-video"></div>
-                                        <div class="elementor-custom-embed-image-overlay" style="background-image: url(//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg);">
-                                            <div class="elementor-custom-embed-play" role="button">
-                                                <i class="eicon-play" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">播放视频</span>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/m993KRUbevM"
+                                    <video width="100%" height="auto" controls>
+                                        <source src="videos/cnc_laser_cutting_machine.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                    </video>
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/m993KRUbevM"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen=""></iframe>
+                                        allowfullscreen=""></iframe> -->
                                 </div>
                             </div>
                         </div>
@@ -1116,7 +1083,8 @@
                                                     </div>
                                                 </div>
                                                 <script
-                                                    src="//cdn.xuansiwei.com/common/lib/swiper/7.0.8/swiper-bundle.min.js"></script>
+                                                    src="//cdn.xuansiwei.com/common/lib/swiper/7.0.8/swiper-bundle.min.js">
+                                                </script>
                                                 <script>
                                                     if (top !== self && 'auto' === '100vh') {
                                                         $('#f4_focus .swiper-container').height('1080px');
@@ -1136,23 +1104,21 @@
                                                     }
                                                     $(window).resize(function() {
                                                         if ($(window).width() > 767) {
-                                                            var swiper_4 = new Swiper('#f4_focus .swiper-container', {
-                                                                slidesPerView: 3,
-                                                                spaceBetween: 1,
-                                                                loop: true,
-                                                            });
+                                                            var swiper_4 = new Swiper(
+                                                                '#f4_focus .swiper-container', {
+                                                                    slidesPerView: 3,
+                                                                    spaceBetween: 1,
+                                                                    loop: true,
+                                                                });
                                                         } else {
-                                                            var swiper_4 = new Swiper('#f4_focus .swiper-container', {
-                                                                loop: true,
-                                                            });
+                                                            var swiper_4 = new Swiper(
+                                                                '#f4_focus .swiper-container', {
+                                                                    loop: true,
+                                                                });
                                                         }
                                                     })
                                                 </script>
-
                                             </div>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -1164,23 +1130,7 @@
         </div>
     </div>
 
-
-
-
-
-
-
-
-
     <?php include 'footer.php'; ?>
-
-
-
-
-
-
-
-
 
     <script type="text/javascript">
         (function() {
@@ -1193,8 +1143,8 @@
         href="/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0" media="all">
     <link rel="stylesheet" id="e-animations-css"
         href="/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.7" media="all">
-    <script src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7"
-        id="regenerator-runtime-js"></script>
+    <script src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js">
+    </script>
     <script src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
     <script id="contact-form-7-js-extra">
         var wpcf7 = {
@@ -1213,8 +1163,8 @@
     <script src="/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.9.0"
         id="js-cookie-js"></script>
 
-    <script src="/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.9.0"
-        id="woocommerce-js"></script>
+    <script src="/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.9.0" id="woocommerce-js">
+    </script>
 
     <script src="/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.9.0"
         id="wc-cart-fragments-js"></script>
@@ -1335,16 +1285,16 @@
             }
         };
     </script>
-    <script src="/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.6"
-        id="elementor-pro-frontend-js"></script>
+    <script src="/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.6" id="elementor-pro-frontend-js">
+    </script>
     <script src="/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"
         id="elementor-waypoints-js"></script>
     <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
     <script src="/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
-    <script src="/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.7"
-        id="share-link-js"></script>
-    <script src="/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1"
-        id="elementor-dialog-js"></script>
+    <script src="/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.7" id="share-link-js">
+    </script>
+    <script src="/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js">
+    </script>
     <script id="elementor-frontend-js-before">
         var elementorFrontendConfig = {
             "environmentMode": {
@@ -1465,44 +1415,10 @@
         id="animate-circle-js"></script>
     <script src="/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.3.7"
         id="elementskit-elementor-js"></script>
-    <script src="/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.7"
-        id="preloaded-modules-js"></script>
-    <script src="/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.6"
-        id="e-sticky-js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <script src="/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.7" id="preloaded-modules-js">
+    </script>
+    <script src="/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.6" id="e-sticky-js">
+    </script>
 </body>
 
 </html>

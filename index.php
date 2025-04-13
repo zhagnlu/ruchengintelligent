@@ -1421,27 +1421,16 @@
                         data-id="284603d" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-6697c32 elementor-aspect-ratio-169 elementor-widget elementor-widget-video"
-                                data-id="6697c32" data-element_type="widget" data-settings="{" youtube_url":"https:\=""
-                                \="" www.youtube.com\="" watch?v="XHOmBV4js_E"
-                                ,"show_image_overlay":"yes","image_overlay":{"url":"http:\="" product:8084\=""
-                                wp-content\="" uploads\="" 2021\="" 11\=""
-                                pic10.jpg","id":41,"alt":"","source":"library"},"video_type":"youtube","controls":"yes","aspect_ratio":"169"}""=""
+                                data-id="6697c32" data-element_type="widget"
                                 data-widget_type="video.default">
-                                <!-- <div class="elementor-widget-container">
-                                    <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <div class="elementor-video"></div>
-                                        <div class="elementor-custom-embed-image-overlay" style="background-image: url(//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg);">
-                                            <div class="elementor-custom-embed-play" role="button">
-                                                <i class="eicon-play" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">播放视频</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/7RnTZRA5ICA"
+                                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/7RnTZRA5ICA"
                                     title="YouTube video player" frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen=""></iframe>
+                                    allowfullscreen=""></iframe> -->
+                                <video width="100%" height="auto" controls>
+                                    <source src="https://cdn.xuansiwei.com/zhang3794/1648609036276/gongchangchangfang.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
                             </div>
                             <section
                                 class="elementor-section elementor-inner-section elementor-element elementor-element-08ad5c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
