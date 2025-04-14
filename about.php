@@ -918,7 +918,7 @@
                         data-id="e387364" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <video width="100%" height="auto" controls>
-                                <source src="videos/cnc_press_brake.mp4" type="video/mp4">
+                                <source src="https://cdn.jsdelivr.net/gh/zhagnlu/ruchengintelligent@php_version/videos/cnc_press_brake.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
@@ -930,7 +930,7 @@
                                 data-id="5aac4c6" data-element_type="widget"
                                 data-widget_type="video.default">
                                 <video width="100%" height="auto" controls>
-                                    <source src="/videos/laser_tube_cutting_machine.mp4" type="video/mp4">
+                                    <source src="https://cdn.jsdelivr.net/gh/zhagnlu/ruchengintelligent@php_version/videos/laser_tube_cutting_machine.mp4" type="video/mp4">
                                     Your browser does not support the video tag.
                                 </video>
                                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9ahx85VUEBw"
@@ -948,7 +948,7 @@
                                 data-widget_type="video.default">
                                 <div class="elementor-widget-container">
                                     <video width="100%" height="auto" controls>
-                                        <source src="videos/cnc_laser_cutting_machine.mp4" type="video/mp4">
+                                        <source src="https://cdn.jsdelivr.net/gh/zhagnlu/ruchengintelligent@php_version/videos/cnc_laser_cutting_machine.mp4" type="video/mp4">
                                         Your browser does not support the video tag.
                                     </video>
                                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/m993KRUbevM"

@@ -61,7 +61,7 @@
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
                 pageLanguage: 'en',
-                includedLanguages: 'zh-CN,zh-TW,zh-HK,fr,de,ja,ko,es,ru,en',
+                includedLanguages: 'en,zh-CN,zh-TW,zh-HK,ja,ko,th,vi,id,ms,tl,hi,bn,ur,fr,de,es,it,pt,ru,nl,ar,tr,he,fa',
                 layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
             },
             'google_translate_element'

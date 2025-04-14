@@ -60,7 +60,7 @@
                                         </span>
                                         <span class="elementor-grid-item">
                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
-                                                target="_blank" href=" https://vm.tiktok.com/TTPdavJ8fV/">
+                                                target="_blank" href=" https://tiktok.com/@ruchengintelligent">
                                                 <span class="elementor-screen-only">Youtube</span>
                                                 <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small"
                                                     alt="" height="25px" width="25px" loading="lazy">
@@ -180,26 +180,26 @@
                                         <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                <a href="javascript:;" class="elementor-item">Pre-sales
+                                                <a href="/contact.php" class="elementor-item">Pre-sales
                                                     consultation</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                <a href="javascript:;" class="elementor-item">Sign contract</a>
+                                                <a href="/contact.php" class="elementor-item">Sign contract</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                <a href="javascript:;" class="elementor-item">Quality
+                                                <a href="/contact.php" class="elementor-item">Quality
                                                     assurance</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                <a href="javascript:;" class="elementor-item">High-quality
+                                                <a href="/contact.php" class="elementor-item">High-quality
                                                     after-sales</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                <a href="javascript:;" class="elementor-item">Offline
+                                                <a href="/contact.php" class="elementor-item">Offline
                                                     communication</a>
                                             </li>
                                         </ul>
