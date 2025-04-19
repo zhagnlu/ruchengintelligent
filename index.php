@@ -875,7 +875,7 @@
                                                             </div>
                                                         </a>
                                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                            href="/product.php?c=8" data-elementor-open-lightbox="yes"
+                                                            href="/product.php?c=bending_machine_mold" data-elementor-open-lightbox="yes"
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
@@ -999,7 +999,7 @@
                                                                 </a>
                                                             </li>
                                                             <li class="product-category product">
-                                                                <a href="/product.php?c=8">
+                                                                <a href="/product.php?c=bending_machine_mold">
                                                                     <img loading="lazy"
                                                                         src="//cdn.xuansiwei.com/zhang3794/1645925218700/moju-shukongmoju.jpg"
                                                                         alt="卷板机" width="300" height="300"

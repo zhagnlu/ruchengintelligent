@@ -69,7 +69,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-14316">
-                                                            <a href="/product.php?c=1"
+                                                            <a href="/product.php?c=press_brake"
                                                                 class="elementor-sub-item">Press Brake</a>
 
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -120,7 +120,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
-                                                            <a href="/product.php?c=2"
+                                                            <a href="/product.php?c=shearing_machine"
                                                                 class="elementor-sub-item">Hydraulic Shearing Machine</a>
 
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -147,7 +147,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
-                                                            <a href="/product.php?c=3"
+                                                            <a href="/product.php?c=laser_cutting_machine"
                                                                 class="elementor-sub-item">Fiber Laser Cutting Machine</a>
 
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -216,7 +216,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
-                                                            <a href="/product.php?c=4"
+                                                            <a href="/product.php?c=plate_rolling_machine"
                                                                 class="elementor-sub-item">Plate Rolling
                                                                 Machine</a>
 
@@ -244,7 +244,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
-                                                            <a href="/product.php?c=5"
+                                                            <a href="/product.php?c=hand_operated_ironworker"
                                                                 class="elementor-sub-item">Hand-Operated
                                                                 Ironworker</a>
 
@@ -264,7 +264,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15953">
-                                                            <a href="/product.php?c=6"
+                                                            <a href="/product.php?c=four_column_hydraulic_press"
                                                                 class="elementor-sub-item">Four-Column Hydraulic
                                                                 Press</a>
 
@@ -284,7 +284,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15954">
-                                                            <a href="/product.php?c=7"
+                                                            <a href="/product.php?c=mechanical_blade"
                                                                 class="elementor-sub-item">Mechanical Blade</a>
 
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -371,7 +371,7 @@ function isActive($page)
 
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15955">
-                                                            <a href="/product.php?c=8"
+                                                            <a href="/product.php?c=bending_machine_mold"
                                                                 class="elementor-sub-item">Press Brake Tools</a>
 
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -394,7 +394,7 @@ function isActive($page)
 
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15986">
-                                                                    <a href="/product_8_3.php"
+                                                                    <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
                                                                         class="elementor-sub-item">Upper Die of
                                                                         Press Brake</a>
                                                                 </li>
@@ -495,7 +495,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-14316">
-                                                        <a href="/product.php?c=1"
+                                                        <a href="/product.php?c=press_brake"
                                                             class="elementor-sub-item">Press Brake</a>
 
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -546,7 +546,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
-                                                        <a href="/product.php?c=2"
+                                                        <a href="/product.php?c=shearing_machine"
                                                             class="elementor-sub-item">Hydraulic Shearing Machine</a>
 
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -573,7 +573,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
-                                                        <a href="/product.php?c=3"
+                                                        <a href="/product.php?c=laser_cutting_machine"
                                                             class="elementor-sub-item">Fiber Laser Cutting Machine</a>
 
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -642,7 +642,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
-                                                        <a href="/product.php?c=4"
+                                                        <a href="/product.php?c=plate_rolling_machine"
                                                             class="elementor-sub-item">Plate Rolling
                                                             Machine</a>
 
@@ -670,7 +670,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
-                                                        <a href="/product.php?c=5"
+                                                        <a href="/product.php?c=hand_operated_ironworker"
                                                             class="elementor-sub-item">Hand-Operated
                                                             Ironworker</a>
 
@@ -690,7 +690,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15953">
-                                                        <a href="/product.php?c=6"
+                                                        <a href="/product.php?c=four_column_hydraulic_press"
                                                             class="elementor-sub-item">Four-Column Hydraulic
                                                             Press</a>
 
@@ -710,7 +710,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15954">
-                                                        <a href="/product.php?c=7"
+                                                        <a href="/product.php?c=mechanical_blade"
                                                             class="elementor-sub-item">Mechanical Blade</a>
 
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -798,7 +798,7 @@ function isActive($page)
 
                                                     <li
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15955">
-                                                        <a href="/product.php?c=8"
+                                                        <a href="/product.php?c=bending_machine_mold"
                                                             class="elementor-sub-item">Press Brake Tools</a>
 
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -821,7 +821,7 @@ function isActive($page)
 
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15986">
-                                                                <a href="/product_8_3.php"
+                                                                <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
                                                                     class="elementor-sub-item">Upper Die of
                                                                     Press Brake</a>
                                                             </li>

@@ -1,181 +1,175 @@
-<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ -->
-<html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr">
-
-<head>
+<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ --><html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr"><head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VWRCJYQDF2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-VWRCJYQDF2');
-    </script>
+  gtag('config', 'G-VWRCJYQDF2');
+</script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script>
-        if (navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
-            var href = document.location.href;
-            if (!href.match(/[?&]nowprocket/)) {
-                if (href.indexOf("?") == -1) {
-                    if (href.indexOf("#") == -1) {
-                        document.location.href = href + "?nowprocket=1"
-                    } else {
-                        document.location.href = href.replace("#", "?nowprocket=1#")
-                    }
-                } else {
-                    if (href.indexOf("#") == -1) {
-                        document.location.href = href + "&nowprocket=1"
-                    } else {
-                        document.location.href = href.replace("#", "&nowprocket=1#")
-                    }
-                }
-            }
-        }
-    </script>
+        if(navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
+				var href = document.location.href;
+				if(!href.match(/[?&]nowprocket/)) {
+					if(href.indexOf("?") == -1) {
+						if(href.indexOf("#") == -1) {
+							document.location.href = href + "?nowprocket=1"
+						} else {
+							document.location.href = href.replace("#", "?nowprocket=1#")
+						}
+					} else {
+						if(href.indexOf("#") == -1) {
+							document.location.href = href + "&nowprocket=1"
+						} else {
+							document.location.href = href.replace("#", "&nowprocket=1#")
+						}
+					}
+				}
+			}
+		</script>
     <script>
         class RocketLazyLoadScripts {
-            constructor(e) {
-                this.triggerEvents = e, this.eventOptions = {
-                    passive: !0
-                }, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = {
-                    normal: [],
-                    async: [],
-                    defer: []
-                }, this.allJQueries = []
-            }
-            _addUserInteractionListener(e) {
-                this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions)))
-            }
-            _removeUserInteractionListener(e) {
-                this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions)))
-            }
-            triggerListener() {
-                this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow()
-            }
-            async _loadEverythingNow() {
-                this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded"))
-            }
-            _registerAllDelayedScripts() {
-                document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e => {
-                    e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-rocket-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e)
-                }))
-            }
-            async _transformScript(e) {
-                return await this._requestAnimFrame(), new Promise((t => {
-                    const n = document.createElement("script");
-                    let r;
-                    [...e.attributes].forEach((e => {
-                        let t = e.nodeName;
-                        "type" !== t && ("data-rocket-type" === t && (t = "type", r = e.nodeValue), n.setAttribute(t, e.nodeValue))
-                    })), e.hasAttribute("src") ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e)
-                }))
-            }
-            async _loadScriptsFromList(e) {
-                const t = e.shift();
-                return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve()
-            }
-            _preloadAllScripts() {
-                var e = document.createDocumentFragment();
-                [...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => {
-                    const n = t.getAttribute("src");
-                    if (n) {
-                        const t = document.createElement("link");
-                        t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t)
-                    }
-                })), document.head.appendChild(e)
-            }
-            _delayEventListeners() {
-                let e = {};
+				constructor(e) {
+					this.triggerEvents = e, this.eventOptions = {
+						passive: !0
+					}, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = {
+						normal: [],
+						async: [],
+						defer: []
+					}, this.allJQueries = []
+				}
+				_addUserInteractionListener(e) {
+					this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions)))
+				}
+				_removeUserInteractionListener(e) {
+					this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions)))
+				}
+				triggerListener() {
+					this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow()
+				}
+				async _loadEverythingNow() {
+					this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded"))
+				}
+				_registerAllDelayedScripts() {
+					document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e => {
+						e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-rocket-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e)
+					}))
+				}
+				async _transformScript(e) {
+					return await this._requestAnimFrame(), new Promise((t => {
+						const n = document.createElement("script");
+						let r;
+						[...e.attributes].forEach((e => {
+							let t = e.nodeName;
+							"type" !== t && ("data-rocket-type" === t && (t = "type", r = e.nodeValue), n.setAttribute(t, e.nodeValue))
+						})), e.hasAttribute("src") ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e)
+					}))
+				}
+				async _loadScriptsFromList(e) {
+					const t = e.shift();
+					return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve()
+				}
+				_preloadAllScripts() {
+					var e = document.createDocumentFragment();
+					[...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => {
+						const n = t.getAttribute("src");
+						if(n) {
+							const t = document.createElement("link");
+							t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t)
+						}
+					})), document.head.appendChild(e)
+				}
+				_delayEventListeners() {
+					let e = {};
 
-                function t(t, n) {
-                    ! function(t) {
-                        function n(n) {
-                            return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
-                        }
-                        e[t] || (e[t] = {
-                            originalFunctions: {
-                                add: t.addEventListener,
-                                remove: t.removeEventListener
-                            },
-                            eventsToRewrite: []
-                        }, t.addEventListener = function() {
-                            arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
-                        }, t.removeEventListener = function() {
-                            arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
-                        })
-                    }(t), e[t].eventsToRewrite.push(n)
-                }
+					function t(t, n) {
+						! function(t) {
+							function n(n) {
+								return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
+							}
+							e[t] || (e[t] = {
+								originalFunctions: {
+									add: t.addEventListener,
+									remove: t.removeEventListener
+								},
+								eventsToRewrite: []
+							}, t.addEventListener = function() {
+								arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
+							}, t.removeEventListener = function() {
+								arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
+							})
+						}(t), e[t].eventsToRewrite.push(n)
+					}
 
-                function n(e, t) {
-                    let n = e[t];
-                    Object.defineProperty(e, t, {
-                        get: () => n || function() {},
-                        set(r) {
-                            e["rocket" + t] = n = r
-                        }
-                    })
-                }
-                t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow")
-            }
-            _delayJQueryReady(e) {
-                let t = window.jQuery;
-                Object.defineProperty(window, "jQuery", {
-                    get: () => t,
-                    set(n) {
-                        if (n && n.fn && !e.allJQueries.includes(n)) {
-                            n.fn.ready = n.fn.init.prototype.ready = function(t) {
-                                e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
-                            };
-                            const t = n.fn.on;
-                            n.fn.on = n.fn.init.prototype.on = function() {
-                                if (this[0] === window) {
-                                    function e(e) {
-                                        return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
-                                    }
-                                    "string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => {
-                                        delete Object.assign(arguments[0], {
-                                            [e(t)]: arguments[0][t]
-                                        })[t]
-                                    }))
-                                }
-                                return t.apply(this, arguments), this
-                            }, e.allJQueries.push(n)
-                        }
-                        t = n
-                    }
-                })
-            }
-            async _triggerDOMContentLoaded() {
-                this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange()
-            }
-            async _triggerWindowLoad() {
-                await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow()
-            }
-            _handleDocumentWrite() {
-                const e = new Map;
-                document.write = document.writeln = function(t) {
-                    const n = document.currentScript,
-                        r = document.createRange(),
-                        i = n.parentElement;
-                    let o = e.get(n);
-                    void 0 === o && (o = n.nextSibling, e.set(n, o));
-                    const a = document.createDocumentFragment();
-                    r.setStart(a, 0), a.appendChild(r.createContextualFragment(t)), i.insertBefore(a, o)
-                }
-            }
-            async _requestAnimFrame() {
-                return new Promise((e => requestAnimationFrame(e)))
-            }
-            static run() {
-                const e = new RocketLazyLoadScripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
-                e._addUserInteractionListener(e)
-            }
-        }
-        RocketLazyLoadScripts.run();
-    </script>
+					function n(e, t) {
+						let n = e[t];
+						Object.defineProperty(e, t, {
+							get: () => n || function() {},
+							set(r) {
+								e["rocket" + t] = n = r
+							}
+						})
+					}
+					t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow")
+				}
+				_delayJQueryReady(e) {
+					let t = window.jQuery;
+					Object.defineProperty(window, "jQuery", {
+						get: () => t,
+						set(n) {
+							if(n && n.fn && !e.allJQueries.includes(n)) {
+								n.fn.ready = n.fn.init.prototype.ready = function(t) {
+									e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
+								};
+								const t = n.fn.on;
+								n.fn.on = n.fn.init.prototype.on = function() {
+									if(this[0] === window) {
+										function e(e) {
+											return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
+										}
+										"string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => {
+											delete Object.assign(arguments[0], {
+												[e(t)]: arguments[0][t]
+											})[t]
+										}))
+									}
+									return t.apply(this, arguments), this
+								}, e.allJQueries.push(n)
+							}
+							t = n
+						}
+					})
+				}
+				async _triggerDOMContentLoaded() {
+					this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange()
+				}
+				async _triggerWindowLoad() {
+					await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow()
+				}
+				_handleDocumentWrite() {
+					const e = new Map;
+					document.write = document.writeln = function(t) {
+						const n = document.currentScript,
+							r = document.createRange(),
+							i = n.parentElement;
+						let o = e.get(n);
+						void 0 === o && (o = n.nextSibling, e.set(n, o));
+						const a = document.createDocumentFragment();
+						r.setStart(a, 0), a.appendChild(r.createContextualFragment(t)), i.insertBefore(a, o)
+					}
+				}
+				async _requestAnimFrame() {
+					return new Promise((e => requestAnimationFrame(e)))
+				}
+				static run() {
+					const e = new RocketLazyLoadScripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
+					e._addUserInteractionListener(e)
+				}
+			}
+			RocketLazyLoadScripts.run();
+		</script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
 
@@ -8268,75 +8262,75 @@
     </noscript>
     <script>
         /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-        (function(w) {
-            "use strict";
-            if (!w.loadCSS) {
-                w.loadCSS = function() {}
-            }
-            var rp = loadCSS.relpreload = {};
-            rp.support = (function() {
-                var ret;
-                try {
-                    ret = w.document.createElement("link").relList.supports("preload")
-                } catch (e) {
-                    ret = !1
-                }
-                return function() {
-                    return ret
-                }
-            })();
-            rp.bindMediaToggle = function(link) {
-                var finalMedia = link.media || "all";
+			(function(w) {
+				"use strict";
+				if(!w.loadCSS) {
+					w.loadCSS = function() {}
+				}
+				var rp = loadCSS.relpreload = {};
+				rp.support = (function() {
+					var ret;
+					try {
+						ret = w.document.createElement("link").relList.supports("preload")
+					} catch(e) {
+						ret = !1
+					}
+					return function() {
+						return ret
+					}
+				})();
+				rp.bindMediaToggle = function(link) {
+					var finalMedia = link.media || "all";
 
-                function enableStylesheet() {
-                    link.media = finalMedia
-                }
-                if (link.addEventListener) {
-                    link.addEventListener("load", enableStylesheet)
-                } else if (link.attachEvent) {
-                    link.attachEvent("onload", enableStylesheet)
-                }
-                setTimeout(function() {
-                    link.rel = "stylesheet";
-                    link.media = "only x"
-                });
-                setTimeout(enableStylesheet, 3000)
-            };
-            rp.poly = function() {
-                if (rp.support()) {
-                    return
-                }
-                var links = w.document.getElementsByTagName("link");
-                for (var i = 0; i < links.length; i++) {
-                    var link = links[i];
-                    if (link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
-                        link.setAttribute("data-loadcss", !0);
-                        rp.bindMediaToggle(link)
-                    }
-                }
-            };
-            if (!rp.support()) {
-                rp.poly();
-                var run = w.setInterval(rp.poly, 500);
-                if (w.addEventListener) {
-                    w.addEventListener("load", function() {
-                        rp.poly();
-                        w.clearInterval(run)
-                    })
-                } else if (w.attachEvent) {
-                    w.attachEvent("onload", function() {
-                        rp.poly();
-                        w.clearInterval(run)
-                    })
-                }
-            }
-            if (typeof exports !== "undefined") {
-                exports.loadCSS = loadCSS
-            } else {
-                w.loadCSS = loadCSS
-            }
-        }(typeof global !== "undefined" ? global : this))
-    </script>
+					function enableStylesheet() {
+						link.media = finalMedia
+					}
+					if(link.addEventListener) {
+						link.addEventListener("load", enableStylesheet)
+					} else if(link.attachEvent) {
+						link.attachEvent("onload", enableStylesheet)
+					}
+					setTimeout(function() {
+						link.rel = "stylesheet";
+						link.media = "only x"
+					});
+					setTimeout(enableStylesheet, 3000)
+				};
+				rp.poly = function() {
+					if(rp.support()) {
+						return
+					}
+					var links = w.document.getElementsByTagName("link");
+					for(var i = 0; i < links.length; i++) {
+						var link = links[i];
+						if(link.rel === "preload" && link.getAttribute("as") === "style" && !link.getAttribute("data-loadcss")) {
+							link.setAttribute("data-loadcss", !0);
+							rp.bindMediaToggle(link)
+						}
+					}
+				};
+				if(!rp.support()) {
+					rp.poly();
+					var run = w.setInterval(rp.poly, 500);
+					if(w.addEventListener) {
+						w.addEventListener("load", function() {
+							rp.poly();
+							w.clearInterval(run)
+						})
+					} else if(w.attachEvent) {
+						w.attachEvent("onload", function() {
+							rp.poly();
+							w.clearInterval(run)
+						})
+					}
+				}
+				if(typeof exports !== "undefined") {
+					exports.loadCSS = loadCSS
+				} else {
+					w.loadCSS = loadCSS
+				}
+			}(typeof global !== "undefined" ? global : this))
+		</script>
     <link href="/product/jquery.min.js" rel="preload" as="script">
     <link href="/product/jquery-migrate.min.js" rel="preload" as="script">
     <link href="/product/v4-shims.min.js" rel="preload" as="script">
@@ -8396,96 +8390,88 @@
     <link rel="stylesheet" id="elementor-post-125-css" href="/wp-content/uploads/elementor/css/post-125.css?ver=1639183944" media="all">
     <link rel="stylesheet" id="elementor-post-183-css" href="/wp-content/uploads/elementor/css/post-183.css?ver=1639184097" media="all">
     <meta name="keywords" content="">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
-    <!-- twitter分享 -->
-    <meta property="twitter:url" content="/product_8_3.php">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="null">
+<link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+        <!-- twitter分享 -->
+        <meta property="twitter:url" content="/bending-machine-mold/product-upper_die_of_press_brake.php">
+        <meta name="twitter:title" content="">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="null">
 
-    <!-- facebook分享 -->
-    <meta property="og:url" content="/product_8_3.php">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="null">
+        <!-- facebook分享 -->
+        <meta property="og:url" content="/bending-machine-mold/product-upper_die_of_press_brake.php">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="">
+        <meta property="og:description" content="">
+        <meta property="og:image" content="null">
 
-    <script>
-        function shareFacebook() {
-            var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
-            _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
-            window.open(_shareUrl, '_blank');
+        <script>
+            function shareFacebook() {
+                var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
+                _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
+                window.open(_shareUrl, '_blank');
+            }
+            function shareTwitter() {
+                var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
+                _shareUrl += '&text=' + encodeURIComponent(''); 
+                _shareUrl += '&url=' + encodeURIComponent(location.href); 
+                window.open(_shareUrl, '_blank');
+            }
+            function sharePinterest() {
+                var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
+                _shareUrl += '&media=' + encodeURIComponent('null'); 
+                _shareUrl += '&description=' + encodeURIComponent(''); 
+                _shareUrl += '&url=' + encodeURIComponent(location.href); 
+                window.open(_shareUrl, '_blank');
+            }
+        </script>
+    
+            <meta charset="UTF-8">
+            <script>
+                var docCookies = {
+    getItem: function (sKey) {
+        return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+    },
+    setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+        if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+        var sExpires = "";
+        if (vEnd) {
+            switch (vEnd.constructor) {
+            case Number:
+                sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+                break;
+            case String:
+                sExpires = "; expires=" + vEnd;
+                break;
+            case Date:
+                sExpires = "; expires=" + vEnd.toUTCString();
+                break;
+            }
         }
-
-        function shareTwitter() {
-            var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-            _shareUrl += '&text=' + encodeURIComponent('');
-            _shareUrl += '&url=' + encodeURIComponent(location.href);
-            window.open(_shareUrl, '_blank');
-        }
-
-        function sharePinterest() {
-            var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
-            _shareUrl += '&media=' + encodeURIComponent('null');
-            _shareUrl += '&description=' + encodeURIComponent('');
-            _shareUrl += '&url=' + encodeURIComponent(location.href);
-            window.open(_shareUrl, '_blank');
-        }
-    </script>
-
-    <meta charset="UTF-8">
-    <script>
-        var docCookies = {
-            getItem: function(sKey) {
-                return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
-            },
-            setItem: function(sKey, sValue, vEnd, sPath, sDomain, bSecure) {
-                if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) {
-                    return false;
-                }
-                var sExpires = "";
-                if (vEnd) {
-                    switch (vEnd.constructor) {
-                        case Number:
-                            sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
-                            break;
-                        case String:
-                            sExpires = "; expires=" + vEnd;
-                            break;
-                        case Date:
-                            sExpires = "; expires=" + vEnd.toUTCString();
-                            break;
+        document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
+        return true;
+        },
+        removeItem: function (sKey, sPath, sDomain) {
+        if (!sKey || !this.hasItem(sKey)) { return false; }
+        document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + ( sDomain ? "; domain=" + sDomain : "") + ( sPath ? "; path=" + sPath : "");
+        return true;
+    },
+    hasItem: function (sKey) {
+        return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
+    },
+    keys: /* optional method: you can safely remove it! */ function () {
+        var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
+        for (var nIdx = 0; nIdx < aKeys.length; nIdx++) { aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]); }
+        return aKeys;
+    }
+};
+                if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
+                    if (!docCookies.getItem('login_name')) {
+                        location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
                     }
                 }
-                document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "") + (bSecure ? "; secure" : "");
-                return true;
-            },
-            removeItem: function(sKey, sPath, sDomain) {
-                if (!sKey || !this.hasItem(sKey)) {
-                    return false;
-                }
-                document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + (sDomain ? "; domain=" + sDomain : "") + (sPath ? "; path=" + sPath : "");
-                return true;
-            },
-            hasItem: function(sKey) {
-                return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[-.+*]/g, "\\$&") + "\\s*\\=")).test(document.cookie);
-            },
-            keys: /* optional method: you can safely remove it! */ function() {
-                var aKeys = document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:\1|$)/g, "").split(/\s*(?:\=[^;]*)?;\s*/);
-                for (var nIdx = 0; nIdx < aKeys.length; nIdx++) {
-                    aKeys[nIdx] = decodeURIComponent(aKeys[nIdx]);
-                }
-                return aKeys;
-            }
-        };
-        if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
-            if (!docCookies.getItem('login_name')) {
-                location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
-            }
-        }
-    </script>
-</head>
+            </script>
+        </head>
 
 <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-3467 page-child parent-pageid-606 wp-custom-logo translatepress-en_US ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.5 ast-full-width-layout ast-sticky-main-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-kit-5426 elementor-page elementor-page-3467 astra-addon-3.6.3 e--ua-blink e--ua-chrome e--ua-webkit ast-mouse-clicked" data-elementor-device-mode="desktop">
     <a class="skip-link screen-reader-text" href="" role="link" title="跳到内容">
@@ -8494,20 +8480,7 @@
         </font>
     </a>
     <div class="hfeed site" id="page">
-
-
-
-
-
-
-
         <?php include '../header.php'; ?>
-
-
-
-
-
-
         <div id="content" class="site-content">
             <div class="ast-container">
                 <div id="primary" class="content-area primary">
@@ -8543,10 +8516,10 @@
                                                         <div class="elementor-element elementor-element-9683311 elementor-widget elementor-widget-text-editor animated fadeIn" data-id="9683311" data-element_type="widget" data-settings="{}" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                 <p>
-                                                                    <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Excellent bending effect, a variety of materials are available, and non-standard customization is supported</font>
-                                                                    </font>
-                                                                </p>
+																		<font style="vertical-align: inherit;">
+																			<font style="vertical-align: inherit;">Excellent bending effect, a variety of materials are available, and non-standard customization is supported</font>
+																		</font>
+																	</p>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-1af56af8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1af56af8" data-element_type="widget" data-widget_type="icon-list.default">
@@ -8554,30 +8527,18 @@
                                                                 <ul class="elementor-icon-list-items">
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">Select materials to ensure product quality.</font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Select materials to ensure product quality.</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">From the selection of materials to the finished product, every step is very careful.</font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">From the selection of materials to the finished product, every step is very careful.</font></font></span>
                                                                     </li>
                                                                     <li class="elementor-icon-list-item">
                                                                         <span class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                                        <span class="elementor-icon-list-text">
-                                                                            <font style="vertical-align: inherit;">
-                                                                                <font style="vertical-align: inherit;">Support customization, timely delivery</font>
-                                                                            </font>
-                                                                        </span>
+<i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                                        <span class="elementor-icon-list-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Support customization, timely delivery</font></font></span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -8596,26 +8557,18 @@
                                                                         <div class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-f96ab12 uael-dual-button-0">
                                                                             <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow" href="/contact.php">
                                                                                 <span class="elementor-button-content-wrapper uael-buttons-icon-">
-                                                                                    <span class="elementor-align-icon- elementor-button-icon">
-                                                                                    </span>
-                                                                                    <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none">
-                                                                                        <font style="vertical-align: inherit;">
-                                                                                            <font style="vertical-align: inherit;">Request A Quote</font>
-                                                                                        </font>
-                                                                                    </span>
+<span class="elementor-align-icon- elementor-button-icon">
+</span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.0.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request A Quote</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
                                                                         <div class="uael-button-wrapper elementor-button-wrapper uael-dual-button elementor-repeater-item-1a1fde5 uael-dual-button-1">
                                                                             <a class="elementor-button-link elementor-button elementor-size-lg elementor-button-link elementor-animation-grow" href="javascript:;" target="_blank">
                                                                                 <span class="elementor-button-content-wrapper uael-buttons-icon- elementor-button-content-wrapper uael-buttons-icon-">
-                                                                                    <span class="elementor-align-icon- elementor-button-icon">
-                                                                                    </span>
-                                                                                    <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.1.text" data-elementor-inline-editing-toolbar="none">
-                                                                                        <font style="vertical-align: inherit;">
-                                                                                            <font style="vertical-align: inherit;">Watch Video</font>
-                                                                                        </font>
-                                                                                    </span>
+<span class="elementor-align-icon- elementor-button-icon">
+</span>
+                                                                                <span class="elementor-button-text elementor-inline-editing" data-elementor-setting-key="buttons.1.text" data-elementor-inline-editing-toolbar="none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Watch Video</font></font></span>
                                                                                 </span>
                                                                             </a>
                                                                         </div>
@@ -8665,11 +8618,9 @@
                                                                 <div class="elementor-button-wrapper">
                                                                     <a href="" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                         <span class="elementor-button-content-wrapper">
-                                                                            <span class="elementor-button-icon elementor-align-icon-right">
-                                                                                <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-                                                                            <span class="elementor-button-text">
-                                                                                <font style="vertical-align: inherit;"></font>
-                                                                            </span>
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="fas fa-angle-right"></i> </span>
+                                                                        <span class="elementor-button-text"><font style="vertical-align: inherit;"></font></span>
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -8691,7 +8642,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
                                                                                     <span class="elementor-divider-separator">
-                                                                                    </span>
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -8706,106 +8657,79 @@
                                                                                     <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646392954331/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0ee1d19">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中心对齐表</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 个中的 1 个</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="1">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">中心对齐表</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">3 个中的 1 个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-1e92adac-e024718">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-1e92adac-e024718">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-e024718">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-e024718"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数控折弯机</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 个中的 2 个</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="2">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">数控折弯机</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">3 个中的 2 个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="2">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="2">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip elementor-repeater-item-0cb9342">
-                                                                                            <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-3" data-uaeltour="3" data-tooltip-content="#uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-3" data-uaeltour="3" data-tooltip-content="#uael-tooltip-content-1e92adac-0cb9342">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-1e92adac-0cb9342"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机械手</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3 中的 3</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="3">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">机械手</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">3 中的 3</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-1e92adac" data-tooltipid="3">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="3">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-1e92adac" data-tooltipid="3">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -8826,38 +8750,29 @@
                                                                                     <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646392954366/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-c75a9ae-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工件</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-c75a9ae" data-tooltipid="1">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">工件</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">1 中的 1</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-c75a9ae" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-c75a9ae" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-c75a9ae" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -8871,7 +8786,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
                                                                                     <span class="elementor-divider-separator">
-                                                                                    </span>
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -8887,7 +8802,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
                                                                                     <span class="elementor-divider-separator">
-                                                                                    </span>
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -8902,38 +8817,29 @@
                                                                                     <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646392954404/4.jpg" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-14823dfa-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">夹爪</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-14823dfa" data-tooltipid="1">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">夹爪</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">1 中的 1</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-14823dfa" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-14823dfa" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-14823dfa" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -8954,72 +8860,54 @@
                                                                                     <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646392954436/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-0ee1d19"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电器</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 中的 1</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="1">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">电器</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">2 中的 1</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="1">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="1">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
+<span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-2" data-uaeltour="2" data-tooltip-content="#uael-tooltip-content-39d9dd0b-e024718">
+<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
                                                                                         </span>
                                                                                         <span class="uael-tooltip-container">
-                                                                                            <span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <p>
+<span class="uael-tooltip-text uael-tour-inactive" id="uael-tooltip-content-39d9dd0b-e024718"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制器</font></font></p> <span class="uael-tour"><span class="uael-actual-step"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2 的 2</font></font></span>
+                                                                                        <ul>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="2">
                                                                                                     <font style="vertical-align: inherit;">
-                                                                                                        <font style="vertical-align: inherit;">控制器</font>
+                                                                                                        <font style="vertical-align: inherit;">“ 以前的</font>
                                                                                                     </font>
-                                                                                                </p> <span class="uael-tour"><span class="uael-actual-step">
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">2 的 2</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-prev-39d9dd0b" data-tooltipid="2">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">“ 以前的</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="2">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    <font style="vertical-align: inherit;">下一个 ”</font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            <li>
+                                                                                                <a href="javascript:;" class="uael-next-39d9dd0b" data-tooltipid="2">
+                                                                                                    <font style="vertical-align: inherit;">
+                                                                                                        <font style="vertical-align: inherit;">下一个 ”</font>
+                                                                                                    </font>
+                                                                                                </a>
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                        </span>
+                                                                                        </span>
                                                                                         </span>
                                                                                     </div>
                                                                                 </div>
@@ -9033,7 +8921,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-divider">
                                                                                     <span class="elementor-divider-separator">
-                                                                                    </span>
+</span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9061,11 +8949,11 @@
                                                         <div class="elementor-element elementor-element-72f29589 elementor-widget elementor-widget-text-editor" data-id="72f29589" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                 <p>
-                                                                    <font style="vertical-align: inherit;">
-                                                                        <font style="vertical-align: inherit;">Our sales experts will contact you within 24 hours.
-                                                                        </font>
-                                                                    </font>
-                                                                </p>
+																		<font style="vertical-align: inherit;">
+																			<font style="vertical-align: inherit;">Our sales experts will contact you within 24 hours.
+</font>
+																		</font>
+																	</p>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-6bd54ec6 elementor-align-center elementor-widget elementor-widget-button animated zoomIn" data-id="6bd54ec6" data-element_type="widget" data-settings="{" _animation":"zoomin"}"="" data-widget_type="button.default">
@@ -9073,12 +8961,8 @@
                                                                 <div class="elementor-button-wrapper">
                                                                     <a href="javascript:;" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                         <span class="elementor-button-content-wrapper">
-                                                                            <span class="elementor-button-text">
-                                                                                <font style="vertical-align: inherit;">
-                                                                                    <font style="vertical-align: inherit;">Get Free Quote
-                                                                                    </font>
-                                                                                </font>
-                                                                            </span>
+<span class="elementor-button-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get Free Quote
+</font></font></span>
                                                                         </span>
                                                                     </a>
                                                                 </div>
@@ -9115,10 +8999,10 @@
                                                                             <div class="uael-infobox-text-wrap">
                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                     <p>
-                                                                                        <font style="vertical-align: inherit;">
-                                                                                            <font style="vertical-align: inherit;">Through the following product detailed display and text description, you can better understand the performance of the product</font>
-                                                                                        </font>
-                                                                                    </p>
+																							<font style="vertical-align: inherit;">
+																								<font style="vertical-align: inherit;">Through the following product detailed display and text description, you can better understand the performance of the product</font>
+																							</font>
+																						</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9139,8 +9023,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn" data-id="72fb2127" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1645964959655/xuancai.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1645964959655/xuancai.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9161,11 +9044,11 @@
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
-                                                                                                        <font style="vertical-align: inherit;">
-                                                                                                            <font style="vertical-align: inherit;">Choose high-quality materials,
-                                                                                                                It is the basis for ensuring product quality</font>
-                                                                                                        </font>
-                                                                                                    </p>
+																											<font style="vertical-align: inherit;">
+																												<font style="vertical-align: inherit;">Choose high-quality materials,
+It is the basis for ensuring product quality</font>
+																											</font>
+																										</p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9183,8 +9066,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn" data-id="861c91a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1645964985257/jingxindamo.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1645964985257/jingxindamo.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9224,8 +9106,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn" data-id="d48b1e9" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646139413796/x3.jpg" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646139413796/x3.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9246,15 +9127,10 @@
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
                                                                                                     <p>
-                                                                                                        <font style="vertical-align: inherit;">
-
-
-                                                                                                        </font><span style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font style="vertical-align: inherit;">
-                                                                                                                <font style="vertical-align: inherit;">It is processed and forged by the quenching and tempering process, which has the advantages of high hardness, strong toughness and corrosion resistance.</font>
-                                                                                                            </font>
-                                                                                                        </span>
-                                                                                                    </p>
+																											<font style="vertical-align: inherit;">
+																												
+																												
+																											</font><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">It is processed and forged by the quenching and tempering process, which has the advantages of high hardness, strong toughness and corrosion resistance.</font></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9272,8 +9148,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646140677727/x9.jpg" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646140677727/x9.jpg" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9294,16 +9169,8 @@
                                                                                             </div>
                                                                                             <div class="uael-infobox-text-wrap">
                                                                                                 <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">
-                                                                                                    <p><span style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font style="vertical-align: inherit;"></font>
-                                                                                                        </span><span style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font style="vertical-align: inherit;">
-                                                                                                                <font style="vertical-align: inherit;">
-                                                                                                                    Our products are widely used in all walks of life!</font>
-                                                                                                            </font>
-                                                                                                        </span><span style="font-style: inherit;font-weight: inherit">
-                                                                                                            <font style="vertical-align: inherit;"></font>
-                                                                                                        </span></p>
+                                                                                                    <p><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+Our products are widely used in all walks of life!</font></font></span><span style="font-style: inherit;font-weight: inherit"><font style="vertical-align: inherit;"></font></span></p>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -9321,8 +9188,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn" data-id="69bde833" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413924/x5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413924/x5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9360,8 +9226,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn" data-id="740da2e8" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413960/x6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413960/x6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9395,8 +9260,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn" data-id="4e33a99a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414017/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414017/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9431,8 +9295,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414044/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
-                                                                            </div>
+                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414044/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy"> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -9510,30 +9373,14 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
-
-
-        <?php include 'footer.php'; ?>
-
-
-
-
-
+        <?php include '../footer.php'; ?>
 
 
     </div>
 
     <script src="/product/8hyjuqjfcpp49kny8glii0blzfd3qebj.js" async=""></script>
     <a id="ast-scroll-top" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both" style="display: none;">
-        <span class="ast-icon icon-arrow"></span> <span class="screen-reader-text">
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">滚动到顶部</font>
-            </font>
-        </span>
+        <span class="ast-icon icon-arrow"></span> <span class="screen-reader-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">滚动到顶部</font></font></span>
     </a>
 
     <link rel="stylesheet" href="/product/animations.min.css" data-rocket-async="style" as="style" media="all">
@@ -10069,6 +9916,4 @@
 
 
 
-</body>
-
-</html>
+</body></html>

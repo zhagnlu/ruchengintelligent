@@ -523,44 +523,44 @@
                                     <nav migration_allowed="1" migrated="0" role="navigation"
                                         class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
                                         <ul id="menu-1-aafb3c7" class="elementor-nav-menu sm-vertical">
-                                            <li pc_p_category="1"
+                                            <li pc_p_category="press_brake"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(1);" aria-current="page"
+                                                <a href="javascript:p_category('press_brake');" aria-current="page"
                                                     class="elementor-item">Press Brake</a>
                                             </li>
-                                            <li pc_p_category="2"
+                                            <li pc_p_category="shearing_machine"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(2);" aria-current="page"
+                                                <a href="javascript:p_category('shearing_machine');" aria-current="page"
                                                     class="elementor-item">Hydraulic Shearing Machine</a>
                                             </li>
-                                            <li pc_p_category="3"
+                                            <li pc_p_category="laser_cutting_machine"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(3);" aria-current="page"
+                                                <a href="javascript:p_category('laser_cutting_machine');" aria-current="page"
                                                     class="elementor-item">Fiber Laser Cutting Machine</a>
                                             </li>
-                                            <li pc_p_category="4"
+                                            <li pc_p_category="plate_rolling_machine"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(4);" aria-current="page"
+                                                <a href="javascript:p_category('plate_rolling_machine');" aria-current="page"
                                                     class="elementor-item">Plate Rolling Machine</a>
                                             </li>
-                                            <li pc_p_category="5"
+                                            <li pc_p_category="hand_operated_ironworker"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(5);" aria-current="page"
+                                                <a href="javascript:p_category('hand_operated_ironworker');" aria-current="page"
                                                     class="elementor-item">Hand-Operated Ironworker</a>
                                             </li>
-                                            <li pc_p_category="6"
+                                            <li pc_p_category="four_column_hydraulic_press"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(6);" aria-current="page"
+                                                <a href="javascript:p_category('four_column_hydraulic_press');" aria-current="page"
                                                     class="elementor-item">Four-Column Hydraulic Press </a>
                                             </li>
-                                            <li pc_p_category="7"
+                                            <li pc_p_category="mechanical_blade"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(7);" aria-current="page"
+                                                <a href="javascript:p_category('mechanical_blade');" aria-current="page"
                                                     class="elementor-item">Mechanical Blade</a>
                                             </li>
-                                            <li pc_p_category="8"
+                                            <li pc_p_category="bending_machine_mold"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item">
-                                                <a href="javascript:p_category(8);" aria-current="page"
+                                                <a href="javascript:p_category('bending_machine_mold');" aria-current="page"
                                                     class="elementor-item">Bending Machine Mold</a>
                                             </li>
                                         </ul>
@@ -570,47 +570,47 @@
                                         <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
                                         <span class="elementor-screen-only">Menu</span>
                                     </div>
-                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+                                     <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
                                         role="navigation" aria-hidden="true">
                                         <ul id="menu-2-aafb3c7" class="elementor-nav-menu sm-vertical">
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="1" href="javascript:p_category(1);" aria-current="page"
+                                                <a m_p_category="press_brake" href="javascript:p_category('press_brake');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">折弯机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="2" href="javascript:p_category(2);" aria-current="page"
+                                                <a m_p_category="shearing_machine" href="javascript:p_category('shearing_machine');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">剪板机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="3" href="javascript:p_category(3);" aria-current="page"
+                                                <a m_p_category="laser_cutting_machine" href="javascript:p_category('laser_cutting_machine');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">激光切割机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="4" href="javascript:p_category(4);" aria-current="page"
+                                                <a m_p_category="plate_rolling_machine" href="javascript:p_category('plate_rolling_machine');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">卷板机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="5" href="javascript:p_category(5);" aria-current="page"
+                                                <a m_p_category="hand_operated_ironworker" href="javascript:p_category('hand_operated_ironworker');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">联合冲减机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="6" href="javascript:p_category(6);" aria-current="page"
+                                                <a m_p_category="four_column_hydraulic_press" href="javascript:p_category('four_column_hydraulic_press');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">四柱液压机</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="7" href="javascript:p_category(7);" aria-current="page"
+                                                <a m_p_category="mechanical_blade" href="javascript:p_category('mechanical_blade');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">刀片</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
-                                                <a m_p_category="8" href="javascript:p_category(8);" aria-current="page"
+                                                <a m_p_category="bending_machine_mold" href="javascript:p_category('bending_machine_mold');" aria-current="page"
                                                     class="elementor-item" tabindex="-1">模具</a>
                                             </li>
                                         </ul>
@@ -630,7 +630,7 @@
                                     <div id="page-content" class="woocommerce columns-4 ">
                                         <ul class="products elementor-grid columns-4 product-list">
                                             <!-- 1 -->
-                                            <li class="entry product type-product product_categorys_1">
+                                            <li class="entry product type-product product_categorys_press_brake">
                                                 <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -643,7 +643,7 @@
                                                 <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_1">
+                                            <li class="entry product type-product product_categorys_press_brake">
                                                 <a href="/press-brake/product-torsion_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -656,7 +656,7 @@
                                                 <a href="/press-brake/product-torsion_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_1">
+                                            <li class="entry product type-product product_categorys_press_brake">
                                                 <a href="/press-brake/product-tandem_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -668,7 +668,7 @@
                                                 <a href="/press-brake/product-tandem_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_1">
+                                            <li class="entry product type-product product_categorys_press_brake">
                                                 <a href="/press-brake/product-heavy_duty_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -681,7 +681,7 @@
                                                 <a href="/press-brake/product-heavy_duty_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_1">
+                                            <li class="entry product type-product product_categorys_press_brake">
                                                 <a href="/press-brake/product-robotic_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -694,7 +694,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 2 -->
-                                            <li class="entry product type-product product_categorys_2">
+                                            <li class="entry product type-product product_categorys_shearing_machine">
                                                 <a href="/shearing-machine/product-swing_beam_shearing_machine.php "
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -706,7 +706,7 @@
                                                 <a href="/shearing-machine/product-swing_beam_shearing_machine.php " data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_2">
+                                            <li class="entry product type-product product_categorys_shearing_machine">
                                                 <a href="/shearing-machine/product-guillotine_shearing_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -719,7 +719,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 3 -->
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-single_table_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -732,7 +732,7 @@
                                                 <a href="/laser-cutting-machine/product-single_table_fiber_laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php "
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -745,7 +745,7 @@
                                                 <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php " data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-fully_enclosed_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -758,7 +758,7 @@
                                                 <a href="/laser-cutting-machine/product-fully_enclosed_fiber_laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php "
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -771,7 +771,7 @@
                                                 <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php " data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-exchange_panel_tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -784,7 +784,7 @@
                                                 <a href="/laser-cutting-machine/product-exchange_panel_tube_laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-full_protection_tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -798,7 +798,7 @@
                                                 <a href="/laser-cutting-machine/product-full_protection_tube_laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_3">
+                                            <li class="entry product type-product product_categorys_laser_cutting_machine">
                                                 <a href="/laser-cutting-machine/product-tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -812,7 +812,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 4 -->
-                                            <li class="entry product type-product product_categorys_4">
+                                            <li class="entry product type-product product_categorys_plate_rolling_machine">
                                                 <a href="/rolling-machine/product-plate_rolling_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -825,7 +825,7 @@
                                                 <a href="/rolling-machine/product-plate_rolling_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_4">
+                                            <li class="entry product type-product product_categorys_plate_rolling_machine">
                                                 <a href="/rolling-machine/product-four-roller_plate_rolling_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -839,7 +839,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 5 -->
-                                            <li class="entry product type-product product_categorys_5">
+                                            <li class="entry product type-product product_categorys_hand_operated_ironworker">
                                                 <a href="/ironworker/product-hand_operated_ironworker.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -853,7 +853,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 6 -->
-                                            <li class="entry product type-product product_categorys_6">
+                                            <li class="entry product type-product product_categorys_four_column_hydraulic_press">
                                                 <a href="/four-column-hydraulic-press/product-four_column_hydraulic_press.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -867,7 +867,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 7 -->
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-rolling_shear_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -880,7 +880,7 @@
                                                 <a href="/mechanical-blade/product-rolling_shear_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-slitting_circular_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -893,7 +893,7 @@
                                                 <a href="/mechanical-blade/product-slitting_circular_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-shearing_machine_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -906,7 +906,7 @@
                                                 <a href="/mechanical-blade/product-shearing_machine_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-doctor_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -918,7 +918,7 @@
                                                 <a href="/mechanical-blade/product-doctor_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-rolling_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -930,7 +930,7 @@
                                                 <a href="/mechanical-blade/product-rolling_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-slow_cursher_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -942,7 +942,7 @@
                                                 <a href="/mechanical-blade/product-slow_cursher_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-toothed_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -954,7 +954,7 @@
                                                 <a href="/mechanical-blade/product-toothed_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-chipper_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -966,7 +966,7 @@
                                                 <a href="/mechanical-blade/product-chipper_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-corrugated_paper_cutting_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -979,7 +979,7 @@
                                                 <a href="/mechanical-blade/product-corrugated_paper_cutting_blade.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_7">
+                                            <li class="entry product type-product product_categorys_mechanical_blade">
                                                 <a href="/mechanical-blade/product-crusher_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -992,7 +992,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <!-- 8 -->
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-cnc_bending_machine_mold.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -1005,7 +1005,7 @@
                                                 <a href="/bending-machine-mold/product-cnc_bending_machine_mold.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-flattening_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -1018,8 +1018,8 @@
                                                 <a href="/bending-machine-mold/product-flattening_die_of_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
-                                                <a href="/product_8_3.php"
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
+                                                <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
                                                         src="//cdn.xuansiwei.com/zhang3794/1645925218629/moju-shangmo.jpg"
@@ -1028,10 +1028,10 @@
                                                     <h2 class="woocommerce-loop-product__title">Upper die of bending
                                                         machine</h2>
                                                 </a>
-                                                <a href="/product_8_3.php" data-quantity=""
+                                                <a href="/bending-machine-mold/product-upper_die_of_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-v_lower_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -1044,7 +1044,7 @@
                                                 <a href="/bending-machine-mold/product-v_lower_die_of_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-radius_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -1057,7 +1057,7 @@
                                                 <a href="/bending-machine-mold/product-radius_die_of_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-gooseneck_punch_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
@@ -1070,7 +1070,7 @@
                                                 <a href="/bending-machine-mold/product-gooseneck_punch_of_press_brake.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
-                                            <li class="entry product type-product product_categorys_8">
+                                            <li class="entry product type-product product_categorys_bending_machine_mold">
                                                 <a href="/bending-machine-mold/product-mark_free_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
