@@ -16,7 +16,8 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>How about Rucheng Technology? - </title>
+    <title>Rucheng Technology | Professional CNC Press Brake & Sheet Metal Manufacturer </title>
+    <meta name="description" content="Rucheng Technology is a leading CNC sheet metal machinery manufacturer in China. We offer high-quality press brakes, shearing machines, and innovative CNC solutions.">
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="">
     <link rel="alternate" type="application/rss+xml" title="blue » Feed" href="/feed">
@@ -362,7 +363,7 @@
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/blogs/article_13216.php">
-    <meta name="twitter:title" content="How about Rucheng Technology?">
+    <meta name="twitter:title" content="About Rucheng Technology - Leading CNC Sheet Metal Manufacturer">
     <meta name="twitter:description" content="Details determine quality">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
@@ -370,7 +371,7 @@
     <!-- facebook分享 -->
     <meta property="og:url" content="/blogs/article_13216.php">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="How about Rucheng Technology?">
+    <meta property="og:title" content="About Rucheng Technology - Leading CNC Sheet Metal Manufacturer">
     <meta property="og:description" content="Details determine quality">
     <meta property="og:image" content="null">
 
@@ -383,7 +384,7 @@
 
         function shareTwitter() {
             var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-            _shareUrl += '&text=' + encodeURIComponent('How about Rucheng Technology?');
+            _shareUrl += '&text=' + encodeURIComponent('About Rucheng Technology - Leading CNC Sheet Metal Manufacturer');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
@@ -391,12 +392,13 @@
         function sharePinterest() {
             var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
             _shareUrl += '&media=' + encodeURIComponent('null');
-            _shareUrl += '&description=' + encodeURIComponent('How about Rucheng Technology?');
+            _shareUrl += '&description=' + encodeURIComponent('About Rucheng Technology - Leading CNC Sheet Metal Manufacturer');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
     </script>
 
+</script>
     <meta charset="UTF-8">
     <script>
         var docCookies = {
@@ -457,6 +459,19 @@
     <?php include '../header.php'; ?>
 
 
+    <style>
+        /* 控制标题大小 - 增加特异性 */
+        .entry-content h1 { font-size: 2em !important; }
+        .entry-content h2 { font-size: 1.8em !important; }
+        .entry-content h3 { font-size: 1.5em !important; }
+        .entry-content h4 { font-size: 1.3em !important; }
+        .entry-content h5 { 
+            font-size: 1.1em !important;
+            margin: 10px 0 !important;
+            font-weight: bold !important;
+        }
+        .entry-content h6 { font-size: 1em !important; }
+    </style>
     <div id="primary" class="content-area">
         <main id="main" class="site-main">
 
@@ -467,7 +482,7 @@
                 <article id="post-265"
                     class="post-265 post type-post status-publish format-standard hentry category-uncategorized entry">
                     <header class="entry-header" style="text-align: center;">
-                        <h1 class="entry-title">How about Rucheng Technology?</h1>
+                        <h1 class="entry-title">About Rucheng Technology - Leading CNC Sheet Metal Manufacturer</h1>
                         <div class="entry-meta">
                             <span class="byline">
                                 <svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img"
@@ -509,15 +524,44 @@
                                         </path>
                                         <path d="M0 0h24v24H0z" fill="none"></path>
                                     </svg>
-                                    <a href="javascript:;"><span class="screen-reader-text">于How about Rucheng
-                                            Technology?</span>留下评论</a>
+                                    <a href="javascript:;"><span class="screen-reader-text">About Rucheng Technology - Leading CNC Sheet Metal Manufacturer</span>留下评论</a>
                                 </span>
                             </span>
                         </div>
                     </header>
                     <div class="entry-content">
                         <div style="margin: 0 auto;">
-                            <script src="//cdn.xuansiwei.com/zhang3794/article/pc/1647254454836.js"></script>
+                        <div class="about-company">
+
+<h2>About Rucheng Technology</h2>
+<p>
+  Rucheng Technology is a professional manufacturer of <strong>CNC press brakes</strong>, <strong>hydraulic press brakes</strong>, <strong>metal bending machines</strong>, and other <strong>sheet metal processing</strong> equipment. Our products are widely used in industries such as automotive manufacturing, telecommunications, and computer hardware.
+</p>
+
+<h2>Advanced Production Capabilities</h2>
+<p>
+  Backed by advanced production lines and first-class testing equipment, Rucheng Technology ensures consistent product quality and performance. We follow international quality management systems, making sure that each <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php">CNC press brake</a> meets global standards.
+</p>
+
+<h5>Strong R&D and Innovation</h5>
+<p>
+  Innovation is at the core of our business. We have a dedicated R&D team that continuously develops and upgrades our <a href="/press-brake/product-heavy_duty_press_brake.php">heavy-duty press brake machines</a>. Our engineers work closely with production teams to turn new ideas into reliable technologies.
+</p>
+
+<h5>Commitment to Excellence</h5>
+<p>
+  Our mission is to build a first-class brand in the field of <strong>CNC sheet metal machinery</strong>. We aim to become a globally recognized leader by maintaining focus on technology leadership, process control, and customer service.
+</p>
+
+<h3>Why Choose Rucheng?</h3>
+<ul>
+  <li>Over 15 years of experience in CNC press brake manufacturing</li>
+  <li>Wide product range: from <a href="/press-brake/product-tandem_press_brake.php">tandem press brakes</a> to robotic solutions</li>
+  <li>Exported to over 50 countries worldwide</li>
+  <li>Custom solutions for your unique metal forming needs</li>
+</ul>
+
+</div>
                         </div>
                     </div>
                     <footer class="entry-footer">
