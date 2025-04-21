@@ -280,7 +280,7 @@
                                             <span class="elementor-icon-list-icon">
                                                 <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
                                             <span
-                                                class="elementor-icon-list-text">ruchengchina@gmail.com</span>
+                                                class="elementor-icon-list-text">info@ruchengintelligent.com</span>
                                         </li>
                                     </ul>
                                 </div>
