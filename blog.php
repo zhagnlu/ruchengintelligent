@@ -516,14 +516,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_13216.php">How about Rucheng Technology?
+                                                            <a href="/blogs/article_13216.php">How about Rucheng Technology?
                                                             </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p>Details determine quality</p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_13216.php">Read More » </a>
+                                                            href="/blogs/article_13216.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年02月11日</span>
@@ -538,14 +538,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_14344.php">How to maintain the laser
+                                                            <a href="/blogs/article_14344.php">How to maintain the laser
                                                                 cutting machine？ </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p>Maintenance of laser cutting machine</p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_14344.php">Read More » </a>
+                                                            href="/blogs/article_14344.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年02月23日</span>
@@ -560,14 +560,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_15966.php">Laser cutting machine has high
+                                                            <a href="/blogs/article_15966.php">Laser cutting machine has high
                                                                 efficiency and low cost, saving labor costs </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p></p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_15966.php">Read More » </a>
+                                                            href="/blogs/article_15966.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年03月14日</span>
@@ -582,7 +582,7 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_15965.php">CNC bending machine
+                                                            <a href="/blogs/article_15965.php">CNC bending machine
                                                                 compensation mode to choose mechanical compensation or
                                                                 hydraulic compensation? </a>
                                                         </h3>
@@ -590,7 +590,7 @@
                                                             <p></p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_15965.php">Read More » </a>
+                                                            href="/blogs/article_15965.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年03月14日</span>
@@ -605,14 +605,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_14404.php">How does the bending machine
+                                                            <a href="/blogs/article_14404.php">How does the bending machine
                                                                 work? </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p>Introduction of bending machine</p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_14404.php">Read More » </a>
+                                                            href="/blogs/article_14404.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年02月24日</span>
@@ -627,14 +627,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/article_15967.php">Maintenance and maintenance of
+                                                            <a href="/blogs/article_15967.php">Maintenance and maintenance of
                                                                 shears </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p></p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/article_15967.php">Read More » </a>
+                                                            href="/blogs/article_15967.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年03月14日</span>

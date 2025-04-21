@@ -16,7 +16,7 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Laser cutting machine has high efficiency and low cost, saving labor costs - </title>
+    <title>CNC bending machine compensation mode to choose mechanical compensation or hydraulic compensation? - </title>
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="">
     <link rel="alternate" type="application/rss+xml" title="blue » Feed" href="/feed">
@@ -361,16 +361,18 @@
     <meta name="description" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/article_15966.php">
-    <meta name="twitter:title" content="Laser cutting machine has high efficiency and low cost, saving labor costs">
+    <meta property="twitter:url" content="/blogs/article_15965.php">
+    <meta name="twitter:title"
+        content="CNC bending machine compensation mode to choose mechanical compensation or hydraulic compensation?">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/article_15966.php">
+    <meta property="og:url" content="/blogs/article_15965.php">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Laser cutting machine has high efficiency and low cost, saving labor costs">
+    <meta property="og:title"
+        content="CNC bending machine compensation mode to choose mechanical compensation or hydraulic compensation?">
     <meta property="og:description" content="">
     <meta property="og:image" content="null">
 
@@ -383,7 +385,7 @@
 
         function shareTwitter() {
             var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-            _shareUrl += '&text=' + encodeURIComponent('Laser cutting machine has high efficiency and low cost, saving labor costs');
+            _shareUrl += '&text=' + encodeURIComponent('CNC bending machine compensation mode to choose mechanical compensation or hydraulic compensation?');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
@@ -391,7 +393,7 @@
         function sharePinterest() {
             var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
             _shareUrl += '&media=' + encodeURIComponent('null');
-            _shareUrl += '&description=' + encodeURIComponent('Laser cutting machine has high efficiency and low cost, saving labor costs');
+            _shareUrl += '&description=' + encodeURIComponent('CNC bending machine compensation mode to choose mechanical compensation or hydraulic compensation?');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
@@ -454,7 +456,7 @@
     class="post-template-default single single-post postid-265 single-format-standard wp-custom-logo wp-embed-responsive theme-twentynineteen woocommerce-no-js singular image-filters-enabled elementor-default elementor-kit-6">
 
 
-    <?php include 'header.php'; ?>
+    <?php include '../header.php'; ?>
 
 
     <div id="primary" class="content-area">
@@ -467,8 +469,8 @@
                 <article id="post-265"
                     class="post-265 post type-post status-publish format-standard hentry category-uncategorized entry">
                     <header class="entry-header" style="text-align: center;">
-                        <h1 class="entry-title">Laser cutting machine has high efficiency and low cost, saving labor
-                            costs</h1>
+                        <h1 class="entry-title">CNC bending machine compensation mode to choose mechanical compensation
+                            or hydraulic compensation?</h1>
                         <div class="entry-meta">
                             <span class="byline">
                                 <svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img"
@@ -510,15 +512,16 @@
                                         </path>
                                         <path d="M0 0h24v24H0z" fill="none"></path>
                                     </svg>
-                                    <a href="javascript:;"><span class="screen-reader-text">于Laser cutting machine has
-                                            high efficiency and low cost, saving labor costs</span>留下评论</a>
+                                    <a href="javascript:;"><span class="screen-reader-text">于CNC bending machine
+                                            compensation mode to choose mechanical compensation or hydraulic
+                                            compensation?</span>留下评论</a>
                                 </span>
                             </span>
                         </div>
                     </header>
                     <div class="entry-content">
                         <div style="margin: 0 auto;">
-                            <script src="//cdn.xuansiwei.com/zhang3794/article/pc/1647254587628.js"></script>
+                            <script src="//cdn.xuansiwei.com/zhang3794/article/pc/1647254333573.js"></script>
                         </div>
                     </div>
                     <footer class="entry-footer">
@@ -569,17 +572,17 @@
                     <div class="nav-links">
 
                         <div class="nav-previous">
-                            <a href="/article_14344.php" rel="prev"><span class="meta-nav"
+                            <a href="/blogs/article_15966.php" rel="prev"><span class="meta-nav"
                                     aria-hidden="true">上一篇文章</span> <span class="screen-reader-text">上一篇文章：</span>
-                                <br><span class="post-title">How to maintain the laser cutting machine？</span></a>
+                                <br><span class="post-title">Laser cutting machine has high efficiency and low cost,
+                                    saving labor costs</span></a>
                         </div>
 
 
                         <div class="nav-next">
-                            <a href="/article_15965.php" rel="next"><span class="meta-nav"
+                            <a href="/blogs/article_14404.php" rel="next"><span class="meta-nav"
                                     aria-hidden="true">下一篇文章</span> <span class="screen-reader-text">下一篇文章：</span>
-                                <br><span class="post-title">CNC bending machine compensation mode to choose mechanical
-                                    compensation or hydraulic compensation?</span></a>
+                                <br><span class="post-title">How does the bending machine work?</span></a>
                         </div>
 
                     </div>
@@ -625,7 +628,7 @@
     </div><!-- #primary -->
 
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
 
 
     <script type="text/javascript">

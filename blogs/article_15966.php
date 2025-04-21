@@ -16,7 +16,7 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>How to maintain the laser cutting machine？ - </title>
+    <title>Laser cutting machine has high efficiency and low cost, saving labor costs - </title>
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="">
     <link rel="alternate" type="application/rss+xml" title="blue » Feed" href="/feed">
@@ -361,17 +361,17 @@
     <meta name="description" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/article_14344.php">
-    <meta name="twitter:title" content="How to maintain the laser cutting machine？">
-    <meta name="twitter:description" content="Maintenance of laser cutting machine">
+    <meta property="twitter:url" content="/blogs/article_15966.php">
+    <meta name="twitter:title" content="Laser cutting machine has high efficiency and low cost, saving labor costs">
+    <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/article_14344.php">
+    <meta property="og:url" content="/blogs/article_15966.php">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="How to maintain the laser cutting machine？">
-    <meta property="og:description" content="Maintenance of laser cutting machine">
+    <meta property="og:title" content="Laser cutting machine has high efficiency and low cost, saving labor costs">
+    <meta property="og:description" content="">
     <meta property="og:image" content="null">
 
     <script>
@@ -383,7 +383,7 @@
 
         function shareTwitter() {
             var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
-            _shareUrl += '&text=' + encodeURIComponent('How to maintain the laser cutting machine？');
+            _shareUrl += '&text=' + encodeURIComponent('Laser cutting machine has high efficiency and low cost, saving labor costs');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
@@ -391,7 +391,7 @@
         function sharePinterest() {
             var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
             _shareUrl += '&media=' + encodeURIComponent('null');
-            _shareUrl += '&description=' + encodeURIComponent('How to maintain the laser cutting machine？');
+            _shareUrl += '&description=' + encodeURIComponent('Laser cutting machine has high efficiency and low cost, saving labor costs');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
@@ -454,7 +454,7 @@
     class="post-template-default single single-post postid-265 single-format-standard wp-custom-logo wp-embed-responsive theme-twentynineteen woocommerce-no-js singular image-filters-enabled elementor-default elementor-kit-6">
 
 
-    <?php include 'header.php'; ?>
+    <?php include '../header.php'; ?>
 
 
     <div id="primary" class="content-area">
@@ -467,7 +467,8 @@
                 <article id="post-265"
                     class="post-265 post type-post status-publish format-standard hentry category-uncategorized entry">
                     <header class="entry-header" style="text-align: center;">
-                        <h1 class="entry-title">How to maintain the laser cutting machine？</h1>
+                        <h1 class="entry-title">Laser cutting machine has high efficiency and low cost, saving labor
+                            costs</h1>
                         <div class="entry-meta">
                             <span class="byline">
                                 <svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img"
@@ -495,8 +496,8 @@
                                     </path>
                                 </svg>
                                 <a href="javascript:;" rel="bookmark">
-                                    <time class="entry-date published">2022年02月23日</time>
-                                    <time class="updated">2022年02月23日</time>
+                                    <time class="entry-date published">2022年03月14日</time>
+                                    <time class="updated">2022年03月14日</time>
                                 </a>
                             </span>
                             <span class="comment-count">
@@ -509,55 +510,15 @@
                                         </path>
                                         <path d="M0 0h24v24H0z" fill="none"></path>
                                     </svg>
-                                    <a href="javascript:;"><span class="screen-reader-text">于How to maintain the laser
-                                            cutting machine？</span>留下评论</a>
+                                    <a href="javascript:;"><span class="screen-reader-text">于Laser cutting machine has
+                                            high efficiency and low cost, saving labor costs</span>留下评论</a>
                                 </span>
                             </span>
                         </div>
                     </header>
                     <div class="entry-content">
                         <div style="margin: 0 auto;">
-                            <p><strong>Daily maintenance of laser cutting machine</strong></p>
-                            <ul>
-                                <li>Check the copper nozemitting light, keep it clean and free from blockage.</li>
-                                <li>Before starting the machine, check the protective lens to keep it clean, and replace it in time if it is damaged, and calibrate it.</li>
-                                <li>Check whether the water in the water tank of the water cooler is within the specified scale.</li>
-                                <li>Check the use of the gas used, replace it in time when the air pressure is insufficient, and report it in time when there is no spare gas.</li>
-                                <li>Blow out the dust on the light guide sheath with compressed air.</li>
-                                <li>Check whether the guide and screw of the laser cutting machine are clean, even if there is foreign matter and dust.</li>
-                                <li>Take out the product dropped in the trash box and place it in the designated location.</li>
-                                <li>Work area ground sanitation and operation table, electrical cabinet, laser head, external cleaning work.</li>
-                            </ul>
-                            <img src="//cdn.xuansiwei.com/zhang3794/1647254382995/1-1.jpg?x-oss-process=style/small" style="max-width:100%;">
-
-                            <p><strong>Laser cutting machine weekly maintenance</strong></p>
-                            <ul>
-                                <li>Check the focusing lens. If there is any dust, it should be removed. Be careful not to hang the lens.</li>
-                                <li>Use compressed air to clean the dust from the main control cabinet, body, and air-conditioning fan heater.</li>
-                                <li>Check whether the oil in the oil tank is within the specified scale line, and add it in time.</li>
-                                <li>Clean the trash box under the workbench once a week.</li>
-                            </ul>
-
-                            <p><strong>Laser cutting machine monthly maintenance</strong></p>
-                            <ul>
-                                <li>Delete the unnecessary cutting programs inside the machine tool in time.</li>
-                                <li>Check and clean the dust of each exhaust fan filter screen of the machine tool, and clean the dust removal fan filter screen.</li>
-                                <li>Lubricate the guide rail screw of the laser cutting machine.</li>
-                            </ul>
-                            <img src="http://cdn.xuansiwei.com/zhang3794/1647254390072/2-1.jpg?x-oss-process=style/small" style="max-width:100%;">
-
-                            <p><strong>Quarterly maintenance of laser cutting machine</strong></p>
-                            <ul>
-                                <li>Maintain the total reflection mirror and polarizer every season, wipe it clean as much as possible, but do not scratch it, and check the oil level of the laser vacuum pump.</li>
-                                <li>Check whether the cooling water of the ice water machine is turbid every season, and replace it if it is too dirty.</li>
-                            </ul>
-
-                            <p><strong>Regular maintenance of laser cutting machine</strong></p>
-                            <ul>
-                                <li>Disassemble the drain valve of the dryer for cleaning.</li>
-                                <li>Clean the reflective lens, verify whether the optical path is offset, and make necessary adjustments.</li>
-                                <li>Replace the vacuum pump oil every 1000 hours (confirm whether there is enough new oil before replacement, and the oil level can be at 4/3).</li>
-                            </ul>
+                            <script src="//cdn.xuansiwei.com/zhang3794/article/pc/1647254587628.js"></script>
                         </div>
                     </div>
                     <footer class="entry-footer">
@@ -586,8 +547,8 @@
                                 </path>
                             </svg>
                             <a href="javascript:;" rel="bookmark">
-                                <time class="entry-date published">2022年02月23日</time>
-                                <time class="updated">2022年02月23日</time>
+                                <time class="entry-date published">2022年03月14日</time>
+                                <time class="updated">2022年03月14日</time>
                             </a>
                         </span>
                         <span class="cat-links">
@@ -608,17 +569,17 @@
                     <div class="nav-links">
 
                         <div class="nav-previous">
-                            <a href="/article_13216.php" rel="prev"><span class="meta-nav"
+                            <a href="/blogs/article_14344.php" rel="prev"><span class="meta-nav"
                                     aria-hidden="true">上一篇文章</span> <span class="screen-reader-text">上一篇文章：</span>
-                                <br><span class="post-title">How about Rucheng Technology?</span></a>
+                                <br><span class="post-title">How to maintain the laser cutting machine？</span></a>
                         </div>
 
 
                         <div class="nav-next">
-                            <a href="/article_15966.php" rel="next"><span class="meta-nav"
+                            <a href="/blogs/article_15965.php" rel="next"><span class="meta-nav"
                                     aria-hidden="true">下一篇文章</span> <span class="screen-reader-text">下一篇文章：</span>
-                                <br><span class="post-title">Laser cutting machine has high efficiency and low cost,
-                                    saving labor costs</span></a>
+                                <br><span class="post-title">CNC bending machine compensation mode to choose mechanical
+                                    compensation or hydraulic compensation?</span></a>
                         </div>
 
                     </div>
@@ -664,7 +625,7 @@
     </div><!-- #primary -->
 
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
 
 
     <script type="text/javascript">

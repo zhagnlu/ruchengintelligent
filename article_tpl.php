@@ -348,14 +348,14 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/article_tpl.php">
+    <meta property="twitter:url" content="/blogs/article_tpl.php">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/article_tpl.php">
+    <meta property="og:url" content="/blogs/article_tpl.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="">
     <meta property="og:description" content="">

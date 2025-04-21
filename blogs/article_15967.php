@@ -361,14 +361,14 @@
     <meta name="description" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/article_15967.php">
+    <meta property="twitter:url" content="/blogs/article_15967.php">
     <meta name="twitter:title" content="Maintenance and maintenance of shears">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/article_15967.php">
+    <meta property="og:url" content="/blogs/article_15967.php">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Maintenance and maintenance of shears">
     <meta property="og:description" content="">
@@ -454,7 +454,7 @@
     class="post-template-default single single-post postid-265 single-format-standard wp-custom-logo wp-embed-responsive theme-twentynineteen woocommerce-no-js singular image-filters-enabled elementor-default elementor-kit-6">
 
 
-    <?php include 'header.php'; ?>
+    <?php include '../header.php'; ?>
 
 
     <div id="primary" class="content-area">
@@ -568,7 +568,7 @@
                     <div class="nav-links">
 
                         <div class="nav-previous">
-                            <a href="/article_14404.php" rel="prev"><span class="meta-nav"
+                            <a href="/blogs/article_14404.php" rel="prev"><span class="meta-nav"
                                     aria-hidden="true">上一篇文章</span> <span class="screen-reader-text">上一篇文章：</span>
                                 <br><span class="post-title">How does the bending machine work?</span></a>
                         </div>
@@ -617,7 +617,7 @@
     </div><!-- #primary -->
 
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
 
 
     <script type="text/javascript">
