@@ -570,7 +570,7 @@
                                         <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
                                         <span class="elementor-screen-only">Menu</span>
                                     </div>
-                                     <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
                                         role="navigation" aria-hidden="true">
                                         <ul id="menu-2-aafb3c7" class="elementor-nav-menu sm-vertical">
                                             <li
@@ -695,7 +695,7 @@
                                             </li>
                                             <!-- 2 -->
                                             <li class="entry product type-product product_categorys_shearing_machine">
-                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php "
+                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
                                                         src="//cdn.xuansiwei.com/zhang3794/1645878014083/baishijianbanji.jpg"
@@ -703,7 +703,7 @@
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">swing beam shearing machine</h2>
                                                 </a>
-                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php " data-quantity=""
+                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <li class="entry product type-product product_categorys_shearing_machine">
@@ -733,7 +733,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <li class="entry product type-product product_categorys_laser_cutting_machine">
-                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php "
+                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
                                                         src="//cdn.xuansiwei.com/zhang3794/1645880230948/jiguangT2.jpg"
@@ -742,7 +742,7 @@
                                                     <h2 class="woocommerce-loop-product__title">T2&nbsp;Double Table
                                                         Fiber Laser Cutting Machine</h2>
                                                 </a>
-                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php " data-quantity=""
+                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <li class="entry product type-product product_categorys_laser_cutting_machine">
@@ -759,7 +759,7 @@
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <li class="entry product type-product product_categorys_laser_cutting_machine">
-                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php "
+                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
                                                         src="//cdn.xuansiwei.com/zhang3794/1645880231006/jiguangT4.jpg"
@@ -768,7 +768,7 @@
                                                     <h2 class="woocommerce-loop-product__title">TR1 single panel tube
                                                         integrated laser cutting machine</h2>
                                                 </a>
-                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php " data-quantity=""
+                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php" data-quantity=""
                                                     class="button product_type_variable" rel="nofollow">Read more</a>
                                             </li>
                                             <li class="entry product type-product product_categorys_laser_cutting_machine">

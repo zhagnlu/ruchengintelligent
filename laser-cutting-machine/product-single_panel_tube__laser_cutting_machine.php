@@ -8398,14 +8398,14 @@
     <meta name="keywords" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php ">
+    <meta property="twitter:url" content="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php ">
+    <meta property="og:url" content="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php">
     <meta property="og:type" content="website">
     <meta property="og:title" content="">
     <meta property="og:description" content="">

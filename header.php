@@ -127,7 +127,7 @@ function isActive($page)
 
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
-                                                                    <a href="/shearing-machine/product-swing_beam_shearing_machine.php "
+                                                                    <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
                                                                         class="elementor-sub-item">Swing Beam
                                                                         Shearing Machine</a>
                                                                 </li>
@@ -162,7 +162,7 @@ function isActive($page)
 
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
-                                                                    <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php "
+                                                                    <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
                                                                         class="elementor-sub-item">T2 Double Table
                                                                         Fiber Laser Cutting Machine</a>
                                                                 </li>
@@ -178,7 +178,7 @@ function isActive($page)
 
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
-                                                                    <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php "
+                                                                    <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
                                                                         class="elementor-sub-item">TR1 Single Panel
                                                                         Tube Integrated Laser Cutting Machine</a>
                                                                 </li>
@@ -553,7 +553,7 @@ function isActive($page)
 
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
-                                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php "
+                                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
                                                                     class="elementor-sub-item">Swing Beam
                                                                     Shearing Machine</a>
                                                             </li>
@@ -588,7 +588,7 @@ function isActive($page)
 
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
-                                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php "
+                                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
                                                                     class="elementor-sub-item">T2 Double Table
                                                                     Fiber Laser Cutting Machine</a>
                                                             </li>
@@ -604,7 +604,7 @@ function isActive($page)
 
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
-                                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php "
+                                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
                                                                     class="elementor-sub-item">TR1 Single Panel
                                                                     Tube Integrated Laser Cutting Machine</a>
                                                             </li>
