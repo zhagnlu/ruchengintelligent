@@ -398,7 +398,7 @@
         }
     </script>
 
-</script>
+    </script>
     <meta charset="UTF-8">
     <script>
         var docCookies = {
@@ -444,11 +444,6 @@
                 return aKeys;
             }
         };
-        if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
-            if (!docCookies.getItem('login_name')) {
-                location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
-            }
-        }
     </script>
 </head>
 
@@ -460,25 +455,98 @@
 
 
     <style>
-        /* 控制标题大小 - 增加特异性 */
-        .entry-content h1 { font-size: 2em !important; }
-        .entry-content h2 { font-size: 1.8em !important; }
-        .entry-content h3 { font-size: 1.5em !important; }
-        .entry-content h4 { font-size: 1.3em !important; }
-        .entry-content h5 { 
+        /* 控制标题大小和颜色 */
+        .entry-content h1 {
+            font-size: 2em !important;
+            color: #1a365d !important;
+        }
+
+        .entry-content h2 {
+            font-size: 1.8em !important;
+            color: #2c5282 !important;
+        }
+
+        .entry-content h3 {
+            font-size: 1.5em !important;
+            color: #2b6cb0 !important;
+        }
+
+        .entry-content h4 {
+            font-size: 1.3em !important;
+            color: #3182ce !important;
+        }
+
+        .entry-content h5 {
             font-size: 1.1em !important;
             margin: 10px 0 !important;
             font-weight: bold !important;
+            color: #4299e1 !important;
         }
-        .entry-content h6 { font-size: 1em !important; }
+
+        .entry-content h6 {
+            font-size: 1em !important;
+            color: #63b3ed !important;
+        }
+
+        /* 评论区域样式 */
+        .comments-area {
+            margin: 20px auto;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 800px;
+        }
+
+        .comment-form {
+            max-width: 100%;
+            margin: 0 auto;
+        }
+
+        .comment-form textarea,
+        .comment-form input[type="text"],
+        .comment-form input[type="email"],
+        .comment-form input[type="url"] {
+            width: 100%;
+            padding: 8px;
+            margin: 3px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        .comment-form textarea {
+            height: 100px;
+        }
+
+        .comment-form .submit {
+            background: #2b6cb0;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+
+        .comment-form .submit:hover {
+            background: #2c5282;
+        }
+
+        .comment-notes {
+            color: #666;
+            font-size: 0.85em;
+            margin-bottom: 15px;
+        }
+
+        .comments-title {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+        }
     </style>
     <div id="primary" class="content-area">
         <main id="main" class="site-main">
-
-
-
             <div component="article.js">
-
                 <article id="post-265"
                     class="post-265 post type-post status-publish format-standard hentry category-uncategorized entry">
                     <header class="entry-header" style="text-align: center;">
@@ -493,7 +561,7 @@
                                     </path>
                                     <path d="M0 0h24v24H0z" fill="none"></path>
                                 </svg>
-                                <span class="screen-reader-text">发布者：</span>
+                                <span class="screen-reader-text">Author: </span>
                                 <span class="author vcard"><a class="url fn n" href="javascript:;"></a></span>
                             </span>
                             <span class="posted-on">
@@ -510,8 +578,8 @@
                                     </path>
                                 </svg>
                                 <a href="javascript:;" rel="bookmark">
-                                    <time class="entry-date published">2022年02月11日</time>
-                                    <time class="updated">2022年02月11日</time>
+                                    <time class="entry-date published">February 11, 2022</time>
+                                    <time class="updated">February 11, 2022</time>
                                 </a>
                             </span>
                             <span class="comment-count">
@@ -524,44 +592,47 @@
                                         </path>
                                         <path d="M0 0h24v24H0z" fill="none"></path>
                                     </svg>
-                                    <a href="javascript:;"><span class="screen-reader-text">About Rucheng Technology - Leading CNC Sheet Metal Manufacturer</span>留下评论</a>
+                                    <a href="javascript:;"><span class="screen-reader-text">About Rucheng Technology - Leading CNC Sheet Metal Manufacturer</span>Leave a Comment</a>
                                 </span>
                             </span>
                         </div>
                     </header>
                     <div class="entry-content">
                         <div style="margin: 0 auto;">
-                        <div class="about-company">
+                            <div class="about-company">
 
-<h2>About Rucheng Technology</h2>
-<p>
-  Rucheng Technology is a professional manufacturer of <strong>CNC press brakes</strong>, <strong>hydraulic press brakes</strong>, <strong>metal bending machines</strong>, and other <strong>sheet metal processing</strong> equipment. Our products are widely used in industries such as automotive manufacturing, telecommunications, and computer hardware.
-</p>
+                                <h3>About Rucheng Technology</h3>
+                                <p>
+                                    Rucheng Technology is a professional manufacturer of <a href="/product.php?c=press_brake"><strong>CNC Press Brake</strong></a>,
+                                    <a href="/product.php?c=shearing_machine"><strong>CNC Shearing Machine</strong></a>,
+                                    <a href="/product.php?c=laser_cutting_machine"><strong>Metal Cutting Machines</strong></a>,
+                                    and other <a href="/product.php"><strong>Sheet Metal Processing Equipment</strong> </a>. Our products are widely used in industries such as automotive manufacturing, telecommunications, and computer hardware.
+                                </p>
 
-<h2>Advanced Production Capabilities</h2>
-<p>
-  Backed by advanced production lines and first-class testing equipment, Rucheng Technology ensures consistent product quality and performance. We follow international quality management systems, making sure that each <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php">CNC press brake</a> meets global standards.
-</p>
+                                <h3>Advanced Production Capabilities</h3>
+                                <p>
+                                    Backed by advanced production lines and first-class testing equipment, Rucheng Technology ensures consistent product quality and performance. We follow international quality management systems, making sure that each equipment meets global standards.
+                                </p>
 
-<h5>Strong R&D and Innovation</h5>
-<p>
-  Innovation is at the core of our business. We have a dedicated R&D team that continuously develops and upgrades our <a href="/press-brake/product-heavy_duty_press_brake.php">heavy-duty press brake machines</a>. Our engineers work closely with production teams to turn new ideas into reliable technologies.
-</p>
+                                <h5>Strong R&D and Innovation</h5>
+                                <p>
+                                    Innovation is at the core of our business. We have a dedicated R&D team that continuously develops and upgrades our <a href="/product.php?c=press_brake"><strong>CNC Press Brake</strong></a>, <a href="/product.php?c=shearing_machine"><strong>CNC Shearing Machine</strong></a>, and <a href="/product.php?c=laser_cutting_machine"><strong>Metal Cutting Machines</strong></a>. Our engineers work closely with production teams to turn new ideas into reliable technologies.
+                                </p>
 
-<h5>Commitment to Excellence</h5>
-<p>
-  Our mission is to build a first-class brand in the field of <strong>CNC sheet metal machinery</strong>. We aim to become a globally recognized leader by maintaining focus on technology leadership, process control, and customer service.
-</p>
+                                <h5>Commitment to Excellence</h5>
+                                <p>
+                                    Our mission is to build a first-class brand in the field of <strong>CNC sheet metal machinery</strong>. We aim to become a globally recognized leader by maintaining focus on technology leadership, process control, and customer service.
+                                </p>
 
-<h3>Why Choose Rucheng?</h3>
-<ul>
-  <li>Over 15 years of experience in CNC press brake manufacturing</li>
-  <li>Wide product range: from <a href="/press-brake/product-tandem_press_brake.php">tandem press brakes</a> to robotic solutions</li>
-  <li>Exported to over 50 countries worldwide</li>
-  <li>Custom solutions for your unique metal forming needs</li>
-</ul>
+                                <h3>Why Choose Rucheng?</h3>
+                                <ul>
+                                    <li>Over 20 years of experience in CNC press brake manufacturing</li>
+                                    <li>Wide product range: from <a href="/product.php?c=mechanical_blade">Mechanical Blade</a> to <a href="/product.php?c=robotic_blade">Robotic Equipment</a></li>
+                                    <li>Exported to over 50 countries worldwide</li>
+                                    <li>Custom solutions for your unique metal forming needs</li>
+                                </ul>
 
-</div>
+                            </div>
                         </div>
                     </div>
                     <footer class="entry-footer">
@@ -574,7 +645,7 @@
                                 </path>
                                 <path d="M0 0h24v24H0z" fill="none"></path>
                             </svg>
-                            <span class="screen-reader-text">发布者：</span>
+                            <span class="screen-reader-text">Author: </span>
                             <span class="author vcard"><a class="url fn n" href="javascript:;"></a></span>
                         </span>
                         <span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true"
@@ -590,8 +661,8 @@
                                 </path>
                             </svg>
                             <a href="javascript:;" rel="bookmark">
-                                <time class="entry-date published">2022年02月11日</time>
-                                <time class="updated">2022年02月11日</time>
+                                <time class="entry-date published">February 11, 2022</time>
+                                <time class="updated">February 11, 2022</time>
                             </a>
                         </span>
                         <span class="cat-links">
@@ -602,63 +673,29 @@
                                 </path>
                                 <path d="M0 0h24v24H0z" fill="none"></path>
                             </svg>
-                            <span class="screen-reader-text">发布于</span>
-                            <a href="javascript:;" rel="category tag">未分类</a>
+                            <span class="screen-reader-text">Posted in</span>
+                            <a href="javascript:;" rel="category tag">Uncategorized</a>
                         </span>
                     </footer>
                 </article>
-                <nav class="navigation post-navigation" role="navigation" aria-label="文章">
-                    <h2 class="screen-reader-text">文章导航</h2>
-                    <div class="nav-links">
-
-
-                        <div class="nav-next">
-                            <a href="/blogs/article_14344.php" rel="next"><span class="meta-nav"
-                                    aria-hidden="true">下一篇文章</span> <span class="screen-reader-text">下一篇文章：</span>
-                                <br><span class="post-title">How to maintain the laser cutting machine？</span></a>
-                        </div>
-
-                    </div>
-                </nav>
-
-            </div>
-
-
-            <div id="comments" class="comments-area disnone">
-                <div class="comments-title-wrap no-responses">
-                    <h2 class="comments-title">留下评论 </h2>
-                </div>
-                <div id="respond" class="comment-respond">
-                    <h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow"
-                                id="cancel-comment-reply-link" href="" style="display:none;">取消回复</a></small></h3>
-                    <form id="commentform" class="comment-form" novalidate="">
-                        <p class="comment-notes"><span id="email-notes">您的电子邮箱地址不会被公开。</span> 必填项已用<span
-                                class="required">*</span>标注</p>
-                        <p class="comment-form-comment"><label for="comment">评论</label> <textarea id="comment"
-                                name="comment" cols="45" rows="5" maxlength="65525" required="required"></textarea></p>
-                        <p class="comment-form-author"><label for="author">显示名称 <span class="required">*</span></label>
-                            <input id="author" name="author" type="text" value="" size="30" maxlength="245"
-                                required="required">
-                        </p>
-                        <p class="comment-form-email"><label for="email">电子邮箱地址 <span class="required">*</span></label>
-                            <input id="email" name="email" type="email" value="" size="30" maxlength="100"
-                                aria-describedby="email-notes" required="required">
-                        </p>
-                        <p class="comment-form-url"><label for="url">网站地址</label> <input id="url" name="url" type="url"
-                                value="" size="30" maxlength="200"></p>
-                        <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent"
-                                name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label
-                                for="wp-comment-cookies-consent">在此浏览器中保存我的显示名称、邮箱地址和网站地址，以便下次评论时使用。</label></p>
-                        <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit"
-                                value="发表评论"> <input type="hidden" name="comment_post_ID" value="265"
-                                id="comment_post_ID"><input type="hidden" name="comment_parent" id="comment_parent"
-                                value="0"></p>
-                    </form>
-                </div>
-            </div>
 
         </main><!-- #main -->
     </div><!-- #primary -->
+    <nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+        <h2 class="screen-reader-text">Post Navigation</h2>
+        <div class="nav-links">
+            <div class="nav-next">
+                <a href="/blogs/article_14344.php" rel="next"><span class="meta-nav"
+                        aria-hidden="true">Next Post</span> <span class="screen-reader-text">Next Post: </span>
+                    <br><span class="post-title">How to maintain the laser cutting machine？</span></a>
+            </div>
+        </div>
+    </nav>
+
+    </div>
+
+
+
 
 
     <?php include '../footer.php'; ?>
