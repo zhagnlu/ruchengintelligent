@@ -516,14 +516,14 @@
                                                 <div class="elementor-post__card">
                                                     <div class="elementor-post__text">
                                                         <h3 class="elementor-post__title">
-                                                            <a href="/blogs/article_13216.php">How about Rucheng Technology?
+                                                            <a href="/blogs/article_about_us.php">How about Rucheng Technology?
                                                             </a>
                                                         </h3>
                                                         <div class="elementor-post__excerpt">
                                                             <p>Details determine quality</p>
                                                         </div>
                                                         <a class="elementor-post__read-more"
-                                                            href="/blogs/article_13216.php">Read More » </a>
+                                                            href="/blogs/article_about_us.php">Read More » </a>
                                                     </div>
                                                     <div class="elementor-post__meta-data">
                                                         <span class="elementor-post-date">2022年02月11日</span>

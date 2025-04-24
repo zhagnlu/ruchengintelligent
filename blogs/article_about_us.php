@@ -362,14 +362,14 @@
     <meta name="description" content="">
     <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
     <!-- twitter分享 -->
-    <meta property="twitter:url" content="/blogs/article_13216.php">
+    <meta property="twitter:url" content="/blogs/article_about_us.php">
     <meta name="twitter:title" content="About Rucheng Technology - Leading CNC Sheet Metal Manufacturer">
     <meta name="twitter:description" content="Details determine quality">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="null">
 
     <!-- facebook分享 -->
-    <meta property="og:url" content="/blogs/article_13216.php">
+    <meta property="og:url" content="/blogs/article_about_us.php">
     <meta property="og:type" content="article">
     <meta property="og:title" content="About Rucheng Technology - Leading CNC Sheet Metal Manufacturer">
     <meta property="og:description" content="Details determine quality">
@@ -467,12 +467,12 @@
         }
 
         .entry-content h3 {
-            font-size: 1.5em !important;
-            color: #2b6cb0 !important;
+            font-size: 1.3em !important;
+            color:rgb(7, 7, 7) !important;
         }
 
         .entry-content h4 {
-            font-size: 1.3em !important;
+            font-size: 1.2em !important;
             color: #3182ce !important;
         }
 
@@ -480,7 +480,7 @@
             font-size: 1.1em !important;
             margin: 10px 0 !important;
             font-weight: bold !important;
-            color: #4299e1 !important;
+            color:rgb(7, 8, 8) !important;
         }
 
         .entry-content h6 {
@@ -616,7 +616,7 @@
 
                                 <h5>Strong R&D and Innovation</h5>
                                 <p>
-                                    Innovation is at the core of our business. We have a dedicated R&D team that continuously develops and upgrades our <a href="/product.php?c=press_brake"><strong>CNC Press Brake</strong></a>, <a href="/product.php?c=shearing_machine"><strong>CNC Shearing Machine</strong></a>, and <a href="/product.php?c=laser_cutting_machine"><strong>Metal Cutting Machines</strong></a>. Our engineers work closely with production teams to turn new ideas into reliable technologies.
+                                    Innovation is at the core of our business. We have a dedicated R&D team that continuously develops and upgrades our <a href="/product.php?c=press_brake">CNC Press Brake</a>, <a href="/product.php?c=shearing_machine">CNC Shearing Machine</a>, and <a href="/product.php?c=laser_cutting_machine">Metal Cutting Machines</a>. Our engineers work closely with production teams to turn new ideas into reliable technologies.
                                 </p>
 
                                 <h5>Commitment to Excellence</h5>
