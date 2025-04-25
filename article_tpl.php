@@ -593,7 +593,7 @@
     </div><!-- #primary -->
 
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
 
 
     <script type="text/javascript">

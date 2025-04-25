@@ -88,69 +88,30 @@
                                     </div>
                                 </div>
                             </div>
-                            <div
-                                class="elementor-element elementor-element-fb54cbe elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
-                                    <nav migration_allowed="1" migrated="0" role="navigation"
-                                        class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                        <ul id="menu-1-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                <a href="/about.php" class="elementor-item">About</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                <a href="/services.php" class="elementor-item">Services</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                <a href="/product.php" class="elementor-item">Product</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                <a href="/blog.php" class="elementor-item">Blog</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                <a href="/contact.php" class="elementor-item">Contact us</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
-                                    <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                        aria-label="Menu Toggle" aria-expanded="false">
-                                        <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                        <span class="elementor-screen-only">Menu</span>
-                                    </div>
-                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                        role="navigation" aria-hidden="true">
-                                        <ul id="menu-2-fb54cbe" class="elementor-nav-menu sm-vertical">
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                                <a href="/about.php" class="elementor-item"
-                                                    tabindex="-1">About</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254">
-                                                <a href="/services.php" class="elementor-item"
-                                                    tabindex="-1">Services</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257">
-                                                <a href="/product.php" class="elementor-item"
-                                                    tabindex="-1">Product</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                                <a href="/blog.php" class="elementor-item"
-                                                    tabindex="-1">Blog</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                                <a href="/contact.php" class="elementor-item"
-                                                    tabindex="-1">Contact us</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
+                                    <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-info-circle" aria-hidden="true"></i></span>
+                                        <a href="/about.php" class="elementor-icon-list-text">About</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-cogs" aria-hidden="true"></i></span>
+                                        <a href="/services.php" class="elementor-icon-list-text">Services</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-box-open" aria-hidden="true"></i></span>
+                                        <a href="/product.php" class="elementor-icon-list-text">Product</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-blog" aria-hidden="true"></i></span>
+                                        <a href="/blog.php" class="elementor-icon-list-text">Blog</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-envelope" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Contact us</a>
+                                    </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -172,73 +133,30 @@
                                     </div>
                                 </div>
                             </div>
-                            <div
-                                class="elementor-element elementor-element-0e4ee2e elementor-nav-menu__align-left elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"  data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
-                                    <nav migration_allowed="1" migrated="0" role="navigation"
-                                        class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-                                        <ul id="menu-1-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                <a href="/contact.php" class="elementor-item">Pre-sales
-                                                    consultation</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                <a href="/contact.php" class="elementor-item">Sign contract</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                <a href="/contact.php" class="elementor-item">Quality
-                                                    assurance</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                <a href="/contact.php" class="elementor-item">High-quality
-                                                    after-sales</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                <a href="/contact.php" class="elementor-item">Offline
-                                                    communication</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
-                                    <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                        aria-label="Menu Toggle" aria-expanded="false">
-                                        <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
-                                        <span class="elementor-screen-only">Menu</span>
-                                    </div>
-                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                        role="navigation" aria-hidden="true">
-                                        <ul id="menu-2-0e4ee2e" class="elementor-nav-menu sm-vertical">
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-267">
-                                                <a href="javascript:;" class="elementor-item"
-                                                    tabindex="-1">Power Energies</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-268">
-                                                <a href="javascript:;" class="elementor-item"
-                                                    tabindex="-1">Mechanical Engineering</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-269">
-                                                <a href="javascript:;" class="elementor-item"
-                                                    tabindex="-1">Chemical Research</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-270">
-                                                <a href="javascript:;" class="elementor-item"
-                                                    tabindex="-1">Industrial Construction</a>
-                                            </li>
-                                            <li
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-271">
-                                                <a href="javascript:;" class="elementor-item"
-                                                    tabindex="-1">Petroleum and Gas</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
+                                    <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-comments" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Pre-sales consultation</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-file-signature" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Sign contract</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Quality assurance</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-headset" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">High-quality after-sales</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-users" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Offline communication</a>
+                                    </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
