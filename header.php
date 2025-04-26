@@ -955,5 +955,36 @@ function isActive($page)
         s0.parentNode.insertBefore(s1, s0);
     })();
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rucheng Intelligent Technology",
+  "url": "https://www.ruchengintelligent.com",
+  "logo": "https://cdn.xuansiwei.com/zhang3794/1646745391292/banner2.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Shiqiu Industrial Zone, Lishui District",
+    "addressLocality": "Nanjing",
+    "addressRegion": "Jiangsu",
+    "postalCode": "211200",
+    "addressCountry": "China"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-400-886-6884",
+    "contactType": "Customer Support",
+    "areaServed": "Worldwide",
+    "availableLanguage": ["English", "Chinese"]
+  },
+  "sameAs": [
+    "https://www.ruchengintelligent.com", 
+    "https://www.facebook.com/yourcompanypage", 
+    "https://www.linkedin.com/company/yourcompanyname",
+    "https://your.alibabastorelink.com"
+  ]
+}
+</script>
 <!--End of Tawk.to Script-->
 </div>
