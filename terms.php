@@ -374,11 +374,6 @@ ul.elementor-nav-menu--dropdown a,ul.elementor-nav-menu--dropdown a:focus,ul.ele
         return aKeys;
     }
 };
-                if (location.hostname === 'zhang3794.temp.cn2.caihongjianzhan.com') {
-                    if (!docCookies.getItem('login_name')) {
-                        location.href = 'http://zhang3794.cn2.caihongjianzhan.com'
-                    }
-                }
             </script>
         </head><body>
         <?php include 'header.php'; ?>
