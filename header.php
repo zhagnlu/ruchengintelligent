@@ -962,7 +962,7 @@ function isActive($page)
   "@type": "Organization",
   "name": "Rucheng Intelligent Technology",
   "url": "https://www.ruchengintelligent.com",
-  "logo": "https://cdn.xuansiwei.com/zhang3794/1646745391292/banner2.jpg",
+  "logo": "https://www.ruchengintelligent.com/images/logo-no-font.jpg",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Shiqiu Industrial Zone, Lishui District",
@@ -979,10 +979,7 @@ function isActive($page)
     "availableLanguage": ["English", "Chinese"]
   },
   "sameAs": [
-    "https://www.ruchengintelligent.com", 
-    "https://www.facebook.com/yourcompanypage", 
-    "https://www.linkedin.com/company/yourcompanyname",
-    "https://your.alibabastorelink.com"
+    "https://www.ruchengmachine.com"
   ]
 }
 </script>
