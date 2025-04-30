@@ -8408,7 +8408,7 @@
     <link rel="stylesheet" id="elementor-post-183-css"
         href="/wp-content/uploads/elementor/css/post-183.css?ver=1639184097" media="all">
     <meta name="keywords" content="">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/press-brake/product-robotic_press_brake.php">
     <meta name="twitter:title" content="">

@@ -361,7 +361,7 @@
     <meta name="keywords" content="">
     <meta name="description"
         content="Our sales team and after-sales team provide our machine price and service in the shortest time. Sincere life, conscientious work, quality first, reputation first, excellent service">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/contact.php">
     <meta name="twitter:title" content="Contact - RUCHENG">

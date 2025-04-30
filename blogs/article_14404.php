@@ -359,7 +359,7 @@
     <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/11/cropped-cropped-logo-270x270.png">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/blogs/article_14404.php">
     <meta name="twitter:title" content="How does the bending machine work?">

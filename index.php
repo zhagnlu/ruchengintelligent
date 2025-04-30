@@ -361,7 +361,7 @@
     <meta name="keywords" content="CNC press brake, hydraulic shear, laser cutting machine, Rucheng Technology, sheet metal machine, metal bending machine">
     <meta name="description"
         content="rucheng specializes in the manufacture of press brake, shearing machines, and mechanical cutting machines for 20 years">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/index.php">
     <meta name="twitter:title" content="Press Brake, Shear, Fiber laser cutting machine Manufacturer - RUCHENG">

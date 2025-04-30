@@ -1709,7 +1709,7 @@
     <title>隐私政策 - </title>
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/privacy.php">
     <meta name="twitter:title" content="">

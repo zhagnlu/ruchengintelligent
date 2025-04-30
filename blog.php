@@ -361,7 +361,7 @@
     <meta name="keywords" content="">
     <meta name="description"
         content="some professional article about press brake, shear, laser cutting machine and so on">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/blog.php">
     <meta name="twitter:title" content="Blog - RUCHENG">

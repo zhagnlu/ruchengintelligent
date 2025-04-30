@@ -364,7 +364,7 @@
     <link rel="icon" href="/wp-content/uploads/2021/11/cropped-cropped-logo-192x192.png" sizes="192x192">
     <link rel="apple-touch-icon" href="/wp-content/uploads/2021/11/cropped-cropped-logo-180x180.png">
     <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/11/cropped-cropped-logo-270x270.png">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/about.php">
     <meta name="twitter:title" content="Our Company - RUCHENG">

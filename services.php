@@ -331,7 +331,7 @@
     <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/11/cropped-cropped-logo-270x270.png">
     <meta name="keywords" content="Quality and professional services​">
     <meta name="description" content="Detailed consultation, quick response, scientific selection, pricing negotiation, smooth communication, reasonable and thoughtful">
-    <link rel="shortcut icon" href="/images/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo.jpg" type="image/x-icon">
     <!-- twitter分享 -->
     <meta property="twitter:url" content="/services.php">
     <meta name="twitter:title" content="Our Services - RUCHENG">
