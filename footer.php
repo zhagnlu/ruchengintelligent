@@ -16,7 +16,7 @@
                                 data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="154" height="60"
-                                        src="images/header/logo.png"
+                                        src="/images/header/logo.png"
                                         class="attachment-large size-large" alt="" loading="lazy">
                                 </div>
                             </div>

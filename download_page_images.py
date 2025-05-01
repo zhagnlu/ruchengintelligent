@@ -37,13 +37,16 @@ def download_images_from_url(page_url, output_dir="downloaded_images"):
 
     print(f"发现 {len(image_urls)} 张图片，开始下载...")
 
+    filename_list = []
     for idx, img_url in enumerate(image_urls):
         print(img_url)
         filename = os.path.basename(urlparse(img_url).path)
         if not filename:
             filename = f"image_{idx}.jpg"
+        if filename in filename_list:
+            filename = f"{filename}_{idx}.jpg"
         save_path = os.path.join(output_dir, filename)
-
+        filename_list.append(filename)
         try:
             img_data = requests.get(img_url, headers=headers).content
             with open(save_path, "wb") as f:
