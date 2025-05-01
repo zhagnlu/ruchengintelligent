@@ -24,7 +24,7 @@ function isActive($page)
                                 data-id="418bccb" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="154" height="60"
-                                        src="//cdn.xuansiwei.com/zhang3794/1648384271459/111.png?x-oss-process=style/png_small"
+                                        src="images/header/logo.png"
                                         class="attachment-large size-large" alt="" loading="lazy">
                                 </div>
                             </div>

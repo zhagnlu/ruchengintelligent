@@ -16,7 +16,7 @@
                                 data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="154" height="60"
-                                        src="//cdn.xuansiwei.com/zhang3794/1646744278031/11.png?x-oss-process=style/png_small"
+                                        src="images/header/logo.png"
                                         class="attachment-large size-large" alt="" loading="lazy">
                                 </div>
                             </div>
@@ -62,7 +62,7 @@
                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
                                                 target="_blank" href=" https://tiktok.com/@ruchengintelligent">
                                                 <span class="elementor-screen-only">Youtube</span>
-                                                <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small"
+                                                <img src="images/header/4568.jpg"
                                                     alt="" height="25px" width="25px" loading="lazy">
                                             </a>
                                         </span>

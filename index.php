@@ -474,8 +474,7 @@
 
 
 
-            <div component="focus.js"
-                data="{'isAuto':true,'intervalTime':3000,'items':[{'src':'https://cdn.xuansiwei.com/zhang3794/1645967936927/banner1.jpg','href':'','sortIndex':'1','text1':'','text2':'','text3':''},{'src':'https://cdn.xuansiwei.com/zhang3794/1646745391292/banner2.jpg','href':'','sortIndex':'2','text1':'','text2':'','text3':''},{'src':'https://cdn.xuansiwei.com/1646398684245/banner3.jpg','href':'','sortIndex':'3','text1':'','text2':'','text3':''}],'width':'100%','height':'600px','suggestRatio':'1920 * 600','showPic':false,'marginTop':'0','btn_color':'','swiper_theme_color':''}">
+            <div class="banner-container">
 
                 <link rel="stylesheet" href="https://cdn.xuansiwei.com/common/lib/swiper/7.0.8/swiper-bundle.min.css">
                 <style>
@@ -579,19 +578,19 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide swiper-lazy"
-                                style="background-image:url('https://cdn.xuansiwei.com/zhang3794/1645967936927/banner1.jpg')">
+                                style="background-image:url('images/index/banner1.jpg')">
                                 <div class="swiper-lazy-preloader" style="display: none !important; opacity: 0 !important;"></div>
                                 <div class="container">
                                 </div>
                             </div>
                             <div class="swiper-slide swiper-lazy"
-                                style="background-image:url('https://cdn.xuansiwei.com/zhang3794/1646745391292/banner2.jpg')">
+                                style="background-image:url('images/index/banner2.jpg')">
                                 <div class="swiper-lazy-preloader" style="display: none !important; opacity: 0 !important;"></div>
                                 <div class="container">
                                 </div>
                             </div>
                             <div class="swiper-slide swiper-lazy"
-                                style="background-image:url('https://cdn.xuansiwei.com/zhang3794/1646398684245/banner3.jpg')">
+                                style="background-image:url('images/index/banner3.jpg')">
                                 <div class="swiper-lazy-preloader" style="display: none !important; opacity: 0 !important;"></div>
                                 <div class="container">
                                 </div>
@@ -707,9 +706,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645878914106/niuzhou.jpg"
+                                                                data-thumbnail="images/index/niuzhou.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645878914106/niuzhou.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/niuzhou.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -722,9 +721,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645878014083/baishijianbanji.jpg"
+                                                                data-thumbnail="images/index/baishijianbanji.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645878014083/baishijianbanji.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/baishijianbanji.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -737,9 +736,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645880231006/jiguangT4.jpg"
+                                                                data-thumbnail="images/index/jiguangT4.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645880231006/jiguangT4.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/jiguangT4.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -752,9 +751,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645881794139/juanbanjiw11s-wannengshi.jpg"
+                                                                data-thumbnail="images/index/juanbanjiw11s-wannengshi.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645881794139/juanbanjiw11s-wannengshi.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/juanbanjiw11s-wannengshi.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -766,9 +765,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645881956439/lianhechongjianji.jpg"
+                                                                data-thumbnail="images/index/lianhechongjianji.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645881956439/lianhechongjianji.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/lianhechongjianji.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -780,9 +779,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645881956486/sizhuyeyaji.jpg"
+                                                                data-thumbnail="images/index/sizhuyeyaji.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645881956486/sizhuyeyaji.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/sizhuyeyaji.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -795,9 +794,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645882576547/daopian-gunjianfentiaodao.jpg"
+                                                                data-thumbnail="images/index/daopian-gunjianfentiaodao.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645882576547/daopian-gunjianfentiaodao.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/daopian-gunjianfentiaodao.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -810,9 +809,9 @@
                                                             data-elementor-lightbox-slideshow="all-7bb957d"
                                                             data-elementor-lightbox-title="">
                                                             <div class="e-gallery-image elementor-gallery-item__image"
-                                                                data-thumbnail="https://cdn.xuansiwei.com/zhang3794/1645925218700/moju-shukongmoju.jpg"
+                                                                data-thumbnail="images/index/moju-shukongmoju.jpg"
                                                                 data-width="300" data-height="300"
-                                                                style="background:url(https://cdn.xuansiwei.com/zhang3794/1645925218700/moju-shukongmoju.jpg) no-repeat center center;padding-bottom:100%;">
+                                                                style="background:url(images/index/moju-shukongmoju.jpg) no-repeat center center;padding-bottom:100%;">
                                                             </div>
                                                             <div class="elementor-gallery-item__overlay"></div>
                                                             <div class="elementor-gallery-item__content">
@@ -833,7 +832,7 @@
                                                             <li class="product-category product first">
                                                                 <a href="/product.php?c=press_brake">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645878914106/niuzhou.jpg"
+                                                                        src="images/index/niuzhou.jpg"
                                                                         alt="press_brake" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -847,7 +846,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=shearing_machine">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645878014083/baishijianbanji.jpg"
+                                                                        src="images/index/baishijianbanji.jpg"
                                                                         alt="shearing_machine" width="300" height="300" srcset=""
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -861,7 +860,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=laser_cutting_machine">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645880231006/jiguangT4.jpg"
+                                                                        src="images/index/jiguangT4.jpg"
                                                                         alt="laser_cutting_machine" width="300" height="300" srcset=""
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -875,7 +874,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=plate_rolling_machine">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645881794139/juanbanjiw11s-wannengshi.jpg"
+                                                                        src="images/index/juanbanjiw11s-wannengshi.jpg"
                                                                         alt="plate_rolling_machine" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -890,7 +889,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=hand_operated_ironworker">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645881956439/lianhechongjianji.jpg"
+                                                                        src="images/index/lianhechongjianji.jpg"
                                                                         alt="hand_operated_ironworker" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -904,7 +903,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=four_column_hydraulic_press">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645881956486/sizhuyeyaji.jpg"
+                                                                        src="images/index/sizhuyeyaji.jpg"
                                                                         alt="four_column_hydraulic_press" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -918,7 +917,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=mechanical_blade">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645882576547/daopian-gunjianfentiaodao.jpg"
+                                                                        src="images/index/daopian-gunjianfentiaodao.jpg"
                                                                         alt="mechanical_blade" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -932,7 +931,7 @@
                                                             <li class="product-category product">
                                                                 <a href="/product.php?c=bending_machine_mold">
                                                                     <img loading="lazy"
-                                                                        src="https://cdn.xuansiwei.com/zhang3794/1645925218700/moju-shukongmoju.jpg"
+                                                                        src="images/index/moju-shukongmoju.jpg"
                                                                         alt="bending_machine_mold" width="300" height="300"
                                                                         sizes="(max-width: 300px) 100vw, 300px">
                                                                     <h2 class="woocommerce-loop-category__title">
@@ -974,35 +973,35 @@
                                                 <div
                                                     style="display: grid;grid-template-columns: repeat(2, minmax(0, 1fr));column-gap: 0.5rem;">
                                                     <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                        href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic3-2-150x150.jpg"
+                                                        href="about.php"
                                                         data-elementor-open-lightbox="yes"
                                                         data-elementor-lightbox-slideshow="all-61f52ce"
                                                         data-elementor-lightbox-title="pic6-1-" target="_blank">
-                                                        <img src="https://cdn.xuansiwei.com/zhang3794/1645101472452/gongsijieshao (1).jpg"
+                                                        <img src="images/index/gongsijieshao (1).jpg"
                                                             alt="" style="width: 260px;" loading="lazy">
                                                     </a>
                                                     <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                        href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic4-150x150.jpg"
+                                                        href="about.php"
                                                         data-elementor-open-lightbox="yes"
                                                         data-elementor-lightbox-slideshow="all-61f52ce"
                                                         data-elementor-lightbox-title="pic3-2" target="_blank">
-                                                        <img src="https://cdn.xuansiwei.com/zhang3794/1645101472578/gongsijieshao (3).jpg"
+                                                        <img src="images/index/gongsijieshao (3).jpg"
                                                             alt="" style="width: 260px;" loading="lazy">
                                                     </a>
                                                     <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                        href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic4-1-150x150.jpg"
+                                                        href="about.php"
                                                         data-elementor-open-lightbox="yes"
                                                         data-elementor-lightbox-slideshow="all-61f52ce"
                                                         data-elementor-lightbox-title="pic4-1" target="_blank">
-                                                        <img src="https://cdn.xuansiwei.com/zhang3794/1645101472650/gongsijieshao (4).jpg"
+                                                        <img src="images/index/gongsijieshao (4).jpg"
                                                             alt="" style="width: 260px;" loading="lazy">
                                                     </a>
                                                     <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                        href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic6-1--150x150.jpg"
+                                                        href="about.php"
                                                         data-elementor-open-lightbox="yes"
                                                         data-elementor-lightbox-slideshow="all-61f52ce"
                                                         data-elementor-lightbox-title="pic4" target="_blank">
-                                                        <img src="https://cdn.xuansiwei.com/zhang3794/1646744563236/1.png?x-oss-process=style/png_small"
+                                                        <img src="images/index/1.jpg"
                                                             alt="" style="width: 260px;" loading="lazy">
                                                     </a>
                                                 </div>
@@ -1198,7 +1197,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="90"
                                                                 height="59"
-                                                                src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_03.png"
+                                                                src="images/index/908_03.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -1222,7 +1221,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="97"
                                                                 height="59"
-                                                                src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_05.png"
+                                                                src="images/index/908_05.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -1246,7 +1245,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="104"
                                                                 height="59"
-                                                                src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_07.png"
+                                                                src="images/index/908_07.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -1270,7 +1269,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="101"
                                                                 height="59"
-                                                                src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_09.png"
+                                                                src="images/index/908_09.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -1341,7 +1340,7 @@
                                 data-id="120cb4c" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="348" height="710"
-                                        src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/self-pic.png"
+                                        src="images/index/self-pic.png"
                                         class="attachment-large size-large" alt="" loading="lazy"
                                         sizes="(max-width: 348px) 100vw, 348px">
                                 </div>
@@ -1485,8 +1484,7 @@
 
 
 
-                                                <div component="f3_focus.js"
-                                                    data="{'isAuto':true,'intervalTime':6000,'items':[{'src':'https://cdn.xuansiwei.com/zhang3794/1645446539760/keweite.jpg','href':'','text1':'Export to Kuwait','sortIndex':1},{'src':'https://cdn.xuansiwei.com/zhang3794/1645446539716/elian酋.jpg','href':'','text1':'Export to UAE','sortIndex':1},{'src':'https://cdn.xuansiwei.com/zhang3794/1645446539784/yuenan.jpg','href':'','text1':'Export to Vietnam','sortIndex':1},{'src':'https://cdn.xuansiwei.com/zhang3794/1646744759430/yindu.jpg','href':'','text1':'Export to India','sortIndex':1},{'src':'https://cdn.xuansiwei.com/zhang3794/1645926963814/fahuo.jpg','href':'','text1':'Export to Bangladesh','sortIndex':1}],'width':'100%','height':'auto','suggestRatio':'1920 * 600','showPic':false}">
+                                                <div class="swiper-export-container">
 
                                                     <link rel="stylesheet"
                                                         href="https://cdn.xuansiwei.com/common/lib/swiper/7.0.8/swiper-bundle.min.css">
@@ -1500,7 +1498,7 @@
                                                                 <div class="swiper-slide">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             class="swiper-slide-image"
-                                                                            src="https://cdn.xuansiwei.com/zhang3794/1645446539760/keweite.jpg"
+                                                                            src="images/index/keweite.jpg"
                                                                             alt="" loading="lazy">
                                                                         <figcaption
                                                                             class="elementor-image-carousel-caption">
@@ -1512,7 +1510,7 @@
                                                                 <div class="swiper-slide">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             class="swiper-slide-image"
-                                                                            src="https://cdn.xuansiwei.com/zhang3794/1645446539716/elian酋.jpg"
+                                                                            src="images/index/elian.jpg"
                                                                             alt="" loading="lazy">
                                                                         <figcaption
                                                                             class="elementor-image-carousel-caption">
@@ -1524,7 +1522,7 @@
                                                                 <div class="swiper-slide">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             class="swiper-slide-image"
-                                                                            src="https://cdn.xuansiwei.com/zhang3794/1645446539784/yuenan.jpg"
+                                                                            src="images/index/yuenan.jpg"
                                                                             alt="" loading="lazy">
                                                                         <figcaption
                                                                             class="elementor-image-carousel-caption">
@@ -1536,7 +1534,7 @@
                                                                 <div class="swiper-slide">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             class="swiper-slide-image"
-                                                                            src="https://cdn.xuansiwei.com/zhang3794/1646744759430/yindu.jpg"
+                                                                            src="images/index/yindu.jpg"
                                                                             alt="" loading="lazy">
                                                                         <figcaption
                                                                             class="elementor-image-carousel-caption">
@@ -1548,7 +1546,7 @@
                                                                 <div class="swiper-slide">
                                                                     <figure class="swiper-slide-inner"><img
                                                                             class="swiper-slide-image"
-                                                                            src="https://cdn.xuansiwei.com/zhang3794/1645926963814/fahuo.jpg"
+                                                                            src="images/index/fahuo.jpg"
                                                                             alt="" loading="lazy">
                                                                         <figcaption
                                                                             class="elementor-image-carousel-caption">
@@ -1724,7 +1722,7 @@
                                                                         </div>
                                                                         <div class="elementor-testimonial__footer">
                                                                             <div class="elementor-testimonial__image">
-                                                                                <img src="https://cdn.xuansiwei.com/zhang3794/1645927399300/1.jpg"
+                                                                                <img src="images/index/ceo.jpg"
                                                                                     alt="John Doe" loading="lazy">
                                                                             </div>
                                                                             <cite
@@ -1747,7 +1745,7 @@
                                                                         </div>
                                                                         <div class="elementor-testimonial__footer">
                                                                             <div class="elementor-testimonial__image">
-                                                                                <img src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic2-4.jpg"
+                                                                                <img src="images/index/pic2-4.jpg"
                                                                                     alt="John Doe" loading="lazy">
                                                                             </div>
                                                                             <cite
@@ -1770,7 +1768,7 @@
                                                                         </div>
                                                                         <div class="elementor-testimonial__footer">
                                                                             <div class="elementor-testimonial__image">
-                                                                                <img src="https://cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic2-4.jpg"
+                                                                                <img src="images/index/pic2-4.jpg"
                                                                                     alt="John Doe" loading="lazy">
                                                                             </div>
                                                                             <cite
