@@ -440,32 +440,7 @@
 
     <div data-elementor-type="wp-page" data-elementor-id="161" class="elementor elementor-161" data-elementor-settings="[]">
         <div class="elementor-section-wrap">
-            <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-8cbe4e7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8cbe4e7" data-element_type="section">
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64d8740" data-id="64d8740" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-d29d8e7 elementor--h-position-left elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="d29d8e7" data-element_type="widget" data-settings="{" navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","transition":"slide","transition_speed":500}"="" data-widget_type="slides.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-swiper">
-                                        <div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
-                                            <div class="swiper-wrapper elementor-slides">
-                                                <div class="elementor-repeater-item-7a5f819 swiper-slide">
-                                                    <div class="swiper-slide-bg"></div>
-                                                    <div class="swiper-slide-inner">
-                                                        <div class="swiper-slide-contents">
-                                                            <div class="elementor-slide-heading">Services</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
+           
             <section class="elementor-section elementor-top-section elementor-element elementor-element-1eefa34 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1eefa34" data-element_type="section" data-settings="{" background_background":"classic"}"="">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9568568" data-id="9568568" data-element_type="column">
@@ -497,7 +472,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/1_Pre-sales-consultation.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/1_Pre-sales-consultation.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-sync disnone"></i>
                                                             </span>
                                                         </div>
@@ -515,7 +490,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/4_After-sale-service.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/4_After-sale-service.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-coffee disnone"></i>
                                                             </span>
                                                         </div>
@@ -537,7 +512,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/2_Sign-contract.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/2_Sign-contract.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-cloud disnone"></i>
                                                             </span>
                                                         </div>
@@ -555,7 +530,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/5_Service-thought.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/5_Service-thought.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-envelope disnone"></i>
                                                             </span>
                                                         </div>
@@ -577,7 +552,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/3_Quality-assurance.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/3_Quality-assurance.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-wifi disnone"></i>
                                                             </span>
                                                         </div>
@@ -595,7 +570,7 @@
                                                     <div class="elementor-icon-box-wrapper">
                                                         <div class="elementor-icon-box-icon">
                                                             <span class="elementor-icon elementor-animation-">
-                                                                <img src="/images/6_Offline-communication.png" style="width:42px;height:42px;" loading="lazy">
+                                                                <img src="/images/index/6_Offline-communication.png" style="width:42px;height:42px;" loading="lazy">
                                                                 <i aria-hidden="true" class="fas fa-suitcase disnone"></i>
                                                             </span>
                                                         </div>
@@ -624,7 +599,7 @@
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5501c33" data-id="5501c33" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-95ece41 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="95ece41" data-element_type="widget" data-settings="{'youtube_url':'http:\/\/cdn.xuansiwei.com\/zhang3794\/1646126109632\/normal_video1.mp4','show_image_overlay':'yes','image_overlay':{'url':'http:\/\/cdn.xuansiwei.com\/zhang3794\/1646126109632\/normal_video1.mp4?x-oss-process=video\/snapshot,t_1,f_jpg,m_fast','id':44,'alt':'','source':'library'},'video_type':'youtube','controls':'yes','aspect_ratio':'169'}" data-widget_type="video.default">
+                                            <div class="elementor-element elementor-element-95ece41 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="95ece41" data-element_type="widget"  data-widget_type="video.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
                                                         <div class="elementor-video">
@@ -635,7 +610,7 @@
                                                                 <i class="eicon-play" aria-hidden="true"></i>style="background-image: url(/wp-content/uploads/2021/11/video-1.jpg);"
                                                                 <span class="elementor-screen-only">播放视频</span>
                                                             </div> -->
-                                                            <img src="//cdn.xuansiwei.com/zhang3794/1647959927244/fuwu1.jpg?x-oss-process=style/small" alt="" loading="lazy">
+                                                            <img src="images/index/fuwu1.jpg" alt="" loading="lazy">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -707,7 +682,7 @@
                                             <div class="elementor-element elementor-element-bd162c0 elementor-widget elementor-widget-gallery" data-id="bd162c0" data-element_type="widget" data-settings="{'columns':2,'lazyload':'yes','gallery_layout':'grid','columns_tablet':2,'columns_mobile':1,'gap':{'unit':'px','size':10,'sizes':[]},'gap_tablet':{'unit':'px','size':10,'sizes':[]},'gap_mobile':{'unit':'px','size':10,'sizes':[]},'link_to':'file','aspect_ratio':'3:2','overlay_background':'yes','content_hover_animation':'fade-in'}" data-widget_type="gallery.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-gallery__container">
-                                                        <img src="//cdn.xuansiwei.com/zhang3794/1648899462894/4.jpg?x-oss-process=style/small" alt="" loading="lazy">
+                                                        <img src="images/index/fuwu3.jpg" alt="" loading="lazy">
                                                         <!--<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/11/pic7.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-bd162c0" data-elementor-lightbox-title="pic7">
                                                             <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/11/pic7-300x188.jpg" data-width="300" data-height="188" alt=""></div>
                                                             <div class="elementor-gallery-item__overlay"></div>
@@ -739,7 +714,7 @@
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-897d525" data-id="897d525" data-element_type="column">
                                         <div class="elementor-widget-wrap">
-                                            <img src="//cdn.xuansiwei.com/zhang3794/1648040776819/fuwu2.jpg?x-oss-process=style/small" style="width: 100%;height: 250;: " loading="lazy">
+                                            <img src="images/index/fuwu2.jpg" style="width: 100%;height: 250;: " loading="lazy">
                                         </div>
                                     </div>
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-51ca839" data-id="51ca839" data-element_type="column">

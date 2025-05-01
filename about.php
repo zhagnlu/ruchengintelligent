@@ -490,28 +490,6 @@
                 class="elementor-section elementor-top-section elementor-element elementor-element-8cbe4e7 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
                 data-id="8cbe4e7" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-default">
-                    <!-- <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64d8740" data-id="64d8740" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-d29d8e7 elementor--h-position-left elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="d29d8e7" data-element_type="widget" data-settings="{" navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","transition":"slide","transition_speed":500}"="" data-widget_type="slides.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-swiper">
-                                        <div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
-                                            <div class="swiper-wrapper elementor-slides">
-                                                <div class="elementor-repeater-item-7a5f819 swiper-slide">
-                                                    <div class="swiper-slide-bg"></div>
-                                                    <div class="swiper-slide-inner">
-                                                        <div class="swiper-slide-contents">
-                                                            <div class="elementor-slide-heading">About us</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </section>
             <section
@@ -554,7 +532,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="90"
                                                                 height="59"
-                                                                src="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_03.png"
+                                                                src="images/index/908_03.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -578,7 +556,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="97"
                                                                 height="59"
-                                                                src="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_05.png"
+                                                                src="images/index/908_05.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -604,7 +582,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="104"
                                                                 height="59"
-                                                                src="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_07.png"
+                                                                src="images/index/908_07.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy">
                                                         </figure>
                                                         <div class="elementor-image-box-content">
@@ -629,7 +607,7 @@
                                                     <div class="elementor-image-box-wrapper">
                                                         <figure class="elementor-image-box-img"><img width="101"
                                                                 height="59"
-                                                                src="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/908_09.png"
+                                                                src="images/index/908_09.png"
                                                                 class="attachment-full size-full" alt="" loading="lazy"
                                                                 title=""></figure>
                                                         <div class="elementor-image-box-content">
@@ -668,35 +646,35 @@
                                             <div
                                                 style="display: grid;grid-template-columns: repeat(2, minmax(0, 1fr));column-gap: 0.5rem;">
                                                 <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                    href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic3-2-150x150.jpg"
+                                                    href="about.php"
                                                     data-elementor-open-lightbox="yes"
                                                     data-elementor-lightbox-slideshow="all-61f52ce"
                                                     data-elementor-lightbox-title="pic6-1-" target="_blank">
-                                                    <img src="//cdn.xuansiwei.com/zhang3794/1645101472452/gongsijieshao (1).jpg"
+                                                    <img src="images/index/gongsijieshao (1).jpg"
                                                         alt="" style="width: 260px;" loading="lazy">
                                                 </a>
                                                 <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                    href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic4-150x150.jpg"
+                                                    href="about.php"
                                                     data-elementor-open-lightbox="yes"
                                                     data-elementor-lightbox-slideshow="all-61f52ce"
                                                     data-elementor-lightbox-title="pic3-2" target="_blank">
-                                                    <img src="//cdn.xuansiwei.com/zhang3794/1645101472650/gongsijieshao (4).jpg"
+                                                    <img src="images/index/gongsijieshao (4).jpg"
                                                         alt="" style="width: 260px;" loading="lazy">
                                                 </a>
                                                 <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                    href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic4-1-150x150.jpg"
+                                                    href="about.php"
                                                     data-elementor-open-lightbox="yes"
                                                     data-elementor-lightbox-slideshow="all-61f52ce"
                                                     data-elementor-lightbox-title="pic4-1" target="_blank">
-                                                    <img src="//cdn.xuansiwei.com/zhang3794/1646744563236/1.png?x-oss-process=style/png_small"
+                                                    <img src="images/index/1.jpg"
                                                         alt="" style="width: 260px;" loading="lazy">
                                                 </a>
                                                 <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
-                                                    href="http://abc4318.sg-host.com/wp-content/uploads/2021/11/pic6-1--150x150.jpg"
+                                                    href="about.php"
                                                     data-elementor-open-lightbox="yes"
                                                     data-elementor-lightbox-slideshow="all-61f52ce"
                                                     data-elementor-lightbox-title="pic4" target="_blank">
-                                                    <img src="//cdn.xuansiwei.com/zhang3794/1645101472578/gongsijieshao (3).jpg"
+                                                    <img src="images/index/gongsijieshao (3).jpg"
                                                         alt="" style="width: 260px;" loading="lazy">
                                                 </a>
                                             </div>
@@ -1002,15 +980,6 @@
                                         data-id="89e0e8c" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
 
-
-                                            <div component="f4_focus.js"
-                                                data="{'isAuto':true,'intervalTime':6000,'items':[
-                                                {'src':'//cdn.xuansiwei.com/zhang3794/1646915451339/zhutu.jpg','href':'','text1':'Export to Kuwait','sortIndex':1},
-                                                {'src':'//cdn.xuansiwei.com/zhang3794/1646915351881/zhutu.jpg','href':'','text1':'Export to UAE','sortIndex':1},
-                                                {'src':'//cdn.xuansiwei.com/zhang3794/1646915167031/1.jpg','href':'','text1':'Export to Vietnam','sortIndex':1},
-                                                {'src':'//cdn.xuansiwei.com/zhang3794/1646915816109/zhutu.jpg','href':'','text1':'Export to India','sortIndex':1}
-                                                ],'width':'100%','height':'auto','suggestRatio':'1920 * 600','showPic':false}">
-
                                                 <link rel="stylesheet"
                                                     href="//cdn.xuansiwei.com/common/lib/swiper/7.0.8/swiper-bundle.min.css">
                                                 <style>
@@ -1032,7 +1001,7 @@
                                                                     <div class="swiper-slide">
                                                                         <figure class="swiper-slide-inner"><img
                                                                                 class="swiper-slide-image"
-                                                                                src="//cdn.xuansiwei.com/zhang3794/1646915451339/zhutu.jpg"
+                                                                                src="images/index/about_press_brake.jpg"
                                                                                 alt="" style="width:400;height:320px"
                                                                                 loading="lazy">
                                                                             <div>Press Brake</div>
@@ -1043,7 +1012,7 @@
                                                                     <div class="swiper-slide">
                                                                         <figure class="swiper-slide-inner"><img
                                                                                 class="swiper-slide-image"
-                                                                                src="//cdn.xuansiwei.com/zhang3794/1646915351881/zhutu.jpg"
+                                                                                src="images/index/about_shearing_machine.jpg"
                                                                                 alt="" style="width:400;height:320px"
                                                                                 loading="lazy">
                                                                             <div>Metal Shearing Machine</div>
@@ -1054,7 +1023,7 @@
                                                                     <div class="swiper-slide">
                                                                         <figure class="swiper-slide-inner"><img
                                                                                 class="swiper-slide-image"
-                                                                                src="//cdn.xuansiwei.com/zhang3794/1646915167031/1.jpg"
+                                                                                src="images/index/jiguangT4.jpg"
                                                                                 alt="" style="width:400;height:320px"
                                                                                 loading="lazy">
                                                                             <div>Laser Cutting Machine </div>
@@ -1065,7 +1034,7 @@
                                                                     <div class="swiper-slide">
                                                                         <figure class="swiper-slide-inner"><img
                                                                                 class="swiper-slide-image"
-                                                                                src="//cdn.xuansiwei.com/zhang3794/1646915816109/zhutu.jpg"
+                                                                                src="images/index/lianhechongjianji.jpg"
                                                                                 alt="" style="width:400;height:320px"
                                                                                 loading="lazy">
                                                                             <div>Hand-Operated Ironworker</div>
@@ -1114,7 +1083,7 @@
                                                         }
                                                     })
                                                 </script>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>

@@ -62,7 +62,7 @@
                                             <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
                                                 target="_blank" href=" https://tiktok.com/@ruchengintelligent">
                                                 <span class="elementor-screen-only">Youtube</span>
-                                                <img src="images/header/4568.jpg"
+                                                <img src="images/header/tiktok.jpg"
                                                     alt="" height="25px" width="25px" loading="lazy">
                                             </a>
                                         </span>

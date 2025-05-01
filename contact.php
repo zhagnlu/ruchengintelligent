@@ -629,7 +629,7 @@
                                                                             <a href="https://tiktok.com/@ruchengintelligent"
                                                                                 target="_blank">
                                                                                 <span class="elementor-icon-list-icon">
-                                                                                    <img src="//cdn.xuansiwei.com/zuiho4083/1648543908867/4568.jpg?x-oss-process=style/small"
+                                                                                    <img src="images/header/tiktok.jpg"
                                                                                         alt="" style="width: 15px;"
                                                                                         loading="lazy"> </span>
                                                                                 <span
