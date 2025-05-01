@@ -683,18 +683,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-gallery__container">
                                                         <img src="images/index/fuwu3.jpg" alt="" loading="lazy">
-                                                        <!--<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2021/11/pic7.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-bd162c0" data-elementor-lightbox-title="pic7">
-                                                            <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/11/pic7-300x188.jpg" data-width="300" data-height="188" alt=""></div>
-                                                            <div class="elementor-gallery-item__overlay"></div>
-                                                        </a>
-                                                        <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic6-1-.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-bd162c0" data-elementor-lightbox-title="pic6-1-">
-                                                            <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/11/pic6-1--239x300.jpg" data-width="239" data-height="300" alt=""></div>
-                                                            <div class="elementor-gallery-item__overlay"></div>
-                                                        </a>
-                                                        <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="//cdn.xuansiwei.com/zhang3794/wp-content/uploads/2021/11/pic10.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-bd162c0" data-elementor-lightbox-title="pic10">
-                                                            <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2021/11/pic10-300x188.jpg" data-width="300" data-height="188" alt=""></div>
-                                                            <div class="elementor-gallery-item__overlay"></div>
-                                                        </a>-->
+                
                                                     </div>
                                                 </div>
                                             </div>
