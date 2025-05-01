@@ -20,7 +20,7 @@
     <meta name="robots" content="max-image-preview:large">
     <link rel="dns-prefetch" href="">
     <link rel="alternate" type="application/rss+xml" title="blue » Feed" href="/feed">
-    <link rel="alternate" type="application/rss+xml" title="blue » 评论Feed" href="/comments/feed">
+    <link rel="alternate" type="application/rss+xml" title="blue » Comments Feed" href="/comments/feed">
     <link rel="alternate" type="application/rss+xml" title="blue » Category 1 Category Feed"
         href="/product-category/category-1/feed">
     <script>
@@ -373,20 +373,20 @@
 
     <script>
         function shareFacebook() {
-            var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; //真实的appkey，必选参数
-            _shareUrl += '&u=' + encodeURIComponent(location.href); //参数url设置分享的内容链接|默认当前页location，可选参数
+            var _shareUrl = 'https://facebook.com/sharer/sharer.php?'; // Real appkey, required parameter
+            _shareUrl += '&u=' + encodeURIComponent(location.href); // Parameter url sets the content link to share | Default current page location, optional parameter
             window.open(_shareUrl, '_blank');
         }
 
         function shareTwitter() {
-            var _shareUrl = 'https://twitter.com/intent/tweet/?'; //真实的appkey，必选参数
+            var _shareUrl = 'https://twitter.com/intent/tweet/?'; // Real appkey, required parameter
             _shareUrl += '&text=' + encodeURIComponent('');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
             window.open(_shareUrl, '_blank');
         }
 
         function sharePinterest() {
-            var _shareUrl = 'https://pinterest.com/pin/create/button/?'; //真实的appkey，必选参数
+            var _shareUrl = 'https://pinterest.com/pin/create/button/?'; // Real appkey, required parameter
             _shareUrl += '&media=' + encodeURIComponent('null');
             _shareUrl += '&description=' + encodeURIComponent('');
             _shareUrl += '&url=' + encodeURIComponent(location.href);
@@ -571,42 +571,42 @@
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="press_brake" href="javascript:p_category('press_brake');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">折弯机</a>
+                                                    class="elementor-item" tabindex="-1">Press Brake</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="shearing_machine" href="javascript:p_category('shearing_machine');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">剪板机</a>
+                                                    class="elementor-item" tabindex="-1">Shearing Machine</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="laser_cutting_machine" href="javascript:p_category('laser_cutting_machine');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">激光切割机</a>
+                                                    class="elementor-item" tabindex="-1">Laser Cutting Machine</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="plate_rolling_machine" href="javascript:p_category('plate_rolling_machine');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">卷板机</a>
+                                                    class="elementor-item" tabindex="-1">Plate Rolling Machine</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="hand_operated_ironworker" href="javascript:p_category('hand_operated_ironworker');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">联合冲减机</a>
+                                                    class="elementor-item" tabindex="-1">Combined Punching Machine</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="four_column_hydraulic_press" href="javascript:p_category('four_column_hydraulic_press');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">四柱液压机</a>
+                                                    class="elementor-item" tabindex="-1">Four-Column Hydraulic Press</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="mechanical_blade" href="javascript:p_category('mechanical_blade');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">刀片</a>
+                                                    class="elementor-item" tabindex="-1">Blade</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item">
                                                 <a m_p_category="bending_machine_mold" href="javascript:p_category('bending_machine_mold');" aria-current="page"
-                                                    class="elementor-item" tabindex="-1">模具</a>
+                                                    class="elementor-item" tabindex="-1">Mold</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -629,7 +629,7 @@
                                                 <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645878914106/niuzhou.jpg"
+                                                        src="images/product/dianye.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Electro-hydraulic CNC
@@ -642,7 +642,7 @@
                                                 <a href="/press-brake/product-torsion_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645942541706/niuzhou.jpg"
+                                                        src="images/product/niuzhou.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Torsion-synchro NC Press
@@ -655,7 +655,7 @@
                                                 <a href="/press-brake/product-tandem_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645878855338/chuanlian.jpg"
+                                                        src="images/product/chuanlian.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Tandem Press Brake</h2>
@@ -667,7 +667,7 @@
                                                 <a href="/press-brake/product-heavy_duty_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645879731382/zhongxing.jpg"
+                                                        src="images/product/zhongxing.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Heavy-duty Press Brake
@@ -680,7 +680,7 @@
                                                 <a href="/press-brake/product-robotic_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645879408258/zhewanjijiqiren.jpg"
+                                                        src="images/product/zhewanjijiqiren.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Robotic Press Brake</h2>
@@ -693,7 +693,7 @@
                                                 <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645878014083/baishijianbanji.jpg"
+                                                        src="images/product/baishijianbanji.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">swing beam shearing machine</h2>
@@ -705,7 +705,7 @@
                                                 <a href="/shearing-machine/product-guillotine_shearing_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645878023484/zhashijianbanji.jpg"
+                                                        src="images/product/zhashijianbanji.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Guillotine Shear</h2>
@@ -718,7 +718,7 @@
                                                 <a href="/laser-cutting-machine/product-single_table_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880230918/jiguangt1.jpg"
+                                                        src="images/product/jiguangt1.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">T1&nbsp;Single Table
@@ -731,7 +731,7 @@
                                                 <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880230948/jiguangT2.jpg"
+                                                        src="images/product/jiguangT2.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">T2&nbsp;Double Table
@@ -744,7 +744,7 @@
                                                 <a href="/laser-cutting-machine/product-fully_enclosed_fiber_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880230980/jiguangT3.jpg"
+                                                        src="images/product/jiguangT3.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">T3 series (fully
@@ -757,7 +757,7 @@
                                                 <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880231006/jiguangT4.jpg"
+                                                        src="images/product/jiguangT4.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">TR1 single panel tube
@@ -770,7 +770,7 @@
                                                 <a href="/laser-cutting-machine/product-exchange_panel_tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880350240/jiguangTRjiaohuantai.jpg"
+                                                        src="images/product/jiguangTRjiaohuantai.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">TR2 exchange table plate
@@ -783,7 +783,7 @@
                                                 <a href="/laser-cutting-machine/product-full_protection_tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880448960/jiguangTRbaowei.jpg"
+                                                        src="images/product/jiguangTRbaowei.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">TR3 full-protection
@@ -797,7 +797,7 @@
                                                 <a href="/laser-cutting-machine/product-tube_laser_cutting_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645880230880/jiguangR.jpg"
+                                                        src="images/product/jiguangR.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Tube Laser Cutting
@@ -811,7 +811,7 @@
                                                 <a href="/rolling-machine/product-plate_rolling_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645881794169/juanbanji-w11-sangunduichengshi.jpg"
+                                                        src="images/product/juanbanji-w11-sangunduichengshi.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">W11 Three-roller
@@ -824,7 +824,7 @@
                                                 <a href="/rolling-machine/product-four-roller_plate_rolling_machine.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645881794139/juanbanjiw11s-wannengshi.jpg"
+                                                        src="images/product/juanbanjiw11s-wannengshi.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">W11S Universal Veneer
@@ -838,7 +838,7 @@
                                                 <a href="/ironworker/product-hand_operated_ironworker.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645881956439/lianhechongjianji.jpg"
+                                                        src="images/product/lianhechongjianji.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Hand-Operated Ironworker
@@ -852,7 +852,7 @@
                                                 <a href="/four-column-hydraulic-press/product-four_column_hydraulic_press.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645881956486/sizhuyeyaji.jpg"
+                                                        src="images/product/sizhuyeyaji.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Four-Column Hydraulic
@@ -866,7 +866,7 @@
                                                 <a href="/mechanical-blade/product-rolling_shear_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576547/daopian-gunjianfentiaodao.jpg"
+                                                        src="images/product/daopian-gunjianfentiaodao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Rolling Shear Slitting
@@ -879,7 +879,7 @@
                                                 <a href="/mechanical-blade/product-slitting_circular_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576500/daopian-fenqieshangxiadao.jpg"
+                                                        src="images/product/daopian-fenqieshangxiadao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Slitting round blade
@@ -892,7 +892,7 @@
                                                 <a href="/mechanical-blade/product-shearing_machine_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576571/daopian-jianbanjidaopian.jpg"
+                                                        src="images/product/daopian-jianbanjidaopian.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Shearing Machine Blade
@@ -905,7 +905,7 @@
                                                 <a href="/mechanical-blade/product-doctor_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576709/daopian-youmoguadao.jpg"
+                                                        src="images/product/daopian-youmoguadao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Ink Knife</h2>
@@ -917,7 +917,7 @@
                                                 <a href="/mechanical-blade/product-rolling_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576680/daopian-yagangdao.jpg"
+                                                        src="images/product/daopian-yagangdao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Rolling Knife</h2>
@@ -929,7 +929,7 @@
                                                 <a href="/mechanical-blade/product-slow_cursher_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576606/daopian-mansufensuijidaopian.jpg"
+                                                        src="images/product/daopian-mansufensuijidaopian.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Slow Crusher Blade</h2>
@@ -941,7 +941,7 @@
                                                 <a href="/mechanical-blade/product-toothed_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576454/daopian-chidao.jpg"
+                                                        src="images/product/daopian-chidao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Toothed Blade</h2>
@@ -953,7 +953,7 @@
                                                 <a href="/mechanical-blade/product-chipper_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576654/daopian-xiaopianjidaopian.jpg"
+                                                        src="images/product/daopian-xiaopianjidaopian.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Chipper Blades</h2>
@@ -965,7 +965,7 @@
                                                 <a href="/mechanical-blade/product-corrugated_paper_cutting_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576630/daopian-walengzhiqiedao.jpg"
+                                                        src="images/product/daopian-walengzhiqiedao.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Corrugated Paper Cutter
@@ -978,7 +978,7 @@
                                                 <a href="/mechanical-blade/product-crusher_blade.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645882576526/daopian-fensuijidaopian.jpg"
+                                                        src="images/product/daopian-fensuijidaopian.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Crusher Blade</h2>
@@ -991,7 +991,7 @@
                                                 <a href="/bending-machine-mold/product-cnc_bending_machine_mold.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218700/moju-shukongmoju.jpg"
+                                                        src="images/product/moju-shukongmoju.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">CNC bending machine mold
@@ -1004,7 +1004,7 @@
                                                 <a href="/bending-machine-mold/product-flattening_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218824/moju-yapingdaomo.jpg"
+                                                        src="images/product/moju-yapingdaomo.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Press brake flattening
@@ -1017,7 +1017,7 @@
                                                 <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218629/moju-shangmo.jpg"
+                                                        src="images/product/moju-shangmo.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Upper die of bending
@@ -1030,7 +1030,7 @@
                                                 <a href="/bending-machine-mold/product-v_lower_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218794/moju-xiamo.jpg"
+                                                        src="images/product/moju-xiamo.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Bending machine single
@@ -1043,7 +1043,7 @@
                                                 <a href="/bending-machine-mold/product-radius_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218870/moju-yuanhumoju.jpg"
+                                                        src="images/product/moju-yuanhumoju.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Bending machine arc mold
@@ -1056,7 +1056,7 @@
                                                 <a href="/bending-machine-mold/product-gooseneck_punch_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218736/moju-wandaomoju.jpg"
+                                                        src="images/product/moju-wandaomoju.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Pipe bender gooseneck
@@ -1069,7 +1069,7 @@
                                                 <a href="/bending-machine-mold/product-mark_free_die_of_press_brake.php"
                                                     class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                                                     <img width="300" height="300"
-                                                        src="//cdn.xuansiwei.com/zhang3794/1645925218762/moju-wuhen.jpg"
+                                                        src="images/product/moju-wuhen.jpg"
                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                         loading="lazy">
                                                     <h2 class="woocommerce-loop-product__title">Pipe bender seamless
