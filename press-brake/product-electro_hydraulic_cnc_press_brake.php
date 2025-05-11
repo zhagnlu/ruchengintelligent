@@ -1,4 +1,4 @@
-<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ -->
+<!DOCTYPE html>
 <html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr">
 
 <head>
@@ -3595,7 +3595,7 @@
         }
 
         .site-footer {
-            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(https://www.adhmt.com/wp-content/uploads/2021/06/about-bg-free-img.jpg);
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
             ;
             background-repeat: no-repeat;
             background-position: center center;
@@ -5480,14 +5480,6 @@
         media="all">
     <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
-        @font-face {
-            font-family: eicons;
-            src: url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);
-            src: url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");
-            font-weight: 400;
-            font-style: normal
-        }
-
         .elementor-kit-5426 {
             --e-global-color-primary: #2B4B7C;
             --e-global-color-secondary: #54595F;
@@ -8494,7 +8486,6 @@
                 return aKeys;
             }
         };
-       
     </script>
 </head>
 
@@ -8537,7 +8528,7 @@
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1647084461901/1.jpg"
+                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/zhutu.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8819,221 +8810,11 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664860/2.jpg"
+                                                                                        src="/images/press_brake/electro_hydraulic_cnc_press_brake/detail_1.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="3"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <!-- <span class="uael-tooltip elementor-repeater-item-0ee1d19">
-<span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
-<i aria-hidden="true" class="fa fa-dot-circle-o"></i> </span>
-                                                                                        </span> -->
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            中心对齐表</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 个中的 1
-                                                                                                                个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-1e92adac-2"
-                                                                                                data-uaeltour="2"
-                                                                                                data-tooltip-content="#uael-tooltip-content-1e92adac-e024718">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-e024718">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            数控折弯机</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 个中的 2
-                                                                                                                个</font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0cb9342">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-1e92adac-3"
-                                                                                                data-uaeltour="3"
-                                                                                                data-tooltip-content="#uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-1e92adac-0cb9342">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            机械手</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                3 中的 3
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-1e92adac"
-                                                                                                                data-tooltipid="3">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-1e92adac"
-                                                                                                                data-tooltipid="3">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </div>
+
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9060,94 +8841,11 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664910/3.jpg"
+                                                                                        src="/images/press_brake/electro_hydraulic_cnc_press_brake/3.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="1"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-c75a9ae-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-c75a9ae-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            工件</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                1 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-c75a9ae"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-c75a9ae"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </div>
+
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9212,93 +8910,10 @@
                                                                                     <img width="1024" height="683"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt=""
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647084664950/4.jpg"
+                                                                                        src="/images/press_brake/electro_hydraulic_cnc_press_brake/4.jpg"
                                                                                         data-ll-status="loaded"
                                                                                         loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="1"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-14823dfa-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-14823dfa-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            夹爪</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                1 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-14823dfa"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-14823dfa"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </div>
+
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9325,161 +8940,11 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943428954/5.jpg"
+                                                                                        src="/images/press_brake/electro_hydraulic_cnc_press_brake/detail_4.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
-                                                                                    <div class="uael-hotspot-container"
-                                                                                        data-side="top"
-                                                                                        data-hotspottrigger="hover"
-                                                                                        data-arrow="true"
-                                                                                        data-distance="6"
-                                                                                        data-delay="300"
-                                                                                        data-animation="fade"
-                                                                                        data-animduration="350"
-                                                                                        data-zindex="99" data-length="2"
-                                                                                        data-autoplay="" data-repeat=""
-                                                                                        data-tourinterval="4000"
-                                                                                        data-overlay=""
-                                                                                        data-autoaction=""
-                                                                                        data-hotspotviewport="90"
-                                                                                        data-tooltip-maxwidth="250"
-                                                                                        data-tooltip-minwidth="0">
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-0ee1d19">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-39d9dd0b-1"
-                                                                                                data-uaeltour="1"
-                                                                                                data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-39d9dd0b-0ee1d19">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            电器</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                2 中的 1
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-39d9dd0b"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-39d9dd0b"
-                                                                                                                data-tooltipid="1">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip elementor-repeater-item-e024718">
-                                                                                            <span
-                                                                                                class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered"
-                                                                                                id="uael-tooltip-id-39d9dd0b-2"
-                                                                                                data-uaeltour="2"
-                                                                                                data-tooltip-content="#uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <i aria-hidden="true"
-                                                                                                    class="fa fa-dot-circle-o"></i>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                        <span
-                                                                                            class="uael-tooltip-container">
-                                                                                            <span
-                                                                                                class="uael-tooltip-text uael-tour-inactive"
-                                                                                                id="uael-tooltip-content-39d9dd0b-e024718">
-                                                                                                <p>
-                                                                                                    <font
-                                                                                                        style="vertical-align: inherit;">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            控制器</font>
-                                                                                                    </font>
-                                                                                                </p> <span
-                                                                                                    class="uael-tour"><span
-                                                                                                        class="uael-actual-step">
-                                                                                                        <font
-                                                                                                            style="vertical-align: inherit;">
-                                                                                                            <font
-                                                                                                                style="vertical-align: inherit;">
-                                                                                                                2 的 2
-                                                                                                            </font>
-                                                                                                        </font>
-                                                                                                    </span>
-                                                                                                    <ul>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-prev-39d9dd0b"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        “
-                                                                                                                        以前的
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                        <li>
-                                                                                                            <a href="javascript:;"
-                                                                                                                class="uael-next-39d9dd0b"
-                                                                                                                data-tooltipid="2">
-                                                                                                                <font
-                                                                                                                    style="vertical-align: inherit;">
-                                                                                                                    <font
-                                                                                                                        style="vertical-align: inherit;">
-                                                                                                                        下一个
-                                                                                                                        ”
-                                                                                                                    </font>
-                                                                                                                </font>
-                                                                                                            </a>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </span>
-                                                                                            </span>
-                                                                                        </span>
-                                                                                    </div>
+
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -9661,7 +9126,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596299/x1.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/x1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9778,7 +9243,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="600" height="420"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596379/x2.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/x2.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 600px) 100vw, 600px"
@@ -9887,7 +9352,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645929596424/x3.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/x3.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -9990,7 +9455,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042650/x4.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//x4.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10113,7 +9578,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042683/x5.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//x5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10202,7 +9667,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042743/x6.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//x6.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10292,7 +9757,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042787/x7.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//x7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10372,7 +9837,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//x8.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10432,166 +9897,7 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Backgauge System</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">We using the Taiwan PMI ball screw and linear guide to ensure the moving of X-axis with higher accuracy than using rod. And the backgauge adopt timing belt & wheel mechanism which controlled by servo motor instead of step motor. The height of the backgauge finger can be adjusted manually. Totally there're THREE pcs of backgauge fingers for positioning.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Punches & Dies</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The standard top punch and dual-V bottom die are specially designed for bending sheet metals. More press brake toolings can be selected as per your practical use. Material and HRC47 degree values ​​are marked on it</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Manual Crowning</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The crowning will compensate for the deflection of the worktable during bending process so as to obtain higher working precision.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                        <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Mechanical Crowning</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The motorized crowning system will adjust the parallelism and straightness automatically.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section> -->
-                                                        <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="566000d1" data-element_type="section" data-settings="{'background_background':'classic'}">
-                                                            <div class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d588c7e" data-id="2d588c7e" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-30abb32a elementor-invisible elementor-widget elementor-widget-image" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646136042840/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px"><noscript><img width="700" height="500" src="/static/picture/6.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /></noscript> </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-172e7c14" data-id="172e7c14" data-element_type="column">
-                                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-783389f8 elementor-widget elementor-widget-uael-infobox" data-id="783389f8" data-element_type="widget" data-widget_type="uael-infobox.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div class="uael-module-content uael-infobox  uael-infobox-left  uael-infobox-link-type-none">
-                                                                                    <div class="uael-infobox-left-right-wrap">
-                                                                                        <div class="uael-infobox-content">
-                                                                                            <div class="uael-infobox-title-wrap">
-                                                                                                <h3 class="uael-infobox-title elementor-inline-editing" data-elementor-setting-key="infobox_title" data-elementor-inline-editing-toolbar="basic">Pedal Switch</h3>
-                                                                                            </div>
-                                                                                            <div class="uael-infobox-text-wrap">
-                                                                                                <div class="uael-infobox-text elementor-inline-editing" data-elementor-setting-key="infobox_description" data-elementor-inline-editing-toolbar="advanced">The pedal switch will be used to control the movement of the ram. And there'is emergency stop button on top of it.</div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section> -->
+
                                                         <section
                                                             class="elementor-section elementor-inner-section elementor-element elementor-element-566000d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                                             data-id="566000d1" data-element_type="section"
@@ -10608,7 +9914,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398719/1.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/1.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10692,7 +9998,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398752/2.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//2.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10767,7 +10073,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398784/3.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake/manual_crowning.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10837,7 +10143,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398806/4.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//mechanical_crowning.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10906,7 +10212,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467398840/5.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/electro_hydraulic_cnc_press_brake//5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
