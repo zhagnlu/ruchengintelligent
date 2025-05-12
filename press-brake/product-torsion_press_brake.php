@@ -8514,8 +8514,1127 @@
 
 
 
-        <?php include '../header.php'; ?>
+        
+<div component="header.php">
+    <link rel="stylesheet" type="text/css" href="/css/customer.css">
+    <script type="text/javascript" src="/js/jiaogeiwocommon.js"></script>
 
+    <div data-elementor-type="header" data-elementor-id="98"
+        class="elementor elementor-98 elementor-location-header" data-elementor-settings="[]">
+        <div class="elementor-section-wrap">
+            <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-d003c66 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="d003c66" data-element_type="section" data-settings="{"
+                background_background":"classic","sticky":"top","sticky_effects_offset":2,"sticky_on":["desktop","tablet","mobile"],"sticky_offset":0}"="">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-952ff51"
+                        data-id="952ff51" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-418bccb elementor-widget elementor-widget-image"
+                                data-id="418bccb" data-element_type="widget" data-widget_type="image.default">
+                                <div class="elementor-widget-container">
+                                    <img width="154" height="60"
+                                        src="/images/header/logo.png"
+                                        class="attachment-large size-large" alt="" loading="lazy">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-47e0e60"
+                        data-id="47e0e60" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div
+                                class="elementor-element elementor-element-269a059 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
+
+
+
+                                <div component="menus.js">
+
+                                    <div class="elementor-widget-container">
+                                        <nav migration_allowed="1" migrated="0" role="navigation"
+                                            class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+                                            <ul id="menu-1-269a059" class="elementor-nav-menu">
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-13752">
+                                                    <a href="/index.php" class="elementor-item ">Home</a>
+
+                                                </li>
+
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-13753">
+                                                    <a href="/about.php" class="elementor-item ">About Us</a>
+
+                                                </li>
+
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-object-custom menu-item-has-children menu-item-13754">
+                                                    <a href="/product.php" aria-haspopup="true"
+                                                        aria-expanded="false"
+                                                        class="elementor-item elementor-item-anchor ">Product</a>
+
+                                                    <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-14316">
+                                                            <a href="/product.php?c=press_brake"
+                                                                class="elementor-sub-item">Press Brake</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15956">
+                                                                    <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php"
+                                                                        class="elementor-sub-item">Electro-hydraulic
+                                                                        CNC Press Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15957">
+                                                                    <a href="/press-brake/product-torsion_press_brake.php"
+                                                                        class="elementor-sub-item">Torsion-synchro
+                                                                        CNC Press Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15958">
+                                                                    <a href="/press-brake/product-tandem_press_brake.php"
+                                                                        class="elementor-sub-item">Tandem Press
+                                                                        Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15959">
+                                                                    <a href="/press-brake/product-heavy_duty_press_brake.php"
+                                                                        class="elementor-sub-item">Heavy-duty Press
+                                                                        Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15960">
+                                                                    <a href="/press-brake/product-robotic_press_brake.php"
+                                                                        class="elementor-sub-item">Robotic Press
+                                                                        Brake</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
+                                                            <a href="/product.php?c=shearing_machine"
+                                                                class="elementor-sub-item">Hydraulic Shearing Machine</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
+                                                                    <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
+                                                                        class="elementor-sub-item">Swing Beam
+                                                                        Shearing Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15962">
+                                                                    <a href="/shearing-machine/product-guillotine_shearing_machine.php"
+                                                                        class="elementor-sub-item">Guillotine
+                                                                        Shearing Machine</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
+                                                            <a href="/product.php?c=laser_cutting_machine"
+                                                                class="elementor-sub-item">Fiber Laser Cutting Machine</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15963">
+                                                                    <a href="/laser-cutting-machine/product-single_table_fiber_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">T1 Single Table
+                                                                        Fiber Laser Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
+                                                                    <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">T2 Double Table
+                                                                        Fiber Laser Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15965">
+                                                                    <a href="/laser-cutting-machine/product-fully_enclosed_fiber_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">T3 Fully Enclosed
+                                                                        Laser Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
+                                                                    <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">TR1 Single Panel
+                                                                        Tube Integrated Laser Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15967">
+                                                                    <a href="/laser-cutting-machine/product-exchange_panel_tube_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">TR2 Exchange
+                                                                        Table Plate and Tube Integrated Laser
+                                                                        Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15968">
+                                                                    <a href="/laser-cutting-machine/product-full_protection_tube_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">TR3
+                                                                        Full-protection Interactive Table Panel Tube
+                                                                        Integrated Laser Cutting Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15969">
+                                                                    <a href="/laser-cutting-machine/product-tube_laser_cutting_machine.php"
+                                                                        class="elementor-sub-item">Tube Laser
+                                                                        Cutting Machine</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
+                                                            <a href="/product.php?c=plate_rolling_machine"
+                                                                class="elementor-sub-item">Plate Rolling
+                                                                Machine</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15970">
+                                                                    <a href="/rolling-machine/product-plate_rolling_machine.php"
+                                                                        class="elementor-sub-item">W11 Three-roller
+                                                                        Plate Rolling Machine</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15971">
+                                                                    <a href="/rolling-machine/product-four-roller_plate_rolling_machine.php"
+                                                                        class="elementor-sub-item">W11S Universal
+                                                                        Plate Rolling Machine</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
+                                                            <a href="/product.php?c=hand_operated_ironworker"
+                                                                class="elementor-sub-item">Hand-Operated
+                                                                Ironworker</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16459">
+                                                                    <a href="/ironworker/product-hand_operated_ironworker.php"
+                                                                        class="elementor-sub-item">Hand-Operated
+                                                                        Ironworker</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15953">
+                                                            <a href="/product.php?c=four_column_hydraulic_press"
+                                                                class="elementor-sub-item">Four-Column Hydraulic
+                                                                Press</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16460">
+                                                                    <a href="/four-column-hydraulic-press/product-four_column_hydraulic_press.php"
+                                                                        class="elementor-sub-item">Four-Column
+                                                                        Hydraulic Press</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15954">
+                                                            <a href="/product.php?c=mechanical_blade"
+                                                                class="elementor-sub-item">Mechanical Blade</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15972">
+                                                                    <a href="/mechanical-blade/product-rolling_shear_blade.php"
+                                                                        class="elementor-sub-item">Rolling Shear Slitting Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15973">
+                                                                    <a href="/mechanical-blade/product-slitting_circular_blade.php"
+                                                                        class="elementor-sub-item">Slitting round
+                                                                        blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15975">
+                                                                    <a href="/mechanical-blade/product-shearing_machine_blade.php"
+                                                                        class="elementor-sub-item">Shearing Machine
+                                                                        Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15977">
+                                                                    <a href="/mechanical-blade/product-doctor_blade.php"
+                                                                        class="elementor-sub-item">Ink Doctor
+                                                                        Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15978">
+                                                                    <a href="/mechanical-blade/product-rolling_blade.php"
+                                                                        class="elementor-sub-item">Rolled Steel
+                                                                        Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15979">
+                                                                    <a href="/mechanical-blade/product-slow_cursher_blade.php"
+                                                                        class="elementor-sub-item">Slow Shredder
+                                                                        Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15980">
+                                                                    <a href="/mechanical-blade/product-toothed_blade.php"
+                                                                        class="elementor-sub-item">Saw Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15981">
+                                                                    <a href="/mechanical-blade/product-chipper_blade.php"
+                                                                        class="elementor-sub-item">Chipper Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15982">
+                                                                    <a href="/mechanical-blade/product-corrugated_paper_cutting_blade.php"
+                                                                        class="elementor-sub-item">Corrugated Paper
+                                                                        Cutting Slitter Blade</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15983">
+                                                                    <a href="/mechanical-blade/product-crusher_blade.php"
+                                                                        class="elementor-sub-item">Crusher Blade</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15955">
+                                                            <a href="/product.php?c=bending_machine_mold"
+                                                                class="elementor-sub-item">Press Brake Tools</a>
+
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15984">
+                                                                    <a href="/bending-machine-mold/product-cnc_bending_machine_mold.php"
+                                                                        class="elementor-sub-item">Die of CNC Press
+                                                                        Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15985">
+                                                                    <a href="/bending-machine-mold/product-flattening_die_of_press_brake.php"
+                                                                        class="elementor-sub-item">Press Brake
+                                                                        Flattening Die</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15986">
+                                                                    <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
+                                                                        class="elementor-sub-item">Upper Die of
+                                                                        Press Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15987">
+                                                                    <a href="/bending-machine-mold/product-v_lower_die_of_press_brake.php"
+                                                                        class="elementor-sub-item">Single/Multi V
+                                                                        Lower Die of Press Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15988">
+                                                                    <a href="/bending-machine-mold/product-radius_die_of_press_brake.php"
+                                                                        class="elementor-sub-item">Circular Bending Die of Press
+                                                                        Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15989">
+                                                                    <a href="/bending-machine-mold/product-gooseneck_punch_of_press_brake.php"
+                                                                        class="elementor-sub-item">Gooseneck
+                                                                        Punch of Press Brake</a>
+                                                                </li>
+
+
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15990">
+                                                                    <a href="/bending-machine-mold/product-mark_free_die_of_press_brake.php"
+                                                                        class="elementor-sub-item">Mark-Free Punch of Press Brake</a>
+                                                                </li>
+
+                                                            </ul>
+
+                                                        </li>
+
+                                                    </ul>
+
+                                                </li>
+
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-13755">
+                                                    <a href="/services.php" class="elementor-item ">Services</a>
+
+                                                </li>
+
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-13756">
+                                                    <a href="/blog.php"
+                                                        class="elementor-item ">Blog</a>
+
+                                                </li>
+
+
+                                                <li
+                                                    class="menu-item menu-item-type-custom page_item menu-item-13758">
+                                                    <a href="/contact.php" class="elementor-item  "">Contact us</a>
+
+                                                    </li>
+                                                     <div id="google_translate_element"></div>
+<button id="translate-button">🌍 Language</button>
+
+<style>
+    #google_translate_element {
+        display: None;
+        position: absolute;
+        top: 40px;
+        /* 调整浮动窗口的位置 */
+        right: 0px;
+        /* 调整浮动窗口的位置 */
+        background: white;
+        border: 1px solid #ddd;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 10px;
+        z-index: 1000;
+    }
+
+    #translate-button {
+        font-size: 14px;
+        /* 调整字体大小 */
+        padding: 0px 2px;
+        /* 调整按钮内边距 */
+        border-radius: 2px;
+        /* 圆角 */
+        background-color: transparent;
+        /* 按钮背景颜色 */
+        color: black;
+        /* 文字颜色 */
+        border: none;
+        cursor: pointer;
+        line-height: 1;
+        /* display: inline-block; */
+    }
+
+    #translate-button:hover {
+        /* background-color: #0056b3; */
+        background-color: transparent
+    }
+
+    /*  隐藏 Google 翻译工具栏 */
+    .goog-te-banner-frame,
+    #goog-gt-tt,
+    .goog-te-balloon-frame {
+        display: none !important;
+    }
+
+    /* 防止 Google 翻译调整 body 样式 */
+    body {
+        top: 0px !important;
+        position: static !important;
+    }
+
+    /*  隐藏 iframe 防止 Google 翻译注入 */
+    iframe {
+        display: none !important;
+    }
+</style>
+
+<script>
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'en,zh-CN,zh-TW,zh-HK,ja,ko,th,vi,id,ms,tl,hi,bn,ur,fr,de,es,it,pt,ru,nl,ar,tr,he,fa',
+                layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+            },
+            'google_translate_element'
+        );
+
+        //  // 隐藏 Google 翻译的默认下拉框
+        //  setTimeout(() => {
+        //     const googleTranslateFrame = document.querySelector('.goog-te-menu-frame');
+        //     if (googleTranslateFrame) {
+        //         googleTranslateFrame.style.display = 'none';
+        //     }
+        // }, 1000);
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        let button = document.getElementById("translate-button");
+        let translateElement = document.getElementById("google_translate_element");
+
+        // 切换语言选择框的显示/隐藏
+        button.addEventListener("click", function() {
+            translateElement.style.display = translateElement.style.display === "none" ? "block" : "none";
+            event.stopPropagation()
+        });
+
+        // 悬停时显示语言选择框
+        button.addEventListener("mouseover", function() {
+            translateElement.style.display = "block";
+        });
+
+        // 鼠标移出按钮时，延迟隐藏，避免不小心移到旁边就消失
+        button.addEventListener("mouseleave", function() {
+            setTimeout(() => {
+                if (!translateElement.matches(":hover")) {
+                    translateElement.style.display = "none";
+                }
+            }, 300);
+        });
+
+        // 鼠标移入选择框时保持显示
+        translateElement.addEventListener("mouseover", function() {
+            translateElement.style.display = "block";
+        });
+
+        // 鼠标移出选择框时隐藏
+        translateElement.addEventListener("mouseleave", function() {
+            translateElement.style.display = "none";
+        });
+
+        // 点击页面其他地方时，隐藏翻译选择框
+        document.addEventListener("click", function(event) {
+            if (!translateElement.contains(event.target) && event.target !== button) {
+                translateElement.style.display = "none";
+            }
+        });
+
+        // 延迟执行，确保 Google 翻译下拉框加载完成
+        setTimeout(() => {
+            let select = document.querySelector(".goog-te-combo");
+            if (select) {
+                // 监听语言变化，存入 localStorage
+                select.addEventListener("change", function() {
+                    localStorage.setItem("selectedLanguage", select.value);
+                    select.dispatchEvent(new Event("change")); // 立即触发翻译
+                });
+
+                // 页面加载时恢复语言
+                let savedLang = localStorage.getItem("selectedLanguage");
+                if (savedLang) {
+                    select.value = savedLang;
+                    select.dispatchEvent(new Event("change"));
+                }
+            }
+        }, 2000);
+    });
+</script>
+
+<!-- 引入 Google 翻译 API -->
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>                                                </ul>
+                                            </nav>
+                                            <div class=" elementor-menu-toggle" role="button" tabindex="0"
+                                                        aria-label="Menu Toggle" aria-expanded="false">
+                                                        <i class="eicon-menu-bar" aria-hidden="true" role="presentation"></i>
+                                                        <span class="elementor-screen-only">Menu</span>
+                                    </div>
+                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+                                        role="navigation" aria-hidden="true">
+                                        <ul id="menu-2-269a059" class="elementor-nav-menu">
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_item menu-item-13752">
+                                                <a href="/index.php" class="elementor-item">Home</a>
+
+                                            </li>
+
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_item menu-item-13753">
+                                                <a href="/about.php" class="elementor-item">About Us</a>
+
+                                            </li>
+
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_item menu-item-object-custom menu-item-has-children menu-item-13754">
+                                                <a href="/product.php" aria-haspopup="true"
+                                                    aria-expanded="false"
+                                                    class="elementor-item elementor-item-anchor">Product</a>
+
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-14316">
+                                                        <a href="/product.php?c=press_brake"
+                                                            class="elementor-sub-item">Press Brake</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15956">
+                                                                <a href="/press-brake/product-electro_hydraulic_cnc_press_brake.php"
+                                                                    class="elementor-sub-item">Electro-hydraulic
+                                                                    CNC Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15957">
+                                                                <a href="/press-brake/product-torsion_press_brake.php"
+                                                                    class="elementor-sub-item">Torsion-synchro
+                                                                    CNC Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15958">
+                                                                <a href="/press-brake/product-tandem_press_brake.php"
+                                                                    class="elementor-sub-item">Tandem Press
+                                                                    Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15959">
+                                                                <a href="/press-brake/product-heavy_duty_press_brake.php"
+                                                                    class="elementor-sub-item">Heavy-duty Press
+                                                                    Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15960">
+                                                                <a href="/press-brake/product-robotic_press_brake.php"
+                                                                    class="elementor-sub-item">Robotic Press
+                                                                    Brake</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15316">
+                                                        <a href="/product.php?c=shearing_machine"
+                                                            class="elementor-sub-item">Hydraulic Shearing Machine</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15961">
+                                                                <a href="/shearing-machine/product-swing_beam_shearing_machine.php"
+                                                                    class="elementor-sub-item">Swing Beam
+                                                                    Shearing Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15962">
+                                                                <a href="/shearing-machine/product-guillotine_shearing_machine.php"
+                                                                    class="elementor-sub-item">Guillotine
+                                                                    Shearing Machine</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15950">
+                                                        <a href="/product.php?c=laser_cutting_machine"
+                                                            class="elementor-sub-item">Fiber Laser Cutting Machine</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15963">
+                                                                <a href="/laser-cutting-machine/product-single_table_fiber_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">T1 Single Table
+                                                                    Fiber Laser Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15964">
+                                                                <a href="/laser-cutting-machine/product-double_table_fiber_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">T2 Double Table
+                                                                    Fiber Laser Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15965">
+                                                                <a href="/laser-cutting-machine/product-fully_enclosed_fiber_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">T3 Fully Enclosed
+                                                                    Laser Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15966">
+                                                                <a href="/laser-cutting-machine/product-single_panel_tube__laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">TR1 Single Panel
+                                                                    Tube Integrated Laser Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15967">
+                                                                <a href="/laser-cutting-machine/product-exchange_panel_tube_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">TR2 Exchange
+                                                                    Table Plate and Tube Integrated Laser
+                                                                    Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15968">
+                                                                <a href="/laser-cutting-machine/product-full_protection_tube_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">TR3
+                                                                    Full-protection Interactive Table Panel Tube
+                                                                    Integrated Laser Cutting Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15969">
+                                                                <a href="/laser-cutting-machine/product-tube_laser_cutting_machine.php"
+                                                                    class="elementor-sub-item">Tube Laser
+                                                                    Cutting Machine</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15951">
+                                                        <a href="/product.php?c=plate_rolling_machine"
+                                                            class="elementor-sub-item">Plate Rolling
+                                                            Machine</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15970">
+                                                                <a href="/rolling-machine/product-plate_rolling_machine.php"
+                                                                    class="elementor-sub-item">W11 Three-roller
+                                                                    Plate Rolling Machine</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15971">
+                                                                <a href="/rolling-machine/product-four-roller_plate_rolling_machine.php"
+                                                                    class="elementor-sub-item">W11S Universal
+                                                                    Plate Rolling Machine</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15952">
+                                                        <a href="/product.php?c=hand_operated_ironworker"
+                                                            class="elementor-sub-item">Hand-Operated
+                                                            Ironworker</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16459">
+                                                                <a href="/ironworker/product-hand_operated_ironworker.php"
+                                                                    class="elementor-sub-item">Hand-Operated
+                                                                    Ironworker</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15953">
+                                                        <a href="/product.php?c=four_column_hydraulic_press"
+                                                            class="elementor-sub-item">Four-Column Hydraulic
+                                                            Press</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-16460">
+                                                                <a href="/four-column-hydraulic-press/product-four_column_hydraulic_press.php"
+                                                                    class="elementor-sub-item">Four-Column
+                                                                    Hydraulic Press</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15954">
+                                                        <a href="/product.php?c=mechanical_blade"
+                                                            class="elementor-sub-item">Mechanical Blade</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15972">
+                                                                <a href="/mechanical-blade/product-rolling_shear_blade.php"
+                                                                    class="elementor-sub-item">Rolling Shear
+                                                                    Slitting Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15973">
+                                                                <a href="/mechanical-blade/product-slitting_circular_blade.php"
+                                                                    class="elementor-sub-item">Slitting round
+                                                                    blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15975">
+                                                                <a href="/mechanical-blade/product-shearing_machine_blade.php"
+                                                                    class="elementor-sub-item">Shearing Machine
+                                                                    Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15977">
+                                                                <a href="/mechanical-blade/product-doctor_blade.php"
+                                                                    class="elementor-sub-item">Ink Doctor
+                                                                    Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15978">
+                                                                <a href="/mechanical-blade/product-rolling_blade.php"
+                                                                    class="elementor-sub-item">Rolled Steel
+                                                                    Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15979">
+                                                                <a href="/mechanical-blade/product-slow_cursher_blade.php"
+                                                                    class="elementor-sub-item">Slow Shredder
+                                                                    Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15980">
+                                                                <a href="/mechanical-blade/product-toothed_blade.php"
+                                                                    class="elementor-sub-item">Saw Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15981">
+                                                                <a href="/mechanical-blade/product-chipper_blade.php"
+                                                                    class="elementor-sub-item">Chipper Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15982">
+                                                                <a href="/mechanical-blade/product-corrugated_paper_cutting_blade.php"
+                                                                    class="elementor-sub-item">Corrugated Paper
+                                                                    Cutting Slitter Blade</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15983">
+                                                                <a href="/mechanical-blade/product-crusher_blade.php"
+                                                                    class="elementor-sub-item">Crusher Blade</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+
+                                                    <li
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-15955">
+                                                        <a href="/product.php?c=bending_machine_mold"
+                                                            class="elementor-sub-item">Press Brake Tools</a>
+
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15984">
+                                                                <a href="/bending-machine-mold/product-cnc_bending_machine_mold.php"
+                                                                    class="elementor-sub-item">Die of CNC Press
+                                                                    Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15985">
+                                                                <a href="/bending-machine-mold/product-flattening_die_of_press_brake.php"
+                                                                    class="elementor-sub-item">Press Brake
+                                                                    Flattening Die</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15986">
+                                                                <a href="/bending-machine-mold/product-upper_die_of_press_brake.php"
+                                                                    class="elementor-sub-item">Upper Die of
+                                                                    Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15987">
+                                                                <a href="/bending-machine-mold/product-v_lower_die_of_press_brake.php"
+                                                                    class="elementor-sub-item">Single/Multi V
+                                                                    Lower Die of Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15988">
+                                                                <a href="/bending-machine-mold/product-radius_die_of_press_brake.php"
+                                                                    class="elementor-sub-item">Circular Bending Die of Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15989">
+                                                                <a href="/bending-machine-mold/product-gooseneck_punch_of_press_brake.php"
+                                                                    class="elementor-sub-item">Gooseneck Punch of Press Brake</a>
+                                                            </li>
+
+
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-product menu-item-15990">
+                                                                <a href="/bending-machine-mold/product-mark_free_die_of_press_brake.php"
+                                                                    class="elementor-sub-item">Mark-Free Punch of Press Brake</a>
+                                                            </li>
+
+                                                        </ul>
+
+                                                    </li>
+
+                                                </ul>
+
+                                            </li>
+
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_item menu-item-13755">
+                                                <a href="/services.php" class="elementor-item">Services</a>
+
+                                            </li>
+
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_itemcurrent-menu-item current_page_item menu-item-13756">
+                                                <a href="/blog.php"
+                                                    class="elementor-item elementor-item-active">Blog</a>
+
+                                            </li>
+
+
+                                            <li
+                                                class="menu-item menu-item-type-custom page_item menu-item-13758">
+                                                <a href="/contact.php" class="elementor-item">Contact us</a>
+
+                                            </li>
+
+                                        </ul>
+                                    </nav>
+                                </div>
+
+
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-640b616 elementor-hidden-mobile disnone"
+                    data-id="640b616" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-95079e7 elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form"
+                            data-id="95079e7">
+                            <div class="elementor-widget-container">
+                                <form class="elementor-search-form" role="search" action="" method="get">
+                                    <div class="elementor-search-form__toggle">
+                                        <i aria-hidden="true" class="fas fa-search"></i> <span
+                                            class="elementor-screen-only">Search</span>
+                                    </div>
+                                    <div class="elementor-search-form__container">
+                                        <input placeholder="Search..." class="elementor-search-form__input"
+                                            type="search" name="s" title="Search" value="">
+                                        <div class="dialog-lightbox-close-button dialog-close-button">
+                                            <i class="eicon-close" aria-hidden="true"></i>
+                                            <span class="elementor-screen-only">Close</span>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        </section>
+    </div>
+</div>
+
+<script>
+    var $ = jQuery;
+</script>
+<script>
+    $('.elementor-menu-toggle').click(function() {
+        $(this).toggleClass('elementor-active')
+    })
+    // $(function(){
+    //     $('.elementor-menu-toggle').on('click',function(){
+    //         $(this).toggleClass('elementor-active');
+    //         $(this).next().slideToggle();
+    //     });
+    // });
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/6253cb2db0d10b6f3e6cce5d/1g0bl3c2r';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rucheng Intelligent Technology",
+  "url": "https://www.ruchengintelligent.com",
+  "logo": "https://www.ruchengintelligent.com/images/logo-no-font.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Shiqiu Industrial Zone, Lishui District",
+    "addressLocality": "Nanjing",
+    "addressRegion": "Jiangsu",
+    "postalCode": "211200",
+    "addressCountry": "China"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-400-886-6884",
+    "contactType": "Customer Support",
+    "areaServed": "Worldwide",
+    "availableLanguage": ["English", "Chinese"]
+  },
+  "sameAs": [
+    "https://www.ruchengmachine.com"
+  ]
+}
+</script>
+<!--End of Tawk.to Script-->
+</div>
 
 
 
@@ -8551,7 +9670,7 @@
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943587157/1.jpg"
+                                                                    src="/images/press_brake/torsion_press_brake//1.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8830,7 +9949,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647864794415/3.jpg?x-oss-process=style/small"
+                                                                                        src="/images/press_brake/torsion_press_brake/3.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9078,7 +10197,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647864794368/2.jpg?x-oss-process=style/small"
+                                                                                        src="/images/press_brake/torsion_press_brake/2.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9230,7 +10349,7 @@
                                                                                     <img width="1024" height="683"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt=""
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943587308/4.jpg"
+                                                                                        src="/images/press_brake/torsion_press_brake//4.jpg"
                                                                                         data-ll-status="loaded"
                                                                                         loading="lazy">
                                                                                     <div class="uael-hotspot-container"
@@ -9343,7 +10462,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1645943587351/5.jpg"
+                                                                                        src="/images/press_brake/torsion_press_brake//5.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9679,7 +10798,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887220/X1.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9797,7 +10916,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="600" height="420"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887262/X2.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X2.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 600px) 100vw, 600px"
@@ -9887,7 +11006,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645943887306/X3.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X3.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10012,7 +11131,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187198/X4.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X4.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10128,7 +11247,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187240/X5.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10221,7 +11340,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187275/X6.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X6.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10304,7 +11423,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187327/X7.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10396,7 +11515,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136187372/X8.jpg"
+                                                                                    src="/images/press_brake/torsion_press_brake//X8.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10469,7 +11588,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495549/n1.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/torsion_press_brake//n1.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10539,7 +11658,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495581/n2.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/torsion_press_brake/n2.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10607,7 +11726,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1648467495634/n3.jpg?x-oss-process=style/small"
+                                                                                    src="/images/press_brake/torsion_press_brake//n3.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10750,8 +11869,239 @@
 
 
 
-        <?php include '../footer.php'; ?>
+        <div component="footer.php">
+    <script type="text/javascript" src="/js/customer.js"></script>
 
+    <div data-elementor-type="footer" data-elementor-id="125"
+        class="elementor elementor-125 elementor-location-footer" data-elementor-settings="[]">
+        <div class="elementor-section-wrap">
+            <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-4d77cba elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="4d77cba" data-element_type="section"
+                data-settings="{'background_background':'classic'}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fb54505"
+                        data-id="fb54505" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-71adf15 elementor-widget elementor-widget-image"
+                                data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
+                                <div class="elementor-widget-container">
+                                    <img width="154" height="60"
+                                        src="/images/header/logo.png"
+                                        class="attachment-large size-large" alt="" loading="lazy">
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-9feec28 elementor-widget elementor-widget-text-editor"
+                                data-id="9feec28" data-element_type="widget"
+                                data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">Nanjing Rucheng Technology Co., Ltd. is
+                                    a modern management enterprise producing all kinds of ordinary and NC
+                                    bending machines, plate shears, laser cutting machines and supporting knives
+                                    and molds. </div>
+                            </div>
+                            <div class="elementor-element elementor-element-77f5f5f e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
+                                data-id="77f5f5f" data-element_type="widget"
+                                data-widget_type="social-icons.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-social-icons-wrapper elementor-grid">
+                                        <span class="elementor-grid-item">
+                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e1b2f61"
+                                                target="_blank"
+                                                href="https://www.facebook.com/profile.php?id=100078482187510 ">
+                                                <span class="elementor-screen-only">Facebook</span>
+                                                <i class="fab fa-facebook"></i>
+                                            </a>
+                                        </span>
+                                        <a href="/">
+                                            <span class="elementor-grid-item">
+                                            </span></a><a
+                                            class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-39c9bb5"
+                                            target="_blank" href="https://twitter.com/Ruchengchina">
+                                            <span class="elementor-screen-only">Twitter</span>
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+
+                                        <span class="elementor-grid-item">
+                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
+                                                target="_blank"
+                                                href="https://www.youtube.com/channel/UCDtDqUgMqtMIa_9HuPvajpQ  ">
+                                                <span class="elementor-screen-only">Youtube</span>
+                                                <i class="fab fa-youtube"></i>
+                                            </a>
+                                        </span>
+                                        <span class="elementor-grid-item">
+                                            <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4d9acf2"
+                                                target="_blank" href=" https://tiktok.com/@ruchengintelligent">
+                                                <span class="elementor-screen-only">Youtube</span>
+                                                <img src="/images/header/tiktok.jpg"
+                                                    alt="" height="25px" width="25px" loading="lazy">
+                                            </a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5cbb53d"
+                        data-id="5cbb53d" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-2d5bdfe elementor-widget elementor-widget-heading"
+                                data-id="2d5bdfe" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Links</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-846852a elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                data-id="846852a" data-element_type="widget" data-widget_type="divider.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-divider">
+                                        <span class="elementor-divider-separator"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-info-circle" aria-hidden="true"></i></span>
+                                        <a href="/about.php" class="elementor-icon-list-text">About</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-cogs" aria-hidden="true"></i></span>
+                                        <a href="/services.php" class="elementor-icon-list-text">Services</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-box-open" aria-hidden="true"></i></span>
+                                        <a href="/product.php" class="elementor-icon-list-text">Product</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-blog" aria-hidden="true"></i></span>
+                                        <a href="/blog.php" class="elementor-icon-list-text">Blog</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-envelope" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Contact us</a>
+                                    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f7a0449"
+                        data-id="f7a0449" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-020c361 elementor-widget elementor-widget-heading"
+                                data-id="020c361" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Services</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-7ac2431 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                data-id="7ac2431" data-element_type="widget" data-widget_type="divider.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-divider">
+                                        <span class="elementor-divider-separator"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"  data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-comments" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Pre-sales consultation</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-file-signature" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Sign contract</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Quality assurance</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-headset" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">High-quality after-sales</a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon"><i class="fas fa-users" aria-hidden="true"></i></span>
+                                        <a href="/contact.php" class="elementor-icon-list-text">Offline communication</a>
+                                    </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9815757"
+                        data-id="9815757" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-692277b elementor-widget elementor-widget-heading"
+                                data-id="692277b" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Contact Info</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-6598b92 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                data-id="6598b92" data-element_type="widget" data-widget_type="divider.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-divider">
+                                        <span class="elementor-divider-separator"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                data-id="2de5018" data-element_type="widget"
+                                data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+                                                <i aria-hidden="true" class="fas fa-map-marker-alt"></i></span>
+                                            <span class="elementor-icon-list-text">Shiqiu Industrial Zone,
+                                                Lishui District, Nanjing City, Jiangsu Province</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+                                                <i aria-hidden="true" class="fas fa-phone"></i></span>
+                                            <span class="elementor-icon-list-text">400-886-6884</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+                                                <i aria-hidden="true" class="fas fa-envelope-open"></i></span>
+                                            <span
+                                                class="elementor-icon-list-text">info@ruchengintelligent.com</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-523a6fc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="523a6fc" data-element_type="section"
+                data-settings="{'background_background':'classic'}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4057ec"
+                        data-id="f4057ec" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-5db61ff elementor-widget elementor-widget-heading"
+                                data-id="5db61ff" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default"> <a
+                                            href="privacy.php">Privacy Policy</a> &nbsp;<a
+                                            href="terms.php">Terms</a> &nbsp; Copyright @ Nanjing Rucheng
+                                        Technology Co., Ltd. All rights reserved. </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
 
 
 
