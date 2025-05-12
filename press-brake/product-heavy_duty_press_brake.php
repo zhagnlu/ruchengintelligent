@@ -8491,7 +8491,6 @@
                 return aKeys;
             }
         };
-       
     </script>
 </head>
 
@@ -8511,8 +8510,8 @@
 
 
 
-        <?php include '../header.php'; ?>
 
+        <?php include '../header.php'; ?>
 
 
 
@@ -8545,7 +8544,7 @@
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1647250202980/1.jpg"
+                                                                    src="/images/press_brake/heavy_duty_press_brake/1.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8824,7 +8823,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647250203029/2.jpg"
+                                                                                        src="/images/press_brake/heavy_duty_press_brake/2.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9072,7 +9071,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647250203069/3.jpg"
+                                                                                        src="/images/press_brake/heavy_duty_press_brake/3.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9224,7 +9223,7 @@
                                                                                     <img width="1024" height="683"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt=""
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647863915767/4.jpg?x-oss-process=style/small"
+                                                                                        src="/images/press_brake/heavy_duty_press_brake/4.jpg"
                                                                                         data-ll-status="loaded"
                                                                                         loading="lazy">
                                                                                     <div class="uael-hotspot-container"
@@ -9337,7 +9336,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647863915836/5.jpg?x-oss-process=style/small"
+                                                                                        src="/images/press_brake/heavy_duty_press_brake/5.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9673,7 +9672,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645945911333/x1.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9891,7 +9890,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645945911390/x3.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x3.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10010,7 +10009,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456878/x4.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x4.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10116,7 +10115,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456915/x5.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10214,7 +10213,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456947/x6.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x6.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10311,7 +10310,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136456985/x7.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10400,7 +10399,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1646136457017/x8.jpg"
+                                                                                    src="/images/press_brake/heavy_duty_press_brake/x8.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10540,7 +10539,6 @@
 
 
         <?php include '../footer.php'; ?>
-
 
 
 
