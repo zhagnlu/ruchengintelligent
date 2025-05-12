@@ -44,7 +44,8 @@ def download_images_from_url(page_url, output_dir="downloaded_images"):
         if not filename:
             filename = f"image_{idx}.jpg"
         if filename in filename_list:
-            filename = f"{filename}_{idx}.jpg"
+            name, ext = os.path.splitext(filename)
+            filename = f"{name}_{idx}{ext}"
         save_path = os.path.join(output_dir, filename)
         filename_list.append(filename)
         try:
