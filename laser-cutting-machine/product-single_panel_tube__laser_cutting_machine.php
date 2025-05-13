@@ -3594,7 +3594,7 @@
         }
 
         .site-footer {
-            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(https://www.adhmt.com/wp-content/uploads/2021/06/about-bg-free-img.jpg);
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url( );
             ;
             background-repeat: no-repeat;
             background-position: center center;
