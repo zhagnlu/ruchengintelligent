@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>计算器</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 0;
+      margin: 0;
+      background-color: #f8f9fa;
+      font-size: 20px;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 40px;
+    }
+    .calculators-wrapper {
+      display: flex;
+      gap: 40px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .calculator-section {
+      flex: 1;
+      min-width: 500px;
+      max-width: 600px;
+      margin-bottom: 30px;
+      padding: 40px;
+      border: 2px solid #dee2e6;
+      border-radius: 16px;
+      background-color: white;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      font-size: 22px;
+    }
+    .calculator-section h3 {
+      margin-top: 0;
+      color: #495057;
+      border-bottom: 3px solid #007BFF;
+      padding-bottom: 15px;
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+    label {
+      display: block;
+      margin-bottom: 20px;
+      font-size: 22px;
+      color: #495057;
+      font-weight: bold;
+    }
+    input, select {
+      display: block;
+      margin-bottom: 25px;
+      padding: 15px;
+      width: 100%;
+      box-sizing: border-box;
+      font-size: 22px;
+      border: 2px solid #dee2e6;
+      border-radius: 8px;
+      transition: border-color 0.3s ease;
+    }
+    input:focus, select:focus {
+      border-color: #007BFF;
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+    }
+    button {
+      padding: 18px;
+      width: 100%;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 24px;
+      font-weight: bold;
+      transition: all 0.3s ease;
+      margin-top: 10px;
+    }
+    button:hover {
+      background-color: #0056b3;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    #result, #shippingResult {
+      margin-top: 30px;
+      font-size: 22px;
+      padding: 25px;
+      border-radius: 12px;
+      background-color: #f8f9fa;
+      border: 2px solid #dee2e6;
+    }
+    .result-item {
+      margin: 15px 0;
+      padding: 12px;
+      border-bottom: 2px solid #dee2e6;
+      font-size: 22px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .result-item:last-child {
+      border-bottom: none;
+    }
+    .result-label {
+      color: #495057;
+      font-weight: bold;
+      font-size: 22px;
+    }
+    .result-value {
+      color: #007bff;
+      font-size: 22px;
+      font-weight: bold;
+    }
+    h2 {
+      text-align: center;
+      color: #495057;
+      margin-bottom: 40px;
+      font-size: 48px;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    }
+    .back-button {
+      position: fixed;
+      top: 30px;
+      left: 30px;
+      background: #007BFF;
+      color: white;
+      padding: 15px 30px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 20px;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+    }
+    .back-button:hover {
+      background: #0056b3;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    @media (max-width: 1200px) {
+      .container {
+        padding: 30px;
+      }
+      .calculator-section {
+        min-width: 400px;
+        padding: 30px;
+      }
+      h2 {
+        font-size: 40px;
+      }
+      .calculator-section h3 {
+        font-size: 28px;
+      }
+    }
+    @media (max-width: 768px) {
+      .container {
+        padding: 20px;
+      }
+      .calculator-section {
+        min-width: 100%;
+        padding: 20px;
+      }
+      h2 {
+        font-size: 36px;
+      }
+      .calculator-section h3 {
+        font-size: 24px;
+      }
+      input, select, button, .result-item {
+        font-size: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a href="cal.html" class="back-button">返回首页</a>
+  <div class="container">
+    <h2>刀片螺丝计算器</h2>
+    <div class="calculators-wrapper">
+      <div class="calculator-section">
+        <h3>价格计算</h3>
+        <label for="mValue">M:</label>
+        <select id="mValue">
+          <option value="">请选择 M 值</option>
+          <option value="18">18</option>
+          <option value="20">20</option>
+          <option value="22">22</option>
+          <option value="24">24</option>
+          <option value="27">27</option>
+          <option value="30">30</option>
+          <option value="33">33</option>
+          <option value="36">36</option>
+          <option value="39">39</option>
+          <option value="42">42</option>
+          <option value="48">48</option>
+        </select>
+
+        <label for="lValue">L:</label>
+        <input type="number" id="lValue" placeholder="Enter L" />
+
+        <label for="quantity">数量:</label>
+        <input type="number" id="quantity" placeholder="Enter Quantity" min="1" value="1" />
+
+        <label for="profitMargin">利润率 (%):</label>
+        <input type="number" id="profitMargin" placeholder="Enter Profit Margin" min="0" max="100" value="0" step="0.1" />
+
+        <button onclick="calculatePrice()">计算价格</button>
+        <div id="result"></div>
+      </div>
+
+      <div class="calculator-section">
+        <h3>邮费计算</h3>
+        <label for="province">选择省份:</label>
+        <select id="province">
+          <option value="">请选择省份</option>
+          <option value="beijing">北京</option>
+          <option value="shanghai">上海</option>
+          <option value="guangdong">广东</option>
+          <option value="jiangsu">江苏</option>
+          <option value="zhejiang">浙江</option>
+          <option value="sichuan">四川</option>
+          <option value="hubei">湖北</option>
+          <option value="fujian">福建</option>
+          <option value="shandong">山东</option>
+          <option value="henan">河南</option>
+          <option value="hebei">河北</option>
+          <option value="hunan">湖南</option>
+          <option value="anhui">安徽</option>
+          <option value="jiangxi">江西</option>
+          <option value="guangxi">广西</option>
+          <option value="yunnan">云南</option>
+          <option value="guizhou">贵州</option>
+          <option value="shanxi">山西</option>
+          <option value="shaanxi">陕西</option>
+          <option value="gansu">甘肃</option>
+          <option value="qinghai">青海</option>
+          <option value="liaoning">辽宁</option>
+          <option value="jilin">吉林</option>
+          <option value="heilongjiang">黑龙江</option>
+          <option value="hainan">海南</option>
+          <option value="chongqing">重庆</option>
+          <option value="tianjin">天津</option>
+          <option value="neimenggu">内蒙古</option>
+          <option value="ningxia">宁夏</option>
+          <option value="xinjiang">新疆</option>
+          <option value="xizang">西藏</option>
+        </select>
+
+        <label for="shippingM">M:</label>
+        <select id="shippingM">
+          <option value="">请选择 M 值</option>
+          <option value="18">18</option>
+          <option value="20">20</option>
+          <option value="22">22</option>
+          <option value="24">24</option>
+          <option value="27">27</option>
+          <option value="30">30</option>
+          <option value="33">33</option>
+          <option value="36">36</option>
+          <option value="39">39</option>
+          <option value="42">42</option>
+          <option value="48">48</option>
+        </select>
+
+        <label for="shippingL">L:</label>
+        <input type="number" id="shippingL" placeholder="Enter L" />
+
+        <label for="shippingQuantity">数量:</label>
+        <input type="number" id="shippingQuantity" placeholder="Enter Quantity" min="1" value="1" />
+
+        <button onclick="calculateShipping()">计算邮费</button>
+        <div id="shippingResult"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function calculatePrice() {
+      const m = parseFloat(document.getElementById('mValue').value);
+      const l = parseFloat(document.getElementById('lValue').value);
+      const quantity = parseInt(document.getElementById('quantity').value) || 1;
+      const profitMargin = parseFloat(document.getElementById('profitMargin').value) || 0;
+
+      if (!m || isNaN(l)) {
+        document.getElementById('result').innerText = '请选择 M 值并输入有效的 L 值';
+        return;
+      }
+
+      let price = 0;
+      let add_point = 0;
+      if (m === 18 || m === 20 || m === 22 || m === 24 ) {
+       add_point = 0.02 
+      }
+      else if ( m === 27 || m === 30) {
+        add_point = 0.03
+      }
+      else if ( m === 33 ) {
+        add_point = 0.04
+      }
+      else if ( m === 36 ) {
+        add_point = 0.05
+      }
+      else if ( m === 39 ) {
+        add_point = 0.06
+      }
+      else if (m === 42 ) {
+        add_point = 0.07
+      }
+      else if (m === 48 ) {
+        add_point = 0.08
+      } else {
+        document.getElementById('result').innerText = 'M value must be one of: 18, 20, 22, 24, 27, 30, 33, 36, 39, 42, 48.';
+        return;
+      }
+
+      const unitCost = 0.00617 * m * m * (l/1000.0 + add_point) * 0.88 * 9.5 * 0.96;
+      const unitPrice = unitCost * (1 + profitMargin / 100);
+      const totalCost = unitCost * quantity;
+      const totalPrice = unitPrice * quantity;
+      const weight = 0.00617 * m * m * (l/1000.0) * quantity;
+
+      const resultHTML = `
+        <div class="result-item">
+          <span class="result-label">单个成本:</span>
+          <span class="result-value">¥${unitCost.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">单个售价:</span>
+          <span class="result-value">¥${unitPrice.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">成本总价:</span>
+          <span class="result-value">¥${totalCost.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">销售总价:</span>
+          <span class="result-value">¥${totalPrice.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">重量:</span>
+          <span class="result-value">${weight.toFixed(2)} kg</span>
+        </div>
+      `;
+      
+      document.getElementById('result').innerHTML = resultHTML;
+    }
+
+    function calculateShipping() {
+      const province = document.getElementById('province').value;
+      const m = parseFloat(document.getElementById('shippingM').value);
+      const l = parseFloat(document.getElementById('shippingL').value);
+      const quantity = parseInt(document.getElementById('shippingQuantity').value) || 1;
+
+      if (!province) {
+        document.getElementById('shippingResult').innerText = '请选择省份';
+        return;
+      }
+
+      if (!m || isNaN(l)) {
+        document.getElementById('shippingResult').innerText = '请选择 M 值并输入有效的 L 值';
+        return;
+      }
+
+      // 基础运费计算（示例）
+      const weight = 0.00617 * m * m * (l/1000.0) * quantity;
+      let baseShippingCost = 0;
+      let add_cost = 0;
+
+      // 根据省份设置基础运费
+      switch(province) {
+        case 'jiangsu':
+        case 'zhejiang':
+        case 'shanghai':
+        case 'anhui':
+            baseShippingCost = 5;
+            add_cost = 1;
+            break;
+        case 'fujian':
+        case 'guangdong':
+        case 'jiangxi':
+        case 'shandong':
+        case 'henan':
+        case 'hebei':
+        case 'hunan':
+        case 'hubei':
+        case 'beijing':
+        case 'tianjin':
+            baseShippingCost = 6;
+            add_cost = 3;
+            break;
+        case 'yunnan':
+        case 'guizhou':
+        case 'sichuan':
+        case 'chongqing':
+        case 'shanxi':
+        case 'shaanxi':
+        case 'guangxi':
+        case 'hainan':
+        case 'liaoning':
+        case 'jilin':
+        case 'heilongjiang':
+            baseShippingCost = 8;
+            add_cost = 4;
+            break;
+        case 'gansu':
+        case 'qinghai':
+        case 'ningxia':
+        case 'neimenggu':
+            baseShippingCost = 15;
+            add_cost = 5;
+            break;
+        case 'xinjiang':
+        case 'xizang':
+            baseShippingCost = 20;
+            add_cost = 20;
+            break;
+        default:
+            baseShippingCost = 0;
+            add_cost = 0;
+      }
+
+      // 根据重量增加运费
+      const weightShippingCost = Math.ceil(weight - 1) * add_cost;
+      const totalShippingCost = baseShippingCost + weightShippingCost;
+
+      const resultHTML = `
+        <div class="result-item">
+          <span class="result-label">重量:</span>
+          <span class="result-value">${weight.toFixed(2)} kg</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">基础运费:</span>
+          <span class="result-value">¥${baseShippingCost.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">重量运费:</span>
+          <span class="result-value">¥${weightShippingCost.toFixed(2)}</span>
+        </div>
+        <div class="result-item">
+          <span class="result-label">总运费:</span>
+          <span class="result-value">¥${totalShippingCost.toFixed(2)}</span>
+        </div>
+      `;
+      
+      document.getElementById('shippingResult').innerHTML = resultHTML;
+    }
+  </script>
+</body>
+</html>
