@@ -1,5 +1,4 @@
-<!DOCTYPE html><!-- saved from url=(0063)https://www.adhmt.com/products/press-brake/robotic-press-brake/ -->
-<html lang="zh-CN" prefix="og: https://ogp.me/ns#" class="translated-ltr">
+<!DOCTYPE html> 
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -5475,13 +5474,7 @@
     <link data-minify="1" rel="stylesheet" href="/product/elementor-icons.min.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
-        @font-face {
-            font-family: eicons;
-            src: url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);
-            src: url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"), url(https://www.adhmt.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");
-            font-weight: 400;
-            font-style: normal
-        }
+         
 
         .elementor-kit-5426 {
             --e-global-color-primary: #2B4B7C;
@@ -5757,7 +5750,7 @@
 
         .elementor-3467 .elementor-element.elementor-element-5ae8d687:not(.elementor-motion-effects-element-type-background),
         .elementor-3467 .elementor-element.elementor-element-5ae8d687>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-            /* background-image: url("https://www.adhmt.com/wp-content/uploads/2021/06/blob-grad-1-1.png"); */
+             
             background-repeat: no-repeat;
         }
 
@@ -5816,7 +5809,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4ed93d92>.elementor-element-populated>.elementor-background-overlay {
-            /* background-image: url("https://www.adhmt.com/wp-content/uploads/2021/06/placeholder-25.png"); */
+             
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -5948,7 +5941,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-374dec96>.elementor-element-populated>.elementor-background-overlay {
-            /* background-image: url("https://www.adhmt.com/wp-content/uploads/2021/06/placeholder-25.png"); */
+             
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6110,7 +6103,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-5006602a>.elementor-element-populated>.elementor-background-overlay {
-            /* background-image: url("https://www.adhmt.com/wp-content/uploads/2021/06/placeholder-25.png"); */
+             
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6218,7 +6211,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4cf47740>.elementor-element-populated>.elementor-background-overlay {
-            /* background-image: url("https://www.adhmt.com/wp-content/uploads/2021/06/placeholder-25.png"); */
+             
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -9543,15 +9536,15 @@
         var astra = {
             "break_point": "921",
             "isRtl": "",
-            "edit_post_url": "https:\/\/www.adhmt.com\/wp-admin\/post.php?post={{id}}&action=edit",
-            "ajax_url": "https:\/\/www.adhmt.com\/wp-admin\/admin-ajax.php",
+             
+              
             "infinite_count": "2",
             "infinite_total": "0",
             "pagination": "number",
             "infinite_scroll_event": "scroll",
             "no_more_post_message": "No more posts to show.",
             "grid_layout": "1",
-            "site_url": "https:\/\/www.adhmt.com",
+               
             "show_comments": "Show Comments",
             "masonryEnabled": "",
             "blogMasonryBreakPoint": "921"
@@ -9594,101 +9587,13 @@
     </script>
     <script data-minify="1" src="/product/astra-addon-61b1b63650d634-24606830.js" id="astra-addon-js-js" defer=""></script>
     <script src="/product/wp-embed.min.js" id="wp-embed-js" defer=""></script>
-    <script id="uael-frontend-script-js-extra">
-        var uael_script = {
-            "ajax_url": "https:\/\/www.adhmt.com\/wp-admin\/admin-ajax.php"
-        };
-    </script>
+     
     <script src="/product/uael-frontend.min.js" id="uael-frontend-script-js" defer=""></script>
     <script src="/product/tooltipster.min.js" id="uael-hotspot-js" defer=""></script>
     <script src="/product/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js" defer=""></script>
     <script src="/product/webpack.runtime.min.js" id="elementor-webpack-runtime-js" defer=""></script>
     <script src="/product/frontend-modules.min.js" id="elementor-frontend-modules-js" defer=""></script>
-    <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = {
-            "ajaxurl": "https:\/\/www.adhmt.com\/wp-admin\/admin-ajax.php",
-            "nonce": "63b7c42d27",
-            "urls": {
-                "assets": "https:\/\/www.adhmt.com\/wp-content\/plugins\/elementor-pro\/assets\/",
-                "rest": "https:\/\/www.adhmt.com\/wp-json\/"
-            },
-            "i18n": {
-                "toc_no_headings_found": "No headings were found on this page."
-            },
-            "shareButtonsNetworks": {
-                "facebook": {
-                    "title": "Facebook",
-                    "has_counter": true
-                },
-                "twitter": {
-                    "title": "Twitter"
-                },
-                "linkedin": {
-                    "title": "LinkedIn",
-                    "has_counter": true
-                },
-                "pinterest": {
-                    "title": "Pinterest",
-                    "has_counter": true
-                },
-                "reddit": {
-                    "title": "Reddit",
-                    "has_counter": true
-                },
-                "vk": {
-                    "title": "VK",
-                    "has_counter": true
-                },
-                "odnoklassniki": {
-                    "title": "OK",
-                    "has_counter": true
-                },
-                "tumblr": {
-                    "title": "Tumblr"
-                },
-                "digg": {
-                    "title": "Digg"
-                },
-                "skype": {
-                    "title": "Skype"
-                },
-                "stumbleupon": {
-                    "title": "StumbleUpon",
-                    "has_counter": true
-                },
-                "mix": {
-                    "title": "Mix"
-                },
-                "telegram": {
-                    "title": "Telegram"
-                },
-                "pocket": {
-                    "title": "Pocket",
-                    "has_counter": true
-                },
-                "xing": {
-                    "title": "XING",
-                    "has_counter": true
-                },
-                "whatsapp": {
-                    "title": "WhatsApp"
-                },
-                "email": {
-                    "title": "Email"
-                },
-                "print": {
-                    "title": "Print"
-                }
-            },
-            "facebook_sdk": {
-                "lang": "en_US",
-                "app_id": ""
-            },
-            "lottie": {
-                "defaultAnimationUrl": "https:\/\/www.adhmt.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
-            }
-        };
-    </script>
+  
     <script src="/product/frontend.min1.js" id="elementor-pro-frontend-js" defer=""></script>
     <script src="/product/waypoints.min.js" id="elementor-waypoints-js" defer=""></script>
     <script src="/product/core.min.js" id="jquery-ui-core-js" defer=""></script>
@@ -9783,9 +9688,7 @@
                 "admin-top-bar": true,
                 "form-submissions": true
             },
-            "urls": {
-                "assets": "https:\/\/www.adhmt.com\/wp-content\/plugins\/elementor\/assets\/"
-            },
+             
             "settings": {
                 "page": [],
                 "editorPreferences": []
@@ -9856,9 +9759,9 @@
             "val_empty_blanks": "Please fill out all blanks.",
             "uuid_cookie": "1",
             "locale": "en",
-            "wpforms_plugin_url": "https:\/\/www.adhmt.com\/wp-content\/plugins\/wpforms\/",
+              
             "gdpr": "",
-            "ajaxurl": "https:\/\/www.adhmt.com\/wp-admin\/admin-ajax.php",
+              
             "mailcheck_enabled": "1",
             "mailcheck_domains": [],
             "mailcheck_toplevel_domains": ["dev"],
@@ -9882,7 +9785,7 @@
             "val_password_strength": "A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.",
             "val_phone": "Please enter a valid phone number.",
             "richtext_add_media_button": "",
-            "entry_preview_iframe_styles": ["https:\/\/www.adhmt.com\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css?ver=5.8.2", "https:\/\/www.adhmt.com\/wp-includes\/css\/dashicons.min.css?ver=5.8.2", "https:\/\/www.adhmt.com\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content.css?ver=5.8.2"]
+              
         }
         /* ]]> */
     </script>
