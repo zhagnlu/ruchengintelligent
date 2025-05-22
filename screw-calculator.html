@@ -10,56 +10,56 @@
       padding: 0;
       margin: 0;
       background-color: #f8f9fa;
-      font-size: 20px;
+      font-size: 16px;
       min-height: 100vh;
     }
     .container {
-      max-width: 1600px;
+      max-width: 1400px;
       margin: 0 auto;
-      padding: 40px;
+      padding: 30px;
     }
     .calculators-wrapper {
       display: flex;
-      gap: 40px;
+      gap: 30px;
       justify-content: center;
       flex-wrap: wrap;
     }
     .calculator-section {
       flex: 1;
-      min-width: 500px;
-      max-width: 600px;
-      margin-bottom: 30px;
-      padding: 40px;
+      min-width: 450px;
+      max-width: 550px;
+      margin-bottom: 25px;
+      padding: 30px;
       border: 2px solid #dee2e6;
-      border-radius: 16px;
+      border-radius: 12px;
       background-color: white;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      font-size: 22px;
+      font-size: 18px;
     }
     .calculator-section h3 {
       margin-top: 0;
       color: #495057;
-      border-bottom: 3px solid #007BFF;
-      padding-bottom: 15px;
-      font-size: 32px;
-      margin-bottom: 30px;
+      border-bottom: 2px solid #007BFF;
+      padding-bottom: 12px;
+      font-size: 26px;
+      margin-bottom: 25px;
     }
     label {
       display: block;
-      margin-bottom: 20px;
-      font-size: 22px;
+      margin-bottom: 15px;
+      font-size: 18px;
       color: #495057;
       font-weight: bold;
     }
     input, select {
       display: block;
-      margin-bottom: 25px;
-      padding: 15px;
+      margin-bottom: 20px;
+      padding: 12px;
       width: 100%;
       box-sizing: border-box;
-      font-size: 22px;
+      font-size: 18px;
       border: 2px solid #dee2e6;
-      border-radius: 8px;
+      border-radius: 6px;
       transition: border-color 0.3s ease;
     }
     input:focus, select:focus {
@@ -67,18 +67,39 @@
       outline: none;
       box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
     }
+    select {
+      padding: 14px;
+      font-size: 20px;
+      height: 55px;
+      background-color: white;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23495057' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      background-size: 20px;
+      padding-right: 40px;
+    }
+    select:hover {
+      border-color: #007BFF;
+    }
+    select:focus {
+      border-color: #007BFF;
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+    }
     button {
-      padding: 18px;
+      padding: 14px;
       width: 100%;
       background-color: #007BFF;
       color: white;
       border: none;
-      border-radius: 8px;
+      border-radius: 6px;
       cursor: pointer;
-      font-size: 24px;
+      font-size: 20px;
       font-weight: bold;
       transition: all 0.3s ease;
-      margin-top: 10px;
+      margin-top: 8px;
     }
     button:hover {
       background-color: #0056b3;
@@ -86,18 +107,18 @@
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
     #result, #shippingResult {
-      margin-top: 30px;
-      font-size: 22px;
-      padding: 25px;
-      border-radius: 12px;
+      margin-top: 25px;
+      font-size: 18px;
+      padding: 20px;
+      border-radius: 8px;
       background-color: #f8f9fa;
       border: 2px solid #dee2e6;
     }
     .result-item {
-      margin: 15px 0;
-      padding: 12px;
-      border-bottom: 2px solid #dee2e6;
-      font-size: 22px;
+      margin: 12px 0;
+      padding: 10px;
+      border-bottom: 1px solid #dee2e6;
+      font-size: 18px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -108,34 +129,35 @@
     .result-label {
       color: #495057;
       font-weight: bold;
-      font-size: 22px;
+      font-size: 18px;
     }
     .result-value {
       color: #007bff;
-      font-size: 22px;
+      font-size: 18px;
       font-weight: bold;
     }
     h2 {
       text-align: center;
       color: #495057;
-      margin-bottom: 40px;
-      font-size: 48px;
+      margin-bottom: 35px;
+      font-size: 36px;
       font-weight: bold;
-      text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
     }
     .back-button {
       position: fixed;
-      top: 30px;
-      left: 30px;
+      top: 25px;
+      right: 25px;
       background: #007BFF;
       color: white;
-      padding: 15px 30px;
-      border-radius: 8px;
+      padding: 12px 25px;
+      border-radius: 6px;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 16px;
       font-weight: bold;
       box-shadow: 0 4px 6px rgba(0,0,0,0.1);
       transition: all 0.3s ease;
+      z-index: 1000;
     }
     .back-button:hover {
       background: #0056b3;
@@ -144,35 +166,35 @@
     }
     @media (max-width: 1200px) {
       .container {
-        padding: 30px;
+        padding: 25px;
       }
       .calculator-section {
-        min-width: 400px;
-        padding: 30px;
+        min-width: 380px;
+        padding: 25px;
       }
       h2 {
-        font-size: 40px;
+        font-size: 32px;
       }
       .calculator-section h3 {
-        font-size: 28px;
+        font-size: 24px;
       }
     }
     @media (max-width: 768px) {
       .container {
-        padding: 20px;
+        padding: 15px;
       }
       .calculator-section {
         min-width: 100%;
         padding: 20px;
       }
       h2 {
-        font-size: 36px;
+        font-size: 28px;
       }
       .calculator-section h3 {
-        font-size: 24px;
+        font-size: 22px;
       }
       input, select, button, .result-item {
-        font-size: 20px;
+        font-size: 16px;
       }
     }
   </style>
