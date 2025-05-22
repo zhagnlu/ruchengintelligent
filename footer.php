@@ -16,7 +16,7 @@
                                 data-id="71adf15" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="154" height="60"
-                                        src="/images/header/logo.png"
+                                        src="/images/header/11.png"
                                         class="attachment-large size-large" alt="" loading="lazy">
                                 </div>
                             </div>
@@ -91,26 +91,26 @@
                             <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
                                     <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-info-circle" aria-hidden="true"></i></span>
-                                        <a href="/about.php" class="elementor-icon-list-text">About</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-cogs" aria-hidden="true"></i></span>
-                                        <a href="/services.php" class="elementor-icon-list-text">Services</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-box-open" aria-hidden="true"></i></span>
-                                        <a href="/product.php" class="elementor-icon-list-text">Product</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-blog" aria-hidden="true"></i></span>
-                                        <a href="/blog.php" class="elementor-icon-list-text">Blog</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-envelope" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">Contact us</a>
-                                    </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-info-circle" aria-hidden="true"></i></span>
+                                            <a href="/about.php" class="elementor-icon-list-text">About</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-cogs" aria-hidden="true"></i></span>
+                                            <a href="/services.php" class="elementor-icon-list-text">Services</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-box-open" aria-hidden="true"></i></span>
+                                            <a href="/product.php" class="elementor-icon-list-text">Product</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-blog" aria-hidden="true"></i></span>
+                                            <a href="/blog.php" class="elementor-icon-list-text">Blog</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-envelope" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">Contact us</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -133,29 +133,29 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"  data-element_type="widget" data-widget_type="icon-list.default">
+                            <div class="elementor-element elementor-element-2de5018 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
                                     <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-comments" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">Pre-sales consultation</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-file-signature" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">Sign contract</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">Quality assurance</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-headset" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">High-quality after-sales</a>
-                                    </li>
-                                    <li class="elementor-icon-list-item">
-                                        <span class="elementor-icon-list-icon"><i class="fas fa-users" aria-hidden="true"></i></span>
-                                        <a href="/contact.php" class="elementor-icon-list-text">Offline communication</a>
-                                    </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-comments" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">Pre-sales consultation</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-file-signature" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">Sign contract</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-certificate" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">Quality assurance</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-headset" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">High-quality after-sales</a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon"><i class="fas fa-users" aria-hidden="true"></i></span>
+                                            <a href="/contact.php" class="elementor-icon-list-text">Offline communication</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
