@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -3593,7 +3593,7 @@
         }
 
         .site-footer {
-            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url( );
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url();
             ;
             background-repeat: no-repeat;
             background-position: center center;
@@ -5478,8 +5478,6 @@
         media="all">
     <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
-         
-
         .elementor-kit-5426 {
             --e-global-color-primary: #2B4B7C;
             --e-global-color-secondary: #54595F;
@@ -5754,7 +5752,7 @@
 
         .elementor-3467 .elementor-element.elementor-element-5ae8d687:not(.elementor-motion-effects-element-type-background),
         .elementor-3467 .elementor-element.elementor-element-5ae8d687>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-             
+
             background-repeat: no-repeat;
         }
 
@@ -5813,7 +5811,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4ed93d92>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -5945,7 +5943,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-374dec96>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6107,7 +6105,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-5006602a>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6215,7 +6213,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4cf47740>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -8484,7 +8482,6 @@
                 return aKeys;
             }
         };
-      
     </script>
 </head>
 
@@ -8504,8 +8501,8 @@
 
 
 
-        <?php include '../header.php'; ?>
 
+        <?php include '../header.php'; ?>
 
 
 
@@ -8538,7 +8535,7 @@
                                                             data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <img width="1000" height="800"
-                                                                    src="//cdn.xuansiwei.com/zhang3794/1647251947378/1.jpg"
+                                                                    src="/images/shearing_machine/swing_beam_machine//1.jpg"
                                                                     class="attachment-full size-full entered lazyloaded"
                                                                     alt=""
                                                                     data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"
@@ -8816,7 +8813,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647251947424/2.jpg"
+                                                                                        src="/images/shearing_machine/swing_beam_machine//2.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9332,7 +9329,7 @@
                                                                                 <div
                                                                                     class="uael-hotspot  uael-hotspot-tooltip-yes ">
                                                                                     <img width="1024" height="683"
-                                                                                        src="//cdn.xuansiwei.com/zhang3794/1647251947579/5.jpg"
+                                                                                        src="/images/shearing_machine/swing_beam_machine//5.jpg"
                                                                                         class="attachment-large size-large entered lazyloaded"
                                                                                         alt="" data-ll-status="loaded"
                                                                                         loading="lazy">
@@ -9669,7 +9666,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948375930/x1.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//x1.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -9758,7 +9755,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="600" height="420"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1647252428028/4-2.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//4-2.jpg"
                                                                                     class="attachment-large size-large entered lazyloaded"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 600px) 100vw, 600px"
@@ -9849,7 +9846,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376022/X3.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//X3.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -9952,7 +9949,7 @@
                                                                                     class="attachment-large size-large entered exited"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1647252428073/X4.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//X4.jpg"
                                                                                     loading="lazy">
                                                                             </div>
                                                                         </div>
@@ -10070,7 +10067,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376115/X5.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//X5.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10244,7 +10241,7 @@
                                                                             data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <img width="700" height="500"
-                                                                                    src="//cdn.xuansiwei.com/zhang3794/1645948376220/X7.jpg"
+                                                                                    src="/images/shearing_machine/swing_beam_machine//X7.jpg"
                                                                                     class="attachment-large size-large"
                                                                                     alt=""
                                                                                     data-lazy-sizes="(max-width: 700px) 100vw, 700px"
@@ -10470,9 +10467,7 @@
 
 
 
-
         <?php include '../footer.php'; ?>
-
 
 
 
@@ -10496,15 +10491,15 @@
         var astra = {
             "break_point": "921",
             "isRtl": "",
-             
-              
+
+
             "infinite_count": "2",
             "infinite_total": "0",
             "pagination": "number",
             "infinite_scroll_event": "scroll",
             "no_more_post_message": "No more posts to show.",
             "grid_layout": "1",
-               
+
             "show_comments": "Show Comments",
             "masonryEnabled": "",
             "blogMasonryBreakPoint": "921"
@@ -10548,13 +10543,13 @@
     <script data-minify="1" src="/product/astra-addon-61b1b63650d634-24606830.js" id="astra-addon-js-js"
         defer=""></script>
     <script src="/product/wp-embed.min.js" id="wp-embed-js" defer=""></script>
-     
+
     <script src="/product/uael-frontend.min.js" id="uael-frontend-script-js" defer=""></script>
     <script src="/product/tooltipster.min.js" id="uael-hotspot-js" defer=""></script>
     <script src="/product/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js" defer=""></script>
     <script src="/product/webpack.runtime.min.js" id="elementor-webpack-runtime-js" defer=""></script>
     <script src="/product/frontend-modules.min.js" id="elementor-frontend-modules-js" defer=""></script>
-  
+
     <script src="/product/frontend.min1.js" id="elementor-pro-frontend-js" defer=""></script>
     <script src="/product/waypoints.min.js" id="elementor-waypoints-js" defer=""></script>
     <script src="/product/core.min.js" id="jquery-ui-core-js" defer=""></script>
@@ -10649,7 +10644,7 @@
                 "admin-top-bar": true,
                 "form-submissions": true
             },
-             
+
             "settings": {
                 "page": [],
                 "editorPreferences": []
@@ -10720,9 +10715,9 @@
             "val_empty_blanks": "Please fill out all blanks.",
             "uuid_cookie": "1",
             "locale": "en",
-              
+
             "gdpr": "",
-              
+
             "mailcheck_enabled": "1",
             "mailcheck_domains": [],
             "mailcheck_toplevel_domains": ["dev"],
@@ -10746,7 +10741,7 @@
             "val_password_strength": "A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.",
             "val_phone": "Please enter a valid phone number.",
             "richtext_add_media_button": "",
-              
+
         }
         /* ]]> */
     </script>
