@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -3593,7 +3593,7 @@
         }
 
         .site-footer {
-            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url( );
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url();
             ;
             background-repeat: no-repeat;
             background-position: center center;
@@ -5474,8 +5474,6 @@
     <link data-minify="1" rel="stylesheet" href="/product/elementor-icons.min.css" data-rocket-async="style" as="style" media="all">
     <link rel="stylesheet" href="/product/frontend.min1.css" data-rocket-async="style" as="style" media="all">
     <style id="elementor-frontend-inline-css">
-         
-
         .elementor-kit-5426 {
             --e-global-color-primary: #2B4B7C;
             --e-global-color-secondary: #54595F;
@@ -5750,7 +5748,7 @@
 
         .elementor-3467 .elementor-element.elementor-element-5ae8d687:not(.elementor-motion-effects-element-type-background),
         .elementor-3467 .elementor-element.elementor-element-5ae8d687>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-             
+
             background-repeat: no-repeat;
         }
 
@@ -5809,7 +5807,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4ed93d92>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -5941,7 +5939,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-374dec96>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6103,7 +6101,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-5006602a>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -6211,7 +6209,7 @@
         }
 
         .elementor-3467 .elementor-element.elementor-element-4cf47740>.elementor-element-populated>.elementor-background-overlay {
-             
+
             background-position: bottom left;
             background-repeat: no-repeat;
             background-size: 80% auto;
@@ -8472,7 +8470,6 @@
                 return aKeys;
             }
         };
-     
     </script>
 </head>
 
@@ -8497,7 +8494,6 @@
 
 
 
-
         <div id="content" class="site-content">
             <div class="ast-container">
                 <div id="primary" class="content-area primary">
@@ -8514,7 +8510,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-671e90da elementor-widget elementor-widget-image animated fadeIn" data-id="671e90da" data-element_type="widget" data-settings="{}" data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
-                                                                <img width="1000" height="800" src="//cdn.xuansiwei.com/zhang3794/1646309404181/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
+                                                                <img width="1000" height="800" src="/images/blade/paper_cutting/1.jpg" class="attachment-full size-full entered lazyloaded" alt="" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-ll-status="loaded" sizes="(max-width: 1000px) 100vw, 1000px" loading="lazy">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -8693,7 +8689,7 @@
                                                                         <div class="elementor-element elementor-element-1e92adac elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="1e92adac" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309404217/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="/images/blade/paper_cutting/2.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="3" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
                                                                                             <span class="uael-hotspot-main-1e92adac uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-1e92adac-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-1e92adac-0ee1d19">
@@ -8813,7 +8809,7 @@
                                                                         <div class="elementor-element elementor-element-c75a9ae elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="c75a9ae" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309404249/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="/images/blade/paper_cutting/3.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
                                                                                             <span class="uael-hotspot-main-c75a9ae uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-c75a9ae-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-c75a9ae-0ee1d19">
@@ -8889,7 +8885,7 @@
                                                                         <div class="elementor-element elementor-element-14823dfa elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="14823dfa" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="//cdn.xuansiwei.com/zhang3794/1646309404286/4.jpg" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" class="attachment-large size-large entered lazyloaded" alt="" src="/images/blade/paper_cutting/4.jpg" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="1" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
                                                                                             <span class="uael-hotspot-main-14823dfa uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-14823dfa-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-14823dfa-0ee1d19">
@@ -8941,7 +8937,7 @@
                                                                         <div class="elementor-element elementor-element-39d9dd0b elementor-widget elementor-widget-uael-hotspot animated fadeIn" data-id="39d9dd0b" data-element_type="widget" data-settings="{" _animation":"fadein","position":"top","trigger":"hover","anim_duration":{"unit":"px","size":350,"sizes":[]},"tooltip_height":{"unit":"px","size":"","sizes":[]},"tooltip_height_tablet":{"unit":"px","size":"","sizes":[]},"tooltip_height_mobile":{"unit":"px","size":"","sizes":[]}}"="" data-widget_type="uael-hotspot.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="uael-hotspot  uael-hotspot-tooltip-yes ">
-                                                                                    <img width="1024" height="683" src="//cdn.xuansiwei.com/zhang3794/1646309404318/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
+                                                                                    <img width="1024" height="683" src="/images/blade/paper_cutting/5.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-ll-status="loaded" loading="lazy">
                                                                                     <div class="uael-hotspot-container" data-side="top" data-hotspottrigger="hover" data-arrow="true" data-distance="6" data-delay="300" data-animation="fade" data-animduration="350" data-zindex="99" data-length="2" data-autoplay="" data-repeat="" data-tourinterval="4000" data-overlay="" data-autoaction="" data-hotspotviewport="90" data-tooltip-maxwidth="250" data-tooltip-minwidth="0">
                                                                                         <span class="uael-tooltip elementor-repeater-item-0ee1d19">
                                                                                             <span class="uael-hotspot-main-39d9dd0b uael-hotspot-content uael-hotspot-anim tooltipstered" id="uael-tooltip-id-39d9dd0b-1" data-uaeltour="1" data-tooltip-content="#uael-tooltip-content-39d9dd0b-0ee1d19">
@@ -9129,7 +9125,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-72fb2127 elementor-widget elementor-widget-image animated fadeIn" data-id="72fb2127" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1645964959655/xuancai.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
+                                                                                <img width="700" height="500" src="/images/blade/paper_cutting/xuancai.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-ll-status="loaded" sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9173,7 +9169,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-861c91a elementor-widget elementor-widget-image animated fadeIn" data-id="861c91a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="600" height="420" src="//cdn.xuansiwei.com/zhang3794/1645964985257/jingxindamo.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy">
+                                                                                <img width="600" height="420" src="/images/blade/paper_cutting/jingxindamo.jpg" class="attachment-large size-large entered lazyloaded" alt="" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-ll-status="loaded" sizes="(max-width: 600px) 100vw, 600px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9214,7 +9210,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-d48b1e9 elementor-widget elementor-widget-image animated fadeIn" data-id="d48b1e9" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646139413796/x3.jpg" loading="lazy">
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="/images/blade/paper_cutting/x3.jpg" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9262,7 +9258,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-794ae984 elementor-widget elementor-widget-image animated fadeIn" data-id="794ae984" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="//cdn.xuansiwei.com/zhang3794/1646139413865/x4.jpg" loading="lazy">
+                                                                                <img width="700" height="500" class="attachment-large size-large entered exited" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" src="/images/blade/paper_cutting/x4.jpg" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9310,7 +9306,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-69bde833 elementor-widget elementor-widget-image animated fadeIn" data-id="69bde833" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413924/x5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
+                                                                                <img width="700" height="500" src="/images/blade/paper_cutting/x5.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9349,7 +9345,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-740da2e8 elementor-widget elementor-widget-image animated fadeIn" data-id="740da2e8" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139413960/x6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
+                                                                                <img width="700" height="500" src="/images/blade/paper_cutting/x6.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9384,7 +9380,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-4e33a99a elementor-widget elementor-widget-image animated fadeIn" data-id="4e33a99a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414017/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
+                                                                                <img width="700" height="500" src="/images/blade/paper_cutting/x7.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9420,7 +9416,7 @@
                                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                                         <div class="elementor-element elementor-element-30abb32a elementor-widget elementor-widget-image animated fadeIn" data-id="30abb32a" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <img width="700" height="500" src="//cdn.xuansiwei.com/zhang3794/1646139414044/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
+                                                                                <img width="700" height="500" src="/images/blade/paper_cutting/x8.jpg" class="attachment-large size-large" alt="" data-lazy-sizes="(max-width: 700px) 100vw, 700px" loading="lazy">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -9513,7 +9509,6 @@
 
 
 
-
     </div>
 
     <script src="/product/8hyjuqjfcpp49kny8glii0blzfd3qebj.js" async=""></script>
@@ -9530,15 +9525,15 @@
         var astra = {
             "break_point": "921",
             "isRtl": "",
-             
-              
+
+
             "infinite_count": "2",
             "infinite_total": "0",
             "pagination": "number",
             "infinite_scroll_event": "scroll",
             "no_more_post_message": "No more posts to show.",
             "grid_layout": "1",
-               
+
             "show_comments": "Show Comments",
             "masonryEnabled": "",
             "blogMasonryBreakPoint": "921"
@@ -9581,13 +9576,13 @@
     </script>
     <script data-minify="1" src="/product/astra-addon-61b1b63650d634-24606830.js" id="astra-addon-js-js" defer=""></script>
     <script src="/product/wp-embed.min.js" id="wp-embed-js" defer=""></script>
-     
+
     <script src="/product/uael-frontend.min.js" id="uael-frontend-script-js" defer=""></script>
     <script src="/product/tooltipster.min.js" id="uael-hotspot-js" defer=""></script>
     <script src="/product/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js" defer=""></script>
     <script src="/product/webpack.runtime.min.js" id="elementor-webpack-runtime-js" defer=""></script>
     <script src="/product/frontend-modules.min.js" id="elementor-frontend-modules-js" defer=""></script>
-  
+
     <script src="/product/frontend.min1.js" id="elementor-pro-frontend-js" defer=""></script>
     <script src="/product/waypoints.min.js" id="elementor-waypoints-js" defer=""></script>
     <script src="/product/core.min.js" id="jquery-ui-core-js" defer=""></script>
@@ -9682,7 +9677,7 @@
                 "admin-top-bar": true,
                 "form-submissions": true
             },
-             
+
             "settings": {
                 "page": [],
                 "editorPreferences": []
@@ -9753,9 +9748,9 @@
             "val_empty_blanks": "Please fill out all blanks.",
             "uuid_cookie": "1",
             "locale": "en",
-              
+
             "gdpr": "",
-              
+
             "mailcheck_enabled": "1",
             "mailcheck_domains": [],
             "mailcheck_toplevel_domains": ["dev"],
@@ -9779,7 +9774,7 @@
             "val_password_strength": "A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.",
             "val_phone": "Please enter a valid phone number.",
             "richtext_add_media_button": "",
-              
+
         }
         /* ]]> */
     </script>
