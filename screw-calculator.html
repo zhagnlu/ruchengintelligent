@@ -231,6 +231,12 @@
         <label for="profitMargin">利润率 (%):</label>
         <input type="number" id="profitMargin" placeholder="Enter Profit Margin" min="0" max="100" value="0" step="0.1" />
 
+        <label for="hasNut">带螺母:</label>
+        <select id="hasNut">
+          <option value="yes">是</option>
+          <option value="no">否</option>
+        </select>
+
         <button onclick="calculatePrice()">计算价格</button>
         <div id="result"></div>
       </div>
@@ -307,6 +313,7 @@
       const l = parseFloat(document.getElementById('lValue').value);
       const quantity = parseInt(document.getElementById('quantity').value) || 1;
       const profitMargin = parseFloat(document.getElementById('profitMargin').value) || 0;
+      const hasNut = document.getElementById('hasNut').value === 'yes';
 
       if (!m || isNaN(l)) {
         document.getElementById('result').innerText = '请选择 M 值并输入有效的 L 值';
@@ -340,11 +347,47 @@
         return;
       }
 
-      const unitCost = 0.00617 * m * m * (l/1000.0 + add_point) * 0.88 * 9.5 * 0.96;
+      // 计算螺丝成本
+      const screwUnitCost = 0.00617 * m * m * (l/1000.0 + add_point) * 0.88 * 9.5 * 0.96;
+      
+      // 计算螺母成本（如果选择加螺母）
+      let nutUnitCost = 0;
+      if (hasNut) {
+        if (m === 18) {
+          nutUnitCost = 0.39
+        } else if (m === 20) {
+          nutUnitCost = 0.53
+        } else if (m === 22) {
+          nutUnitCost = 0.68 
+        } else if (m === 24) {
+          nutUnitCost = 0.86
+        } else if (m === 27) {
+          nutUnitCost = 1.37
+        } else if (m === 30) {
+          nutUnitCost = 1.68
+        } else if (m === 33) {
+          nutUnitCost = 2.3
+        } else if (m === 36) {
+          nutUnitCost = 2.94
+        } else if (m === 39) {
+          nutUnitCost = 3.74
+        } else if (m === 42) {
+          nutUnitCost = 4.6
+        } else if (m === 48) {
+          nutUnitCost = 6.7
+        }
+      }
+      
+      // 总单位成本
+      const unitCost = screwUnitCost + nutUnitCost;
       const unitPrice = unitCost * (1 + profitMargin / 100);
       const totalCost = unitCost * quantity;
       const totalPrice = unitPrice * quantity;
-      const weight = 0.00617 * m * m * (l/1000.0) * quantity;
+      
+      // 计算重量（螺丝重量 + 螺母重量）
+      const screwWeight = 0.00617 * m * m * (l/1000.0) * quantity;
+      const nutWeight = hasNut ? 0 : 0;
+      const totalWeight = screwWeight + nutWeight;
 
       const resultHTML = `
         <div class="result-item">
@@ -364,8 +407,18 @@
           <span class="result-value">¥${totalPrice.toFixed(2)}</span>
         </div>
         <div class="result-item">
-          <span class="result-label">重量:</span>
-          <span class="result-value">${weight.toFixed(2)} kg</span>
+          <span class="result-label">螺丝重量:</span>
+          <span class="result-value">${screwWeight.toFixed(2)} kg</span>
+        </div>
+        ${hasNut ? `
+        <div class="result-item">
+          <span class="result-label">螺母重量:</span>
+          <span class="result-value">${nutWeight.toFixed(2)} kg</span>
+        </div>
+        ` : ''}
+        <div class="result-item">
+          <span class="result-label">总重量:</span>
+          <span class="result-value">${totalWeight.toFixed(2)} kg</span>
         </div>
       `;
       
