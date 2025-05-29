@@ -19,5 +19,5 @@ jobs:
           username: wh-agi3sgmeuy0f01jo0h9  # 改成 FTP 用户名
           password: ${{ secrets.FTP_PASSWORD }}  # GitHub Secret 中设置
           local-dir: ./                          # 要上传的本地目录
-          server-dir: /htdocs                          # 虚拟主机上的目标目录
+          server-dir: /htdocs/                          # 虚拟主机上的目标目录S
 
