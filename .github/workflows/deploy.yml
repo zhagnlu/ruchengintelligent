@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Upload via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: wh-agi3sgmeuy0f01jo0h9.my3w.com # 改成你的阿里云虚拟主机 FTP 地址
           username: wh-agi3sgmeuy0f01jo0h9  # 改成 FTP 用户名
