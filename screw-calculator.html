@@ -386,8 +386,34 @@
       
       // 计算重量（螺丝重量 + 螺母重量）
       const screwWeight = 0.00617 * m * m * (l/1000.0) * quantity;
-      const nutWeight = hasNut ? 0 : 0;
-      const totalWeight = screwWeight + nutWeight;
+      let nutWeight = 0;
+      if (m === 12 || m=== 14 || m=== 16) {
+        nutWeight = 0.05
+      } else if (m === 18) {
+        nutWeight = 0.065
+      } else if (m === 20) {
+        nutWeight = 0.09
+      } else if (m === 22) {
+        nutWeight = 0.1
+      } else if (m === 24) {
+        nutWeight = 0.13
+      } else if (m === 27) {
+        nutWeight = 0.2
+      } else if (m === 30) {
+        nutWeight = 0.275
+      } else if (m === 33) {
+        nutWeight = 0.35
+      } else if (m === 36) {
+        nutWeight = 0.45
+      } else if (m === 39) {
+        nutWeight = 0.585
+      } else if (m === 42) {
+        nutWeight = 0.645
+      } else if (m === 48) {
+        nutWeight = 1
+      }
+      nutWeight = hasNut ? nutWeight * quantity : 0;
+      const totalWeight = screwWeight + nutWeight ;
 
       const resultHTML = `
         <div class="result-item">
@@ -443,6 +469,34 @@
 
       // 基础运费计算（示例）
       const weight = 0.00617 * m * m * (l/1000.0) * quantity;
+      let nutWeight = 0;
+      if (m === 12 || m=== 14 || m=== 16) {
+        nutWeight = 0.05
+      } else if (m === 18) {
+        nutWeight = 0.065
+      } else if (m === 20) {
+        nutWeight = 0.09
+      } else if (m === 22) {
+        nutWeight = 0.1
+      } else if (m === 24) {
+        nutWeight = 0.13
+      } else if (m === 27) {
+        nutWeight = 0.2
+      } else if (m === 30) {
+        nutWeight = 0.275
+      } else if (m === 33) {
+        nutWeight = 0.35
+      } else if (m === 36) {
+        nutWeight = 0.45
+      } else if (m === 39) {
+        nutWeight = 0.585
+      } else if (m === 42) {
+        nutWeight = 0.645
+      } else if (m === 48) {
+        nutWeight = 1 
+      }
+      const totalWeight = weight + nutWeight * quantity;
+      
       let baseShippingCost = 0;
       let add_cost = 0;
 
@@ -500,13 +554,13 @@
       }
 
       // 根据重量增加运费
-      const weightShippingCost = Math.ceil(weight - 1) * add_cost;
+      const weightShippingCost = Math.ceil(totalWeight - 1) * add_cost;
       const totalShippingCost = baseShippingCost + weightShippingCost;
 
       const resultHTML = `
         <div class="result-item">
           <span class="result-label">重量:</span>
-          <span class="result-value">${weight.toFixed(2)} kg</span>
+          <span class="result-value">${totalWeight.toFixed(2)} kg</span>
         </div>
         <div class="result-item">
           <span class="result-label">基础运费:</span>
