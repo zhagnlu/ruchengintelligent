@@ -209,6 +209,9 @@
         <label for="mValue">M:</label>
         <select id="mValue">
           <option value="">请选择 M 值</option>
+          <option value="12">12</option>
+          <option value="14">14</option>
+          <option value="16">16</option>
           <option value="18">18</option>
           <option value="20">20</option>
           <option value="22">22</option>
@@ -282,6 +285,9 @@
         <label for="shippingM">M:</label>
         <select id="shippingM">
           <option value="">请选择 M 值</option>
+          <option value="12">12</option>
+          <option value="14">14</option>
+          <option value="16">16</option>
           <option value="18">18</option>
           <option value="20">20</option>
           <option value="22">22</option>
@@ -322,7 +328,7 @@
 
       let price = 0;
       let add_point = 0;
-      if (m === 18 || m === 20 || m === 22 || m === 24 ) {
+      if (m === 18 || m === 20 || m === 22 || m === 24 || m === 14 || m === 16 || m === 12) {
        add_point = 0.02 
       }
       else if ( m === 27 || m === 30) {
@@ -353,7 +359,13 @@
       // 计算螺母成本（如果选择加螺母）
       let nutUnitCost = 0;
       if (hasNut) {
-        if (m === 18) {
+        if (m === 12) {
+          nutUnitCost = 0.17
+        } else if (m === 14) {
+          nutUnitCost = 0.22
+        } else if (m === 16) {
+          nutUnitCost = 0.28
+        } else if (m === 18) {
           nutUnitCost = 0.39
         } else if (m === 20) {
           nutUnitCost = 0.53
