@@ -2,15 +2,15 @@
   RewriteEngine On
   
   # 仅处理 JPG/JPEG/PNG 请求，且浏览器支持 WebP
-  RewriteCond %{REQUEST_URI} \.(jpe?g|png)$ [NC]
+  RewriteCond %{REQUEST_URI} \.(jpeg|jpg|png)$ [NC]
   RewriteCond %{HTTP_ACCEPT} image/webp [NC]
   RewriteCond %{REQUEST_FILENAME}.webp -f
-  RewriteRule ^(.*)\.(jpe?g|png)$ $1.webp [T=image/webp,L]
+  RewriteRule ^(.*)\.(jpeg|jpg|png)$ $1.webp [T=image/webp,L]
 </IfModule>
 
 <IfModule mod_headers.c>
   # 始终为图像添加 Vary: Accept 头（无论是否转换）
-  <FilesMatch "\.(jpe?g|png|webp)$">
+  <FilesMatch "\.(jpeg|jpg|png|webp)$">
     Header set Cache-Control "public, max-age=31536000"
   </FilesMatch>
 </IfModule>
