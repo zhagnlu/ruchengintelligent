@@ -1,22 +1,20 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
-
+  
   # 仅处理 JPG/JPEG/PNG 请求，且浏览器支持 WebP
   RewriteCond %{REQUEST_URI} \.(jpe?g|png)$ [NC]
   RewriteCond %{HTTP_ACCEPT} image/webp [NC]
-  RewriteCond %{REQUEST_FILENAME}.webp -f
-  RewriteRule ^(.*)\.(jpe?g|png)$ $1.webp [T=image/webp,L]
+  RewriteCond %{DOCUMENT_ROOT}/%1.webp -f  # 关键修改：检查 /目录/原图名.webp
+  RewriteRule ^(.*)\.(jpe?g|png)$ %1.webp [T=image/webp,L]  # 关键修改：重写为 %1.webp
 </IfModule>
 
 <IfModule mod_headers.c>
   # 始终为图像添加 Vary: Accept 头（无论是否转换）
   <FilesMatch "\.(jpe?g|png|webp)$">
-    Header set Vary "Accept"
+    Header set Cache-Control "public, max-age=31536000"
   </FilesMatch>
-  Header set X-Custom-Header "Hello from mod_headers"
 </IfModule>
 
 <IfModule mod_mime.c>
   AddType image/webp .webp
-  AddType text/plain .txt
 </IfModule>
