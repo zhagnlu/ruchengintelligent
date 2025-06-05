@@ -4,8 +4,8 @@
   # 仅处理 JPG/JPEG/PNG 请求，且浏览器支持 WebP
   RewriteCond %{REQUEST_URI} \.(jpe?g|png)$ [NC]
   RewriteCond %{HTTP_ACCEPT} image/webp [NC]
-  RewriteCond %{DOCUMENT_ROOT}/%1.webp -f  # 关键修改：检查 /目录/原图名.webp
-  RewriteRule ^(.*)\.(jpe?g|png)$ %1.webp [T=image/webp,L]  # 关键修改：重写为 %1.webp
+  RewriteCond %{REQUEST_FILENAME}.webp -f
+  RewriteRule ^(.*)\.(jpe?g|png)$ $1.webp [T=image/webp,L]
 </IfModule>
 
 <IfModule mod_headers.c>
