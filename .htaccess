@@ -13,8 +13,10 @@
   <FilesMatch "\.(jpe?g|png|webp)$">
     Header set Vary "Accept"
   </FilesMatch>
+  Header set X-Custom-Header "Hello from mod_headers"
 </IfModule>
 
 <IfModule mod_mime.c>
   AddType image/webp .webp
+  AddType text/plain .txt
 </IfModule>
