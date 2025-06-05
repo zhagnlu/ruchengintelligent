@@ -1,14 +1,18 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
+  # 仅处理 JPG/JPEG/PNG 请求，且浏览器支持 WebP
   RewriteCond %{REQUEST_URI} \.(jpe?g|png)$ [NC]
-  RewriteCond %{HTTP_ACCEPT} image/webp
+  RewriteCond %{HTTP_ACCEPT} image/webp [NC]
   RewriteCond %{REQUEST_FILENAME}.webp -f
-  RewriteRule ^(.*)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1,L]
+  RewriteRule ^(.*)\.(jpe?g|png)$ $1.webp [T=image/webp,L]
 </IfModule>
 
 <IfModule mod_headers.c>
-  Header append Vary Accept env=REDIRECT_accept
+  # 始终为图像添加 Vary: Accept 头（无论是否转换）
+  <FilesMatch "\.(jpe?g|png|webp)$">
+    Header set Vary "Accept"
+  </FilesMatch>
 </IfModule>
 
 <IfModule mod_mime.c>
