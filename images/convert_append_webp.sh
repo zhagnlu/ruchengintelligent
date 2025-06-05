@@ -12,7 +12,8 @@ command -v cwebp >/dev/null 2>&1 || {
 # 遍历每种扩展名
 for ext in "${EXTENSIONS[@]}"; do
     find . -type f -iname "*.${ext}" | while read -r img; do
-        webp="${img}.webp"
+        # 去除扩展名生成 .webp 文件名
+        webp="${img%.*}.webp"
         if [[ -f "$webp" ]]; then
             echo "已存在，跳过: $webp"
         else
