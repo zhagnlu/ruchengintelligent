@@ -24,7 +24,7 @@ function isActive($page)
                                 data-id="418bccb" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img width="154" height="60"
-                                        src="/images/header/logo.png"
+                                        src="/images/header/logo1.png"
                                         class="attachment-large size-large" alt="" loading="lazy">
                                 </div>
                             </div>
@@ -957,31 +957,31 @@ function isActive($page)
 </script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Rucheng Intelligent Technology",
-  "url": "https://www.ruchengintelligent.com",
-  "logo": "https://www.ruchengintelligent.com/images/logo-no-font.jpg",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Shiqiu Industrial Zone, Lishui District",
-    "addressLocality": "Nanjing",
-    "addressRegion": "Jiangsu",
-    "postalCode": "211200",
-    "addressCountry": "China"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+86-400-886-6884",
-    "contactType": "Customer Support",
-    "areaServed": "Worldwide",
-    "availableLanguage": ["English", "Chinese"]
-  },
-  "sameAs": [
-    "https://www.ruchengmachine.com"
-  ]
-}
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Rucheng Intelligent Technology",
+        "url": "https://www.ruchengintelligent.com",
+        "logo": "https://www.ruchengintelligent.com/images/logo-no-font.jpg",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Shiqiu Industrial Zone, Lishui District",
+            "addressLocality": "Nanjing",
+            "addressRegion": "Jiangsu",
+            "postalCode": "211200",
+            "addressCountry": "China"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+86-400-886-6884",
+            "contactType": "Customer Support",
+            "areaServed": "Worldwide",
+            "availableLanguage": ["English", "Chinese"]
+        },
+        "sameAs": [
+            "https://www.ruchengmachine.com"
+        ]
+    }
 </script>
 <!--End of Tawk.to Script-->
 </div>
