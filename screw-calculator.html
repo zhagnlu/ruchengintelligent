@@ -282,31 +282,6 @@
           <option value="xizang">西藏</option>
         </select>
 
-        <label for="shippingM">M:</label>
-        <select id="shippingM">
-          <option value="">请选择 M 值</option>
-          <option value="12">12</option>
-          <option value="14">14</option>
-          <option value="16">16</option>
-          <option value="18">18</option>
-          <option value="20">20</option>
-          <option value="22">22</option>
-          <option value="24">24</option>
-          <option value="27">27</option>
-          <option value="30">30</option>
-          <option value="33">33</option>
-          <option value="36">36</option>
-          <option value="39">39</option>
-          <option value="42">42</option>
-          <option value="48">48</option>
-        </select>
-
-        <label for="shippingL">L:</label>
-        <input type="number" id="shippingL" placeholder="Enter L" />
-
-        <label for="shippingQuantity">数量:</label>
-        <input type="number" id="shippingQuantity" placeholder="Enter Quantity" min="1" value="1" />
-
         <button onclick="calculateShipping()">计算邮费</button>
         <div id="shippingResult"></div>
       </div>
@@ -465,9 +440,10 @@
 
     function calculateShipping() {
       const province = document.getElementById('province').value;
-      const m = parseFloat(document.getElementById('shippingM').value);
-      const l = parseFloat(document.getElementById('shippingL').value);
-      const quantity = parseInt(document.getElementById('shippingQuantity').value) || 1;
+      const m = parseFloat(document.getElementById('mValue').value);
+      const l = parseFloat(document.getElementById('lValue').value);
+      const quantity = parseInt(document.getElementById('quantity').value) || 1;
+      const hasNut = document.getElementById('hasNut').value === 'yes';
 
       if (!province) {
         document.getElementById('shippingResult').innerText = '请选择省份';
@@ -507,7 +483,8 @@
       } else if (m === 48) {
         nutWeight = 1 
       }
-      const totalWeight = weight + nutWeight * quantity;
+      nutWeight = hasNut ? nutWeight * quantity : 0;
+      const totalWeight = weight + nutWeight;
       
       let baseShippingCost = 0;
       let add_cost = 0;
@@ -571,7 +548,17 @@
 
       const resultHTML = `
         <div class="result-item">
-          <span class="result-label">重量:</span>
+          <span class="result-label">螺丝重量:</span>
+          <span class="result-value">${weight.toFixed(2)} kg</span>
+        </div>
+        ${hasNut ? `
+        <div class="result-item">
+          <span class="result-label">螺母重量:</span>
+          <span class="result-value">${nutWeight.toFixed(2)} kg</span>
+        </div>
+        ` : ''}
+        <div class="result-item">
+          <span class="result-label">总重量:</span>
           <span class="result-value">${totalWeight.toFixed(2)} kg</span>
         </div>
         <div class="result-item">
